@@ -1,0 +1,9 @@
+openai
+feedparser
+dotenv
+json5
+PyPDF2
+pdfplumber
+rapidfuzz
+aiohttp
+regex

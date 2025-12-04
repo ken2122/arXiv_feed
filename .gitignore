@@ -1,0 +1,39 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+*.log
+
+# Virtual environment
+venv/
+.env
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+
+# ==========================
+# Project-specific
+# ==========================
+
+# Data
+data/log/
+debug
+
+# Outputs
+data/md/
+
+# Requests / Results / Temp
+*.jsonl
+*.tmp
+
+# VSCode settings
+.vscode/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
