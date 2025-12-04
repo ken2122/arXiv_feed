@@ -22,14 +22,14 @@ venv/
 
 # Data
 data/json/feed/*
+!data/json/feed/.gitkeep
 data/log/*
+!data/log/.gitkeep
 data/md/*
+!data/md/.gitkeep
 
 # Debug
 debug
-
-# Outputs
-data/md/
 
 # Requests / Results / Temp
 *.jsonl
