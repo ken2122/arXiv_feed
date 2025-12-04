@@ -20,19 +20,13 @@ venv/
 # Project-specific
 # ==========================
 
-# Data
-data/json/feed/*
-!data/json/feed/.gitkeep
-data/log/*
-!data/log/.gitkeep
-data/md/*
-!data/md/.gitkeep
-
 # Debug
 debug
 
-# Requests / Results / Temp
-*.jsonl
+# TEX
+data/log/failed_tex
+
+Temp
 *.tmp
 
 # VSCode settings

@@ -10,19 +10,19 @@ from utils.utils import load_state
 
 
 if __name__ == "__main__":
-    # feed , new_run = fetch_arxiv_papers()
-    # filtered_feed = filter_papers_by_keywords(feed)
+    feed , new_run = fetch_arxiv_papers()
+    filtered_feed = filter_papers_by_keywords(feed)
 
-    # save_feed(filtered_feed, new_run)
-    # save_meta_requests(filtered_feed, new_run)
-    # blocks = asyncio.run(async_main_institutions(filtered_feed))
-    # save_institutions_requests(blocks, new_run)
+    save_feed(filtered_feed, new_run)
+    save_meta_requests(filtered_feed, new_run)
+    blocks = asyncio.run(async_main_institutions(filtered_feed))
+    save_institutions_requests(blocks, new_run)
 
-    new_run = load_state()
+    # new_run = load_state()
     with open(f"data/json/feed/feed_{new_run}.jsonl", "r", encoding="utf-8") as f:
         feedLines = f.readlines()
-    # create_openAI_outputs(f"institutions_{new_run}")
-    # create_openAI_outputs(f"metas_{new_run}")
+    create_openAI_outputs(f"institutions_{new_run}")
+    create_openAI_outputs(f"metas_{new_run}")
 
     insts = load_openAI_outputs(f"institutions_{new_run}")
     metas = load_openAI_outputs(f"metas_{new_run}")
