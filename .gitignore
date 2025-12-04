@@ -21,7 +21,11 @@ venv/
 # ==========================
 
 # Data
-data/log/
+data/json/feed/*
+data/log/*
+data/md/*
+
+# Debug
 debug
 
 # Outputs
