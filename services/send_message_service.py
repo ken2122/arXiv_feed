@@ -6,7 +6,7 @@ from utils.utils import chunker
 CHAT_URL = settings.CHAT_URL
 CHAT_TOKEN = settings.CHAT_TOKEN
 CHAT_USER_ID = settings.CHAT_USER_ID
-CHANNEL = settings.CHANNEL
+ROOM_ID = settings.ROOM_ID
 
 
 # ----------------------------------
@@ -26,7 +26,7 @@ def send_message(md_texts, date_str):
         # ① スレッド開始（date_str を投稿）
         # ==============================
         payload_first = {
-            "roomId": "693afcb09b3c65a274a21713",
+            "roomId": ROOM_ID,
             "text": date_str
         }
 
