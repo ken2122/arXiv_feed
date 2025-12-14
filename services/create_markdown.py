@@ -33,6 +33,7 @@ def save_markdown(feedLines, metas, insts, new_run):
 
         # ---- Markdown 出力 ----
         content = f"""# {title}
+{link}
 
 ## institutions
 {inst_block}
@@ -47,8 +48,6 @@ def save_markdown(feedLines, metas, insts, new_run):
 
 ## categories
 {categories}
-
-## link: {link}
 
 """
 

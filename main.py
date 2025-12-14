@@ -5,7 +5,7 @@ from services.LaTeX_service import async_main_institutions
 from jobs.create_requests import save_meta_requests, save_institutions_requests
 from jobs.save_feed import save_feed
 from services.create_markdown import save_markdown
-from services.slack_service import send_slack_message
+from services.slack_service import send_message
 from utils.utils import load_state
 
 
@@ -28,4 +28,4 @@ if __name__ == "__main__":
     metas = load_openAI_outputs(f"metas_{new_run}")
 
     md_texts = save_markdown(feedLines, metas, insts, new_run)
-    send_slack_message(md_texts)
+    send_message(md_texts, new_run)
