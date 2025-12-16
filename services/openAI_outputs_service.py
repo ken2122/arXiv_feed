@@ -41,7 +41,7 @@ def create_openAI_outputs(fileName):
             print("Batch failed.")
             break
 
-        time.sleep(10)
+        time.sleep(120)
 
 def load_openAI_outputs(fileName):
     results = {}
