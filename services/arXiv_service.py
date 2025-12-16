@@ -4,6 +4,7 @@ import json
 from datetime import datetime
 import requests
 import feedparser
+from typing import Pattern
 from utils.utils import load_state
 
 CATEGORIES = {
@@ -23,11 +24,12 @@ CATEGORIES = {
 
 KEYWORDS = [
     # === Core Web3 ===
-    "blockchain", "distributed ledger", "decentralized ledger", "web3",
-    "on-chain", "off-chain", "smart contract",
+    "blockchain", "distributed ledger", "decentralized ledger",
+    "web3", "Web3.0", "on-chain", "off-chain", "smart contract",
 
     # === Protocol / Architecture ===
-    "layer-2", "L2", "rollup", "optimistic rollup", "zk-rollup",
+    "layer1", "layer-1", "L1", "layer2", "layer-2", "L2",
+    "rollup", "optimistic rollup", "zk-rollup",
     "state channel", "plasma",
     "data availability", "DA layer",
     "execution layer", "settlement layer",
@@ -43,7 +45,7 @@ KEYWORDS = [
 
     # === Cryptography (Web3 Context) ===
     "zero-knowledge", "zkSNARK", "zkSTARK",
-    "zk", "arithmetic circuit",
+    "zk", "zkp", "arithmetic circuit",
     "polynomial commitment", "KZG commitment",
     "multi-party computation", "MPC",
     "post-quantum", "PQC", "quantum-resistant",
@@ -110,17 +112,35 @@ def fetch_arxiv_papers():
 # Filtering
 # ===============================
 
+def keyword_to_regex(keyword: str) -> Pattern:
+    """
+    キーワードを検索用regexに変換
+    """
+    kw = keyword.strip()
+
+    # - _ space を同一視
+    escaped = re.escape(kw)
+    pattern = re.sub(
+        r"(\\-|_|\\\s)+",
+        r"[-_\\s]+",
+        escaped
+    )
+    if (len(kw)) >= 5:
+        return re.compile(pattern, re.IGNORECASE)
+    else:
+        return re.compile(rf"\b{pattern}\b", re.IGNORECASE)
+
 def filter_papers_by_keywords(entries):
     results = []
 
     # 単語境界の正規表現パターンを事前に作成
-    patterns = [re.compile(rf"\b{re.escape(k)}\b", re.IGNORECASE) for k in KEYWORDS]
+    patterns = [keyword_to_regex(k) for k in KEYWORDS]
 
     for entry in entries:
         # -----------------------------
         # ① カテゴリ(term) の抽出
         # -----------------------------
-        tags = [t.term for t in entry.tags] if hasattr(entry, "tags") else []
+        tags = [t.term for t in entry["tags"]] if hasattr(entry, "tags") else []
 
         # -----------------------------
         # ② # 条件
@@ -138,8 +158,7 @@ def filter_papers_by_keywords(entries):
         # -----------------------------
         # ③ キーワードフィルタ
         # -----------------------------
-        text = (entry.title + " " + entry.summary)
-
+        text = (entry["title"] + " " + entry["summary"])
         if any(p.search(text) for p in patterns):
             results.append(entry)
 
