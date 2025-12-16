@@ -8,62 +8,64 @@ from utils.utils import load_state
 
 CATEGORIES = {
     "to_filter": [
-        "quant-ph",
+        "cs.NI",
+        "cs.LO",
+        "cs.GT",
         "math.NT",
-        "q-fin.EC",
-        "q-fin.TR",
-        "q-fin.PR",
-        "q-fin.ST",
-        "q-fin.MF",
+        "q-fin.TR"
     ],
     "no_filter": [
         "cs.CR",
-        "cs.DC",
-        "cs.NI",
+        "cs.DC"
     ]
 }
 
 
 KEYWORDS = [
+    # === Core Web3 ===
     "blockchain", "distributed ledger", "decentralized ledger", "web3",
-    "on-chain", "off-chain", "smart contract", "cryptocurrency", "cryptoasset",
-    "token", "tokenomics", "consensus", "proof-of-work", "proof-of-stake",
-    "validator", "finality", "Byzantine", "Byzantine fault tolerant",
-    "zero-knowledge", "zk", "zkSNARK", "zkSTARK", "multi-party computation", "MPC",
+    "on-chain", "off-chain", "smart contract",
 
-    "defi", "decentralized finance", "decentralised finance",
-    "dex", "amm", "automated market maker", "yield farming",
-    "liquidity mining", "liquidity provider",
-    "mev", "miner extractable value", "maximal extractable value",
-    "liquidation", "stablecoin", "oracle", "staking",
-    "liquid staking", "re-staking", "bridge", "cross-chain",
-    "lending protocol", "borrowing protocol",
+    # === Protocol / Architecture ===
+    "layer-2", "L2", "rollup", "optimistic rollup", "zk-rollup",
+    "state channel", "plasma",
+    "data availability", "DA layer",
+    "execution layer", "settlement layer",
+    "blockchain protocol", "consensus protocol",
+    "fork-choice rule", "finality gadget",
 
-    "token design", "token mechanism", "mechanism design",
-    "incentive mechanism", "incentive compatibility",
-    "auction", "game-theoretic", "game theory",
-    "equilibrium", "nash equilibrium",
-    "staking model", "consensus market model",
-    "security budget", "slashing",
+    # === Consensus / Security ===
+    "proof-of-work", "proof-of-stake",
+    "validator set", "slashing condition",
+    "Byzantine fault tolerant", "Sybil attack", "51% attack",
+    "long-range attack", "nothing at stake", "grinding attack",
+    "economic security", "cryptoeconomic",
 
-    "cryptographic", "cryptography", "post-quantum", "PQC",
-    "lattice", "LWE", "RLWE", "homomorphic", "FHE",
-    "secure multi-party computation",
+    # === Cryptography (Web3 Context) ===
+    "zero-knowledge", "zkSNARK", "zkSTARK",
+    "zk", "arithmetic circuit",
+    "polynomial commitment", "KZG commitment",
+    "multi-party computation", "MPC",
+    "post-quantum", "PQC", "quantum-resistant",
+    "Fully Homomorphic Encryption", "FHE",
 
-    "zero-knowledge proof", "polynomial commitment",
-    "KZG commitment", "sum-check", "Plonk", "Halo",
+    # === DeFi / Mechanism ===
+    "decentralized finance", "defi",
+    "dex", "automated market maker", "amm",
+    "liquidity mining", "staking reward",
+    "governance token", "tokenomics",
+    "mechanism design", "incentive compatibility",
 
-    "quantum-resistant", "quantum safe", "quantum attack",
-    "Shor", "Grover",
+    # === Smart Contract / Verification ===
+    "smart contract security",
+    "formal verification", "model checking",
+    "reentrancy", "gas optimization",
 
-    "elliptic curve", "elliptic curve cryptography",
-    "ECC", "number theoretic transform", "NTT",
-    "finite field", "modular arithmetic",
-
-    "distributed system", "distributed consensus", "p2p",
-    "peer-to-peer", "Sybil attack", "51% attack",
-    "censorship resistance", "fork choice",
-    "network latency", "adversarial model"
+    # === Ecosystem / Real Systems ===
+    "Ethereum", "EVM", "Solidity",
+    "Bitcoin", "Lightning Network",
+    "Cosmos", "IBC",
+    "Polkadot", "Substrate",
 ]
 
 def to_datetime(dt):
