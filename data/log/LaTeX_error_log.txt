@@ -487,3 +487,80 @@ tarfile.ReadError: file could not be opened successfully:
 
 url:https://arxiv.org/abs/2512.02822v2
 --------------------------------------------------------------------------------
+concurrent.futures.process._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/Users/hidakakengo/.pyenv/versions/3.11.0/lib/python3.11/concurrent/futures/process.py", line 256, in _process_worker
+    r = call_item.fn(*call_item.args, **call_item.kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hidakakengo/feedArXiv/services/LaTeX_service.py", line 165, in extract_tar_from_path
+    with tarfile.open(path, "r:*") as tar:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hidakakengo/.pyenv/versions/3.11.0/lib/python3.11/tarfile.py", line 1639, in open
+    raise ReadError(f"file could not be opened successfully:\n{error_msgs_summary}")
+tarfile.ReadError: file could not be opened successfully:
+- method gz: ReadError('not a gzip file')
+- method bz2: ReadError('not a bzip2 file')
+- method xz: ReadError('not an lzma file')
+- method tar: ReadError('invalid header')
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/hidakakengo/feedArXiv/services/LaTeX_service.py", line 269, in fetch_institutions_async
+    files = await download_and_extract(entry, session, executor)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hidakakengo/feedArXiv/services/LaTeX_service.py", line 204, in download_and_extract
+    files = await loop.run_in_executor(executor, extract_tar_from_path, tmp_path)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tarfile.ReadError: file could not be opened successfully:
+- method gz: ReadError('not a gzip file')
+- method bz2: ReadError('not a bzip2 file')
+- method xz: ReadError('not an lzma file')
+- method tar: ReadError('invalid header')
+
+url:https://arxiv.org/abs/2512.14330v1
+--------------------------------------------------------------------------------
+concurrent.futures.process._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/Users/hidakakengo/.pyenv/versions/3.11.0/lib/python3.11/concurrent/futures/process.py", line 256, in _process_worker
+    r = call_item.fn(*call_item.args, **call_item.kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hidakakengo/feedArXiv/services/LaTeX_service.py", line 228, in extract_institutions_from_all_tex
+    raise LatexExtractionError(
+services.LaTeX_service.LatexExtractionError: No affiliation blocks found in any .tex files
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/hidakakengo/feedArXiv/services/LaTeX_service.py", line 273, in fetch_institutions_async
+    institutions = await loop.run_in_executor(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+services.LaTeX_service.LatexExtractionError: No affiliation blocks found in any .tex files
+
+url:https://arxiv.org/abs/2512.13871v1
+--------------------------------------------------------------------------------
+concurrent.futures.process._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/Users/hidakakengo/.pyenv/versions/3.11.0/lib/python3.11/concurrent/futures/process.py", line 256, in _process_worker
+    r = call_item.fn(*call_item.args, **call_item.kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hidakakengo/feedArXiv/services/LaTeX_service.py", line 228, in extract_institutions_from_all_tex
+    raise LatexExtractionError(
+services.LaTeX_service.LatexExtractionError: No affiliation blocks found in any .tex files
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/hidakakengo/feedArXiv/services/LaTeX_service.py", line 273, in fetch_institutions_async
+    institutions = await loop.run_in_executor(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+services.LaTeX_service.LatexExtractionError: No affiliation blocks found in any .tex files
+
+url:https://arxiv.org/abs/2512.13039v2
+--------------------------------------------------------------------------------

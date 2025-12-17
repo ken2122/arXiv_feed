@@ -177,7 +177,6 @@ def extract_tar_from_path(path: str) -> dict:
 # ----------------------------------
 # メイン async 処理：tarball を streaming DL
 # ----------------------------------
-sem = asyncio.Semaphore(5)
 
 async def download_and_extract(entry, session, executor):
     """
@@ -186,20 +185,19 @@ async def download_and_extract(entry, session, executor):
     """
     url = entry["link"].replace("abs", "e-print")
 
-    async with sem:  
-        # temp file を使い streaming で書く
-        with tempfile.NamedTemporaryFile(delete=False) as tmp:
-            tmp_path = tmp.name
-            async with session.get(url) as resp:
-                resp.raise_for_status()
+    # temp file を使い streaming で書く
+    with tempfile.NamedTemporaryFile(delete=False) as tmp:
+        tmp_path = tmp.name
+        async with session.get(url) as resp:
+            resp.raise_for_status()
 
-                async for chunk in resp.content.iter_chunked(1024 * 64):
-                    if b"<html>\n     <head>\n       <title>arXiv reCAPTCHA</title>" in chunk:
-                        raise LatexExtractionError(
-                            "arXiv reCAPTCHA.",
-                            error_code="RE_CAPTCHA"
-                        )
-                    tmp.write(chunk)
+            async for chunk in resp.content.iter_chunked(1024 * 64):
+                if b"<html>\n     <head>\n       <title>arXiv reCAPTCHA</title>" in chunk:
+                    raise LatexExtractionError(
+                        "arXiv reCAPTCHA.",
+                        error_code="RE_CAPTCHA"
+                    )
+                tmp.write(chunk)
 
     # CPU bound: 別プロセスへ
     loop = asyncio.get_event_loop()
@@ -329,12 +327,13 @@ async def run_single_batch(entries_batch):
 
     # --- セッション構築（UA と Cookie 新規） ---
     connector = aiohttp.TCPConnector(
-        limit=50,
-        force_close=False,
-        enable_cleanup_closed=True
+        limit=5,
+        force_close=True,
+        enable_cleanup_closed=True,
+        ttl_dns_cache=300
     )
     timeout = aiohttp.ClientTimeout(
-        total=300,
+        total=None,
         connect=15,
         sock_connect=15,
         sock_read=90
