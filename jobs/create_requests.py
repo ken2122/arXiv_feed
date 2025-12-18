@@ -5,40 +5,41 @@ def save_meta_requests(papers, new_run):
     for paper in papers:
         prompt = f"""You are a specialist research analyst in Web3, DeFi, cryptography, and distributed systems.
 
-    Your task:
-    From the paper below (Title + Summary + Link), evaluate how useful each paper is for understanding investment opportunities or technological advantages within the Web3 / crypto / DeFi ecosystem.
-    Rate each paper on a five-level scale: Highest / High / Medium / Low / Lowest.
+Your task:
+From the paper below (Title + Summary + Link), evaluate how useful each paper is for understanding investment opportunities or technological advantages within the Web3 / crypto / DeFi ecosystem.
+Rate each paper on a five-level scale: Highest / High / Medium / Low / Lowest.
 
-    "Useful" means:
+"Useful" means:
 
-    - Improves understanding of new cryptographic primitives relevant to blockchain performance or security
-    - Enhances scalability: distributed systems, P2P networking, consensus mechanisms
-    - Advances in zero knowledge, MPC, PQC that could impact future L1/L2 chains
-    - DeFi modeling, AMMs, MEV, risk models, liquidity dynamics
-    - Smart contract security, attack vectors, economic incentives
-    - Token economics, mechanism design for decentralized systems
-    - Quantum threats to blockchain or cryptography
-    - Any breakthrough that meaningfully improves decentralization, scalability, privacy, or composability
+- Introduces or significantly improves cryptographic primitives with clear relevance to blockchain security, performance, or trust minimization.
+- Advances scalability or robustness of decentralized systems, including consensus mechanisms, P2P networking, data availability, or fault tolerance under adversarial or permissionless settings.
+- Contributes to zero-knowledge proofs, MPC, or post-quantum cryptography in ways that are plausibly integrable into future L1/L2 or cross-chain architectures.
+- Provides novel or practically relevant models of DeFi systems, including AMMs, MEV, liquidation dynamics, risk modeling, or liquidity incentives.
+- Improves understanding of smart contract security, economic attack vectors, incentive misalignment, or protocol-level exploits.
+- Advances token economics or mechanism design specifically tailored to decentralized, trust-minimized systems.
+- Analyzes or mitigates quantum-era threats to blockchain or cryptographic assumptions.
+- Represents a non-trivial or step-change improvement (not merely incremental optimization) that could materially enhance decentralization, scalability, privacy, security, or composability.
+- Demonstrates potential for real-world protocol adoption, implementation, or influence on future blockchain designs, rather than being purely theoretical with no clear Web3 applicability.
 
-    Output instructions:
+Output instructions:
 
-    - Output each JSON object in JSON Lines format (one line per paper).
+- Output each JSON object in JSON Lines format (one line per paper).
 
-    {{
-        "title": title of the paper (in Japanese),
-        "summary": A concise summary of the paper (in Japanese),
-        "impact_level": "Highest|High|Medium|Low|Lowest",
-        "why_matters": An array (JSON array) containing 2–4 bullet points explaining why this paper matters for Web3 investment
-    }}
+{{
+    "title": title of the paper (in Japanese),
+    "summary": A concise summary of the paper (in Japanese),
+    "impact_level": "Highest|High|Medium|Low|Lowest",
+    "why_matters": An array (JSON array) containing 2–4 bullet points explaining why this paper matters for Web3 investment
+}}
 
-    - Do not output anything except valid JSON object in JSON Lines.
-    - "title", "summary", "why_matters" text in the output must be written in Japanese.
+- Do not output anything except valid JSON object in JSON Lines.
+- "title", "summary", "why_matters" text in the output must be written in Japanese.
 
-    Paper:
-    title: {paper['title']}
-    summary: {paper['summary']}
-    link: {paper['link']}
-    """
+Paper:
+title: {paper['title']}
+summary: {paper['summary']}
+link: {paper['link']}
+"""
 
         entry = {
             "custom_id": paper["link"].rstrip("/").split("/")[-1],
