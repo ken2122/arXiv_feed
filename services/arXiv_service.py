@@ -77,7 +77,7 @@ def to_datetime(dt):
 # arXiv API fetch
 # ===============================
 
-def fetch_arxiv_papers():
+def fetch_arxiv_papers(max_results=500):
     categories = CATEGORIES["to_filter"] + CATEGORIES["no_filter"]
     query = " OR ".join([f"cat:{c}" for c in categories])
     url = (
@@ -86,7 +86,7 @@ def fetch_arxiv_papers():
         "&sortBy=lastUpdatedDate"
         "&sortOrder=descending"
         # "&id_list=2401.09947v3"
-        "&start=0&max_results=500"
+        f"&start=0&max_results={max_results}"
     )
     try:
         response = requests.get(url, timeout=10)

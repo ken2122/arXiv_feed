@@ -334,8 +334,8 @@ async def run_single_batch(entries_batch):
     )
     timeout = aiohttp.ClientTimeout(
         total=None,
-        connect=15,
-        sock_connect=15,
+        connect=30,
+        sock_connect=30,
         sock_read=90
     )
     cookie_jar = aiohttp.CookieJar()
