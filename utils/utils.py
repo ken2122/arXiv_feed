@@ -2,6 +2,7 @@ import os
 import json5
 
 STATE_FILE = "data/json/state.json"
+TARGET_LEVELS = ["Highest", "High", "highest", "high", "HIGHEST", "HIGH"]
 
 
 def load_state():
@@ -16,3 +17,6 @@ def load_state():
 def chunker(lst, n):
     for i in range(0, len(lst), n):
         yield lst[i : i + n]
+
+def is_high_impact_or_above(impact_level):
+    return impact_level in TARGET_LEVELS

@@ -1,6 +1,5 @@
 import json5
-
-TARGET_LEVELS = ["Highest", "High", "highest", "high" "HIGHEST", "HIGH"]
+from utils.utils import is_high_impact_or_above
 
 # md 出力
 def save_markdown(feedLines, metas, insts, new_run):
@@ -23,7 +22,7 @@ def save_markdown(feedLines, metas, insts, new_run):
         impact_level = meta.get("impact_level", "")
         why_matters = meta.get("why_matters", [])
 
-        if impact_level in TARGET_LEVELS:
+        if is_high_impact_or_above(impact_level):
             papers = highs
         else:
             papers = others
