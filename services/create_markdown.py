@@ -60,3 +60,24 @@ def save_markdown(feedLines, metas, insts, new_run):
         print(f"data/md/output_other_{new_run}.md saved")
 
     return highs
+
+
+def create_markdown_monthly(metas):
+    highs = []
+    for meta in metas:
+
+        title = meta.get("title", "")
+        summary = meta.get("summary", "")
+        impact_level = meta.get("impact_level", "")
+
+        if is_high_impact_or_above(impact_level):
+            # ---- Markdown 出力 ----
+            content = f"""## {title}
+
+### summary
+{summary}
+
+"""
+            highs.append(content)
+
+    return highs
