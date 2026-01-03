@@ -1,4 +1,5 @@
 import asyncio
+from datetime import datetime
 from services.arXiv_service import fetch_arxiv_papers, filter_papers_by_keywords
 from services.openAI_outputs_service import create_openAI_outputs, load_openAI_outputs
 from services.LaTeX_service import async_main_institutions
@@ -10,7 +11,8 @@ from utils.utils import load_state
 
 
 if __name__ == "__main__":
-    feed , new_run = fetch_arxiv_papers()
+    last_run = datetime.fromisoformat(load_state())
+    feed , new_run = fetch_arxiv_papers(last_run=last_run)
     filtered_feed = filter_papers_by_keywords(feed)
 
     save_feed(filtered_feed, new_run)

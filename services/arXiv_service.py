@@ -77,22 +77,28 @@ def to_datetime(dt):
 # arXiv API fetch
 # ===============================
 
-def fetch_arxiv_papers(max_results=500):
+def fetch_arxiv_papers(max_results=500, last_run=datetime.fromisoformat("1999-01-01T00:00:00Z"), id_list=None):
     categories = CATEGORIES["to_filter"] + CATEGORIES["no_filter"]
     query = " OR ".join([f"cat:{c}" for c in categories])
-    url = (
-        "http://export.arxiv.org/api/query?"
-        f"search_query={query}"
-        "&sortBy=lastUpdatedDate"
-        "&sortOrder=descending"
-        # "&id_list=2401.09947v3"
-        f"&start=0&max_results={max_results}"
-    )
+    params = {
+        "search_query": query,
+        "sortBy": "lastUpdatedDate",
+        "sortOrder": "descending",
+        "start": 0,
+        "max_results": max_results,
+    }
+
+    if id_list:
+        params["id_list"] = id_list
+
     try:
-        response = requests.get(url, timeout=10)
+        response = requests.get(
+            "http://export.arxiv.org/api/query",
+            params=params,
+            timeout=10
+        )
         response.raise_for_status()
         feed = feedparser.parse(response.text)
-        last_run = datetime.fromisoformat(load_state())
     except Exception as e:
         print(str(e))
         sys.exit()
