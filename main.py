@@ -18,7 +18,6 @@ if __name__ == "__main__":
     blocks = asyncio.run(async_main_institutions(filtered_feed))
     save_institutions_requests(blocks, new_run)
 
-    # new_run = load_state()
     with open(f"data/json/feed/feed_{new_run}.jsonl", "r", encoding="utf-8") as f:
         feedLines = f.readlines()
     create_openAI_outputs(f"institutions_{new_run}")
