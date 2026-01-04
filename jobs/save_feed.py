@@ -25,6 +25,38 @@ def save_feed(feed, run_date):
     print(f"{path} Saved")
 
 
+def integration_feed(run_date):
+    integrated_feed = []
+    feed_path = DATA_PATH_RULE.build(
+        target_date=run_date,
+        data_type="jsonl",
+        file_name="feed",
+    )
+    glob_path = os.path.join(feed_path.parent, "feed_*.jsonl")
+    for path in sorted(glob.glob(glob_path)):
+        print(f"processing {path}")
+        with open(path, "r", encoding="utf-8") as f:
+            for line in f:
+                integrated_feed.append(json5.loads(line))
+    return integrated_feed
+
+
+def load_custom_ids(integrated_feed):
+    """jsonl から custom_id の集合を作る"""
+    ids = set()
+    for paper in integrated_feed:
+        ids.add(paper["custom_id"])
+    return ids
+
+
+def filter_feed_by_custom_id(feed, custom_ids):
+    filtered_feed = []
+    for paper in feed:
+        if paper["custom_id"] not in custom_ids:
+            filtered_feed.append(paper)
+    return filtered_feed
+
+
 def process_file(index, path):
     print(f"processing {path}")
     results = []
