@@ -2,13 +2,18 @@ import time
 import json
 import json5
 from openai import OpenAI  
-from config import settings
+from config import settings , paths
 client = OpenAI(api_key=settings.OPENAI_API_KEY)
 
-def create_openAI_outputs(fileName):
+def create_openAI_outputs(fileName, run_date):
     # ① JSONLファイルをアップロード
+    requests_path = paths.DATA_PATH_RULE.build(
+        target_date=run_date,
+        data_type="jsonl",
+        file_name=f"requests_{fileName}",
+    )
     uploaded = client.files.create(
-        file=open(f"data/json/feed/requests_{fileName}.jsonl", "rb"),
+        file=open(requests_path, "rb"),
         purpose="batch"
     )
     file_id = uploaded.id
@@ -31,7 +36,12 @@ def create_openAI_outputs(fileName):
             output_file_id = info.output_file_id
             result = client.files.content(output_file_id)
 
-            with open(f"data/json/feed/outputs_{fileName}.jsonl", "wb") as f:
+            outputs_path = paths.DATA_PATH_RULE.build(
+                target_date=run_date,
+                data_type="jsonl",
+                file_name=f"outputs_{fileName}",
+            )
+            with open(outputs_path, "wb") as f:
                 f.write(result.read())
 
             print("Result downloaded.")
@@ -43,11 +53,16 @@ def create_openAI_outputs(fileName):
 
         time.sleep(120)
 
-def load_openAI_outputs(fileName):
+def load_openAI_outputs(fileName, run_date):
     results = {}
 
     # 読み込む
-    with open(f"data/json/feed/outputs_{fileName}.jsonl", "r", encoding="utf-8") as f:
+    path = paths.DATA_PATH_RULE.build(
+        target_date=run_date,
+        data_type="jsonl",
+        file_name=f"outputs_{fileName}",
+    )
+    with open(path, "r", encoding="utf-8") as f:
         lines = f.readlines()
 
     modified = False  # 書き換えが起きたかどうか
@@ -92,7 +107,7 @@ def load_openAI_outputs(fileName):
 
     # 必要なら batch_output.jsonl を上書き
     if modified:
-        with open(f"data/json/feed/outputs_{fileName}.jsonl", "w", encoding="utf-8") as f:
+        with open(path, "w", encoding="utf-8") as f:
             f.writelines(lines)
 
     return results

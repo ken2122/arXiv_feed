@@ -1,8 +1,9 @@
-import json5
+import os, json5
+from config.paths import DATA_PATH_RULE
 from utils.utils import is_high_impact_or_above
 
 # md 出力
-def save_markdown(feedLines, metas, insts, new_run):
+def save_markdown(feedLines, metas, insts, run_date):
     highs = []
     others = []
     for line in feedLines:
@@ -51,13 +52,23 @@ def save_markdown(feedLines, metas, insts, new_run):
 """
 
         papers.append(content)
-    
-    with open(f"data/md/output_high_{new_run}.md", "w", encoding="utf-8", errors="surrogatepass") as out_high, \
-        open(f"data/md/output_other_{new_run}.md", "w", encoding="utf-8", errors="surrogatepass") as out_other:
+    high_path = DATA_PATH_RULE.build(
+        target_date=run_date,
+        data_type="md",
+        file_name="outputs_high",
+    )
+    other_path = DATA_PATH_RULE.build(
+        target_date=run_date,
+        data_type="md",
+        file_name="outputs_other",
+    )
+    os.makedirs(high_path.parent, exist_ok=True)
+    with open(high_path, "w", encoding="utf-8", errors="surrogatepass") as out_high, \
+        open(other_path, "w", encoding="utf-8", errors="surrogatepass") as out_other:
         out_high.write(''.join(highs))
-        print(f"data/md/output_high_{new_run}.md saved")
+        print(f"{high_path} saved")
         out_other.write(''.join(others))
-        print(f"data/md/output_other_{new_run}.md saved")
+        print(f"{other_path} saved")
 
     return highs
 

@@ -1,6 +1,7 @@
-import json
+import os, json
+from config.paths import DATA_PATH_RULE
 
-def save_meta_requests(papers, new_run):
+def save_meta_requests(papers, run_date):
     requests_metas_buffer = []
     for paper in papers:
         prompt = f"""You are a specialist research analyst in Web3, DeFi, cryptography, and distributed systems.
@@ -51,10 +52,16 @@ link: {paper['link']}
             }
         }
         requests_metas_buffer.append(json.dumps(entry) + "\n")
-    with open(f"data/json/feed/requests_metas_{new_run}.jsonl", "w") as f:
+    path = DATA_PATH_RULE.build(
+        target_date=run_date,
+        data_type="jsonl",
+        file_name="requests_metas",
+    )
+    os.makedirs(path.parent, exist_ok=True)
+    with open(path, "w") as f:
         f.write(("".join(requests_metas_buffer)))
 
-    print(f"data/json/feed/requests_metas_{new_run}.jsonl Saved")
+    print(f"{path} Saved")
 
 def create_institutions_requests(block):
     prompt = f'''You are an affiliation-extraction tool.
@@ -114,7 +121,7 @@ blocks:
 
 
 
-def save_institutions_requests(blocks, new_run):
+def save_institutions_requests(blocks, run_date):
     requests_institutions_buffer = []
 
     for block in blocks:
@@ -122,13 +129,19 @@ def save_institutions_requests(blocks, new_run):
             continue
         requests_institutions_buffer.append(create_institutions_requests(block))
 
-    with open(f"data/json/feed/requests_institutions_{new_run}.jsonl", "w") as f:
+    path = DATA_PATH_RULE.build(
+        target_date=run_date,
+        data_type="jsonl",
+        file_name="requests_institutions",
+    )
+    os.makedirs(path.parent, exist_ok=True)
+    with open(path, "w") as f:
         f.write(("".join(requests_institutions_buffer)))
 
-    print(f"data/json/feed/requests_institutions_{new_run}.jsonl Saved")
+    print(f"{path} Saved")
 
 
-def save_create_topics_requests(chunks):
+def save_create_topics_requests(chunks, run_date):
     requests_monthly_buffer = []
     for i, chunk in enumerate(chunks):
         prompt = f"""あなたは最先端技術動向を整理し、**後続の統合処理（意味的統合・構造整理）に耐える情報単位**を設計するリサーチアナリストです。  
@@ -195,13 +208,18 @@ def save_create_topics_requests(chunks):
             }
         }
         requests_monthly_buffer.append(json.dumps(entry) + "\n")
-    with open(f"data/json/feed/requests_create_topics.jsonl", "w") as f:
+    path = DATA_PATH_RULE.build(
+        target_date=run_date,
+        data_type="jsonl",
+        file_name="requests_create_topics",
+    )
+    with open(path, "w") as f:
         f.write(("".join(requests_monthly_buffer)))
 
-    print(f"data/json/feed/requests_create_topics.jsonl Saved")
+    print(f"{path} Saved")
 
 
-def save_integration_topics_requests(topics_md):
+def save_integration_topics_requests(topics_md, run_date):
     prompt = f"""あなたは最先端研究動向を俯瞰し、**複数のトピック候補を意味的に統合・正規化する**メタ分析アナリストです。
 
 以下に与えられるのは、論文数百件を元に
@@ -277,7 +295,12 @@ def save_integration_topics_requests(topics_md):
             "input": prompt
         }
     }
-    with open(f"data/json/feed/requests_integration_topics.jsonl", "w") as f:
+    path = DATA_PATH_RULE.build(
+        target_date=run_date,
+        data_type="jsonl",
+        file_name="requests_integration_topics",
+    )
+    with open(path, "w") as f:
         f.write(json.dumps(entry))
 
-    print(f"data/json/feed/requests_integration_topics.jsonl Saved")
+    print(f"{path} Saved")
