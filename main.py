@@ -14,7 +14,7 @@ from utils.utils import load_state
 
 if __name__ == "__main__":
     last_run = datetime.fromisoformat(load_state())
-    feed = fetch_arxiv_papers(id_list="2512.22135v1")
+    feed = fetch_arxiv_papers(last_run=last_run)
     new_run = feed[0].updated
     new_run_date = datetime.fromisoformat(new_run)
     save_state(new_run)
