@@ -1,6 +1,7 @@
-import json
+import os, json
+from config.paths import DATA_PATH_RULE
 
-def save_meta_requests(papers, new_run):
+def save_meta_requests(papers, new_run_date):
     requests_metas_buffer = []
     for paper in papers:
         prompt = f"""You are a specialist research analyst in Web3, DeFi, cryptography, and distributed systems.
@@ -51,10 +52,16 @@ link: {paper['link']}
             }
         }
         requests_metas_buffer.append(json.dumps(entry) + "\n")
-    with open(f"data/json/feed/requests_metas_{new_run}.jsonl", "w") as f:
+    path = DATA_PATH_RULE.build(
+        target_date=new_run_date,
+        data_type="jsonl",
+        file_name="requests_metas",
+    )
+    os.makedirs(path.parent, exist_ok=True)
+    with open(path, "w") as f:
         f.write(("".join(requests_metas_buffer)))
 
-    print(f"data/json/feed/requests_metas_{new_run}.jsonl Saved")
+    print(f"{path} Saved")
 
 def create_institutions_requests(block):
     prompt = f'''You are an affiliation-extraction tool.
@@ -114,7 +121,7 @@ blocks:
 
 
 
-def save_institutions_requests(blocks, new_run):
+def save_institutions_requests(blocks, new_run_date):
     requests_institutions_buffer = []
 
     for block in blocks:
@@ -122,10 +129,16 @@ def save_institutions_requests(blocks, new_run):
             continue
         requests_institutions_buffer.append(create_institutions_requests(block))
 
-    with open(f"data/json/feed/requests_institutions_{new_run}.jsonl", "w") as f:
+    path = DATA_PATH_RULE.build(
+        target_date=new_run_date,
+        data_type="jsonl",
+        file_name="requests_institutions",
+    )
+    os.makedirs(path.parent, exist_ok=True)
+    with open(path, "w") as f:
         f.write(("".join(requests_institutions_buffer)))
 
-    print(f"data/json/feed/requests_institutions_{new_run}.jsonl Saved")
+    print(f"{path} Saved")
 
 
 def save_create_topics_requests(chunks):
