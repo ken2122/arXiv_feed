@@ -3,7 +3,7 @@ from config.paths import DATA_PATH_RULE
 from utils.utils import is_high_impact_or_above
 
 # md 出力
-def save_markdown(feedLines, metas, insts, new_run_date):
+def save_markdown(feedLines, metas, insts, run_date):
     highs = []
     others = []
     for line in feedLines:
@@ -53,12 +53,12 @@ def save_markdown(feedLines, metas, insts, new_run_date):
 
         papers.append(content)
     high_path = DATA_PATH_RULE.build(
-        target_date=new_run_date,
+        target_date=run_date,
         data_type="md",
         file_name="outputs_high",
     )
     other_path = DATA_PATH_RULE.build(
-        target_date=new_run_date,
+        target_date=run_date,
         data_type="md",
         file_name="outputs_other",
     )

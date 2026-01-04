@@ -1,7 +1,7 @@
 import os, json
 from config.paths import DATA_PATH_RULE
 
-def save_meta_requests(papers, new_run_date):
+def save_meta_requests(papers, run_date):
     requests_metas_buffer = []
     for paper in papers:
         prompt = f"""You are a specialist research analyst in Web3, DeFi, cryptography, and distributed systems.
@@ -53,7 +53,7 @@ link: {paper['link']}
         }
         requests_metas_buffer.append(json.dumps(entry) + "\n")
     path = DATA_PATH_RULE.build(
-        target_date=new_run_date,
+        target_date=run_date,
         data_type="jsonl",
         file_name="requests_metas",
     )
@@ -121,7 +121,7 @@ blocks:
 
 
 
-def save_institutions_requests(blocks, new_run_date):
+def save_institutions_requests(blocks, run_date):
     requests_institutions_buffer = []
 
     for block in blocks:
@@ -130,7 +130,7 @@ def save_institutions_requests(blocks, new_run_date):
         requests_institutions_buffer.append(create_institutions_requests(block))
 
     path = DATA_PATH_RULE.build(
-        target_date=new_run_date,
+        target_date=run_date,
         data_type="jsonl",
         file_name="requests_institutions",
     )

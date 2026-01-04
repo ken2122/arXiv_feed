@@ -5,10 +5,10 @@ from openai import OpenAI
 from config import settings , paths
 client = OpenAI(api_key=settings.OPENAI_API_KEY)
 
-def create_openAI_outputs(fileName, new_run_date):
+def create_openAI_outputs(fileName, run_date):
     # ① JSONLファイルをアップロード
     requests_path = paths.DATA_PATH_RULE.build(
-        target_date=new_run_date,
+        target_date=run_date,
         data_type="jsonl",
         file_name=f"requests_{fileName}",
     )
@@ -37,7 +37,7 @@ def create_openAI_outputs(fileName, new_run_date):
             result = client.files.content(output_file_id)
 
             outputs_path = paths.DATA_PATH_RULE.build(
-                target_date=new_run_date,
+                target_date=run_date,
                 data_type="jsonl",
                 file_name=f"outputs_{fileName}",
             )
@@ -53,12 +53,12 @@ def create_openAI_outputs(fileName, new_run_date):
 
         time.sleep(120)
 
-def load_openAI_outputs(fileName, new_run_date):
+def load_openAI_outputs(fileName, run_date):
     results = {}
 
     # 読み込む
     path = paths.DATA_PATH_RULE.build(
-        target_date=new_run_date,
+        target_date=run_date,
         data_type="jsonl",
         file_name=f"outputs_{fileName}",
     )

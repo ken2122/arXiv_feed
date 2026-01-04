@@ -2,7 +2,7 @@ import os, json, json5, glob
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from config.paths import DATA_PATH_RULE
 
-def save_feed(feed, new_run_date):
+def save_feed(feed, run_date):
     buffer = []
 
     for paper in feed:
@@ -15,7 +15,7 @@ def save_feed(feed, new_run_date):
         buffer.append(json.dumps(entry) + "\n")
 
     path = DATA_PATH_RULE.build(
-        target_date=new_run_date,
+        target_date=run_date,
         data_type="jsonl",
         file_name="feed",
     )
