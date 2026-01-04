@@ -102,17 +102,11 @@ def fetch_arxiv_papers(max_results=500, last_run=datetime.fromisoformat("1999-01
     except Exception as e:
         print(str(e))
         sys.exit()
-    new_run = feed.entries[0].updated
-    new_state = {
-        "last_run": new_run
-    }
 
-    with open("data/json/state.json", "w", encoding="utf-8") as f:
-        json.dump(new_state, f, ensure_ascii=False, indent=2)
     return [
         e for e in feed.entries
         if datetime.fromisoformat(e.updated) > last_run
-    ], new_run
+    ]
 
 # ===============================
 # Filtering

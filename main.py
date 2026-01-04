@@ -5,6 +5,7 @@ from services.openAI_outputs_service import create_openAI_outputs, load_openAI_o
 from services.LaTeX_service import async_main_institutions
 from jobs.create_requests import save_meta_requests, save_institutions_requests
 from jobs.save_feed import save_feed
+from jobs.save_state import save_state
 from services.create_markdown import save_markdown
 from services.send_message_service import send_message
 from utils.utils import load_state
@@ -12,7 +13,9 @@ from utils.utils import load_state
 
 if __name__ == "__main__":
     last_run = datetime.fromisoformat(load_state())
-    feed , new_run = fetch_arxiv_papers(last_run=last_run)
+    feed = fetch_arxiv_papers(last_run=last_run)
+    new_run = feed[0].updated
+    save_state(new_run)
     filtered_feed = filter_papers_by_keywords(feed)
 
     save_feed(filtered_feed, new_run)
