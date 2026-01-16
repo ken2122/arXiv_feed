@@ -2,8 +2,17 @@ name: Auto Commit Generated Files
 
 on:
   schedule:
-    - cron: "00 2 * * *" # JST 11:00
+    - cron: "00 2 * * 1-5"
+    - cron: "00 2 * * 6"
   workflow_dispatch:
+    inputs:
+      target:
+        description: "Which script to run"
+        required: true
+        type: choice
+        options:
+          - daily
+          - weekly
 
 jobs:
   commit-files:
@@ -23,8 +32,19 @@ jobs:
       - name: Install deps
         run: pip install -r requirements.txt
 
-      - name: Run script
+      - name: Run daily script
+        if: github.event.schedule == "00 2 * * 1-5" || (github.event_name == "workflow_dispatch" && github.event.inputs.target == "daily")
         run: python main.py
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          CHAT_URL: ${{ secrets.CHAT_URL }}
+          CHAT_TOKEN: ${{ secrets.CHAT_TOKEN }}
+          CHAT_USER_ID: ${{ secrets.CHAT_USER_ID }}
+          ROOM_ID: ${{ secrets.ROOM_ID }}
+
+      - name: Run weekly script
+        if: github.event.schedule == "00 2 * * 6" || (github.event_name == "workflow_dispatch" && github.event.inputs.target == "weekly")
+        run: python main_weekly.py
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           CHAT_URL: ${{ secrets.CHAT_URL }}
