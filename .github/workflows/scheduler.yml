@@ -33,7 +33,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run daily script
-        if: github.event.schedule == "00 2 * * 1-5" || (github.event_name == "workflow_dispatch" && github.event.inputs.target == "daily")
+        if: github.event.schedule == '00 2 * * 1-5' || (github.event_name == 'workflow_dispatch' && github.event.inputs.target == 'daily')
         run: python main.py
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -43,7 +43,7 @@ jobs:
           ROOM_ID: ${{ secrets.ROOM_ID }}
 
       - name: Run weekly script
-        if: github.event.schedule == "00 2 * * 6" || (github.event_name == "workflow_dispatch" && github.event.inputs.target == "weekly")
+        if: github.event.schedule == '00 2 * * 6' || (github.event_name == 'workflow_dispatch' && github.event.inputs.target == 'weekly')
         run: python main_weekly.py
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
