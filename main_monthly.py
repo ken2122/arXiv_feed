@@ -49,3 +49,4 @@ if __name__ == "__main__":
     )
     with open(integration_topics_md_path, "w", encoding="utf-8") as f:
         f.write(msg_content)
+    print(f"{integration_topics_md_path} Saved")

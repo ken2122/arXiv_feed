@@ -1,5 +1,6 @@
 import os, json, json5, glob
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from utils.utils import get_last_month_yyyy_mm
 from config.paths import DATA_PATH_RULE
 
 def save_feed(feed, run_date):
@@ -68,7 +69,8 @@ def process_file(index, path):
 
 
 def create_metas_monthly(max_workers=16):
-    paths = sorted(glob.glob("data/json/feed/outputs_metas_2025-12-*.jsonl"))
+    last_month = get_last_month_yyyy_mm()
+    paths = sorted(glob.glob(f"data/{last_month}/jsonl/outputs_metas_*.jsonl"))
     monthly_metas = []
 
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
