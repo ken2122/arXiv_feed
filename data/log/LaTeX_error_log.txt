@@ -1929,3 +1929,225 @@ tarfile.ReadError: file could not be opened successfully:
 
 url:https://arxiv.org/abs/2510.19026v3
 --------------------------------------------------------------------------------
+concurrent.futures.process._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/Users/hidakakengo/.pyenv/versions/3.11.0/lib/python3.11/concurrent/futures/process.py", line 256, in _process_worker
+    r = call_item.fn(*call_item.args, **call_item.kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hidakakengo/feedArXiv/services/LaTeX_service.py", line 165, in extract_tar_from_path
+    with tarfile.open(path, "r:*") as tar:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hidakakengo/.pyenv/versions/3.11.0/lib/python3.11/tarfile.py", line 1639, in open
+    raise ReadError(f"file could not be opened successfully:\n{error_msgs_summary}")
+tarfile.ReadError: file could not be opened successfully:
+- method gz: ReadError('not a gzip file')
+- method bz2: ReadError('not a bzip2 file')
+- method xz: ReadError('not an lzma file')
+- method tar: ReadError('invalid header')
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/hidakakengo/feedArXiv/services/LaTeX_service.py", line 269, in fetch_institutions_async
+    files = await download_and_extract(entry, session, executor)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hidakakengo/feedArXiv/services/LaTeX_service.py", line 204, in download_and_extract
+    files = await loop.run_in_executor(executor, extract_tar_from_path, tmp_path)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tarfile.ReadError: file could not be opened successfully:
+- method gz: ReadError('not a gzip file')
+- method bz2: ReadError('not a bzip2 file')
+- method xz: ReadError('not an lzma file')
+- method tar: ReadError('invalid header')
+
+url:https://arxiv.org/abs/2507.04855v2
+--------------------------------------------------------------------------------
+concurrent.futures.process._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/Users/hidakakengo/.pyenv/versions/3.11.0/lib/python3.11/concurrent/futures/process.py", line 256, in _process_worker
+    r = call_item.fn(*call_item.args, **call_item.kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hidakakengo/feedArXiv/services/LaTeX_service.py", line 165, in extract_tar_from_path
+    with tarfile.open(path, "r:*") as tar:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hidakakengo/.pyenv/versions/3.11.0/lib/python3.11/tarfile.py", line 1639, in open
+    raise ReadError(f"file could not be opened successfully:\n{error_msgs_summary}")
+tarfile.ReadError: file could not be opened successfully:
+- method gz: ReadError('not a gzip file')
+- method bz2: ReadError('not a bzip2 file')
+- method xz: ReadError('not an lzma file')
+- method tar: ReadError('invalid header')
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/hidakakengo/feedArXiv/services/LaTeX_service.py", line 269, in fetch_institutions_async
+    files = await download_and_extract(entry, session, executor)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hidakakengo/feedArXiv/services/LaTeX_service.py", line 204, in download_and_extract
+    files = await loop.run_in_executor(executor, extract_tar_from_path, tmp_path)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tarfile.ReadError: file could not be opened successfully:
+- method gz: ReadError('not a gzip file')
+- method bz2: ReadError('not a bzip2 file')
+- method xz: ReadError('not an lzma file')
+- method tar: ReadError('invalid header')
+
+url:https://arxiv.org/abs/2601.22472v1
+--------------------------------------------------------------------------------
+concurrent.futures.process._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/Users/hidakakengo/.pyenv/versions/3.11.0/lib/python3.11/concurrent/futures/process.py", line 256, in _process_worker
+    r = call_item.fn(*call_item.args, **call_item.kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hidakakengo/feedArXiv/services/LaTeX_service.py", line 165, in extract_tar_from_path
+    with tarfile.open(path, "r:*") as tar:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hidakakengo/.pyenv/versions/3.11.0/lib/python3.11/tarfile.py", line 1639, in open
+    raise ReadError(f"file could not be opened successfully:\n{error_msgs_summary}")
+tarfile.ReadError: file could not be opened successfully:
+- method gz: ReadError('not a gzip file')
+- method bz2: ReadError('not a bzip2 file')
+- method xz: ReadError('not an lzma file')
+- method tar: ReadError('invalid header')
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/hidakakengo/feedArXiv/services/LaTeX_service.py", line 269, in fetch_institutions_async
+    files = await download_and_extract(entry, session, executor)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hidakakengo/feedArXiv/services/LaTeX_service.py", line 204, in download_and_extract
+    files = await loop.run_in_executor(executor, extract_tar_from_path, tmp_path)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tarfile.ReadError: file could not be opened successfully:
+- method gz: ReadError('not a gzip file')
+- method bz2: ReadError('not a bzip2 file')
+- method xz: ReadError('not an lzma file')
+- method tar: ReadError('invalid header')
+
+url:https://arxiv.org/abs/2601.22800v1
+--------------------------------------------------------------------------------
+concurrent.futures.process._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/Users/hidakakengo/.pyenv/versions/3.11.0/lib/python3.11/concurrent/futures/process.py", line 256, in _process_worker
+    r = call_item.fn(*call_item.args, **call_item.kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hidakakengo/feedArXiv/services/LaTeX_service.py", line 165, in extract_tar_from_path
+    with tarfile.open(path, "r:*") as tar:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hidakakengo/.pyenv/versions/3.11.0/lib/python3.11/tarfile.py", line 1639, in open
+    raise ReadError(f"file could not be opened successfully:\n{error_msgs_summary}")
+tarfile.ReadError: file could not be opened successfully:
+- method gz: ReadError('not a gzip file')
+- method bz2: ReadError('not a bzip2 file')
+- method xz: ReadError('not an lzma file')
+- method tar: ReadError('invalid header')
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/hidakakengo/feedArXiv/services/LaTeX_service.py", line 269, in fetch_institutions_async
+    files = await download_and_extract(entry, session, executor)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hidakakengo/feedArXiv/services/LaTeX_service.py", line 204, in download_and_extract
+    files = await loop.run_in_executor(executor, extract_tar_from_path, tmp_path)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tarfile.ReadError: file could not be opened successfully:
+- method gz: ReadError('not a gzip file')
+- method bz2: ReadError('not a bzip2 file')
+- method xz: ReadError('not an lzma file')
+- method tar: ReadError('invalid header')
+
+url:https://arxiv.org/abs/2601.22653v1
+--------------------------------------------------------------------------------
+concurrent.futures.process._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/Users/hidakakengo/.pyenv/versions/3.11.0/lib/python3.11/concurrent/futures/process.py", line 256, in _process_worker
+    r = call_item.fn(*call_item.args, **call_item.kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hidakakengo/feedArXiv/services/LaTeX_service.py", line 165, in extract_tar_from_path
+    with tarfile.open(path, "r:*") as tar:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hidakakengo/.pyenv/versions/3.11.0/lib/python3.11/tarfile.py", line 1639, in open
+    raise ReadError(f"file could not be opened successfully:\n{error_msgs_summary}")
+tarfile.ReadError: file could not be opened successfully:
+- method gz: ReadError('not a gzip file')
+- method bz2: ReadError('not a bzip2 file')
+- method xz: ReadError('not an lzma file')
+- method tar: ReadError('invalid header')
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/hidakakengo/feedArXiv/services/LaTeX_service.py", line 269, in fetch_institutions_async
+    files = await download_and_extract(entry, session, executor)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hidakakengo/feedArXiv/services/LaTeX_service.py", line 204, in download_and_extract
+    files = await loop.run_in_executor(executor, extract_tar_from_path, tmp_path)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tarfile.ReadError: file could not be opened successfully:
+- method gz: ReadError('not a gzip file')
+- method bz2: ReadError('not a bzip2 file')
+- method xz: ReadError('not an lzma file')
+- method tar: ReadError('invalid header')
+
+url:https://arxiv.org/abs/2601.22772v1
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/hidakakengo/feedArXiv/services/LaTeX_service.py", line 269, in fetch_institutions_async
+    files = await download_and_extract(entry, session, executor)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hidakakengo/feedArXiv/services/LaTeX_service.py", line 192, in download_and_extract
+    resp.raise_for_status()
+  File "/Users/hidakakengo/feedArXiv/venv/lib/python3.11/site-packages/aiohttp/client_reqrep.py", line 636, in raise_for_status
+    raise ClientResponseError(
+aiohttp.client_exceptions.ClientResponseError: 404, message='Not Found', url='https://arxiv.org/e-print/2601.13197v2'
+
+url:https://arxiv.org/abs/2601.13197v2
+--------------------------------------------------------------------------------
+concurrent.futures.process._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/Users/hidakakengo/.pyenv/versions/3.11.0/lib/python3.11/concurrent/futures/process.py", line 256, in _process_worker
+    r = call_item.fn(*call_item.args, **call_item.kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hidakakengo/feedArXiv/services/LaTeX_service.py", line 165, in extract_tar_from_path
+    with tarfile.open(path, "r:*") as tar:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hidakakengo/.pyenv/versions/3.11.0/lib/python3.11/tarfile.py", line 1639, in open
+    raise ReadError(f"file could not be opened successfully:\n{error_msgs_summary}")
+tarfile.ReadError: file could not be opened successfully:
+- method gz: ReadError('not a gzip file')
+- method bz2: ReadError('not a bzip2 file')
+- method xz: ReadError('not an lzma file')
+- method tar: ReadError('invalid header')
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/hidakakengo/feedArXiv/services/LaTeX_service.py", line 269, in fetch_institutions_async
+    files = await download_and_extract(entry, session, executor)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hidakakengo/feedArXiv/services/LaTeX_service.py", line 204, in download_and_extract
+    files = await loop.run_in_executor(executor, extract_tar_from_path, tmp_path)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tarfile.ReadError: file could not be opened successfully:
+- method gz: ReadError('not a gzip file')
+- method bz2: ReadError('not a bzip2 file')
+- method xz: ReadError('not an lzma file')
+- method tar: ReadError('invalid header')
+
+url:https://arxiv.org/abs/2601.22240v1
+--------------------------------------------------------------------------------
