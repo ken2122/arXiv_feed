@@ -1,224 +1,1008 @@
-{"custom_id": "2603.18608v2", "link": "https://arxiv.org/abs/2603.18608v2", "categories": "cs.CR"}
-{"custom_id": "2505.04535v3", "link": "https://arxiv.org/abs/2505.04535v3", "categories": "cs.LG, cs.DC"}
-{"custom_id": "2605.15172v1", "link": "https://arxiv.org/abs/2605.15172v1", "categories": "cs.CR, cs.CL"}
-{"custom_id": "2605.15163v1", "link": "https://arxiv.org/abs/2605.15163v1", "categories": "cs.LO"}
-{"custom_id": "2605.15132v1", "link": "https://arxiv.org/abs/2605.15132v1", "categories": "cs.AI, cs.DC, cs.MA"}
-{"custom_id": "2605.15118v1", "link": "https://arxiv.org/abs/2605.15118v1", "categories": "cs.CR, cs.CL"}
-{"custom_id": "2605.15098v1", "link": "https://arxiv.org/abs/2605.15098v1", "categories": "quant-ph, cs.AR, cs.DC, cs.PF"}
-{"custom_id": "2605.15097v1", "link": "https://arxiv.org/abs/2605.15097v1", "categories": "cs.SE, cs.CR"}
-{"custom_id": "2412.14113v4", "link": "https://arxiv.org/abs/2412.14113v4", "categories": "cs.CR, cs.IR"}
-{"custom_id": "2605.13338v2", "link": "https://arxiv.org/abs/2605.13338v2", "categories": "cs.CR, cs.AI"}
-{"custom_id": "2605.15084v1", "link": "https://arxiv.org/abs/2605.15084v1", "categories": "cs.CR"}
-{"custom_id": "2605.15047v1", "link": "https://arxiv.org/abs/2605.15047v1", "categories": "cs.CR, cs.HC"}
-{"custom_id": "2605.15030v1", "link": "https://arxiv.org/abs/2605.15030v1", "categories": "cs.CR, cs.AI"}
-{"custom_id": "2605.15029v1", "link": "https://arxiv.org/abs/2605.15029v1", "categories": "quant-ph, cs.NI"}
-{"custom_id": "2605.10499v2", "link": "https://arxiv.org/abs/2605.10499v2", "categories": "cs.DC"}
-{"custom_id": "2505.02208v6", "link": "https://arxiv.org/abs/2505.02208v6", "categories": "cs.DC, cs.CY, cs.SI"}
-{"custom_id": "2012.14425v2", "link": "https://arxiv.org/abs/2012.14425v2", "categories": "cs.CR, cs.LG"}
-{"custom_id": "2605.13362v2", "link": "https://arxiv.org/abs/2605.13362v2", "categories": "cs.MA, cs.AI, cs.DC, cs.GT, econ.TH"}
-{"custom_id": "2605.14932v1", "link": "https://arxiv.org/abs/2605.14932v1", "categories": "cs.CR"}
-{"custom_id": "2602.10299v2", "link": "https://arxiv.org/abs/2602.10299v2", "categories": "cs.CR"}
-{"custom_id": "2605.09530v3", "link": "https://arxiv.org/abs/2605.09530v3", "categories": "cs.CR, cs.CL"}
-{"custom_id": "2604.24366v2", "link": "https://arxiv.org/abs/2604.24366v2", "categories": "q-fin.TR, cs.GT, q-fin.GN"}
-{"custom_id": "2605.14863v1", "link": "https://arxiv.org/abs/2605.14863v1", "categories": "cs.DC"}
-{"custom_id": "2605.14859v1", "link": "https://arxiv.org/abs/2605.14859v1", "categories": "cs.CR, cs.AI"}
-{"custom_id": "2605.13095v2", "link": "https://arxiv.org/abs/2605.13095v2", "categories": "cs.CR, cs.AI, cs.CY, cs.LG"}
-{"custom_id": "2605.14799v1", "link": "https://arxiv.org/abs/2605.14799v1", "categories": "cs.CV, cs.CR, cs.SI"}
-{"custom_id": "2605.14786v1", "link": "https://arxiv.org/abs/2605.14786v1", "categories": "cs.CR, cs.AI, cs.HC, cs.LG"}
-{"custom_id": "2605.14784v1", "link": "https://arxiv.org/abs/2605.14784v1", "categories": "cs.DC"}
-{"custom_id": "2605.14780v1", "link": "https://arxiv.org/abs/2605.14780v1", "categories": "cs.PL, cs.DC"}
-{"custom_id": "2510.05028v3", "link": "https://arxiv.org/abs/2510.05028v3", "categories": "quant-ph, cs.CC, cs.CR"}
-{"custom_id": "2512.22051v2", "link": "https://arxiv.org/abs/2512.22051v2", "categories": "econ.TH, cs.GT"}
-{"custom_id": "2605.14750v1", "link": "https://arxiv.org/abs/2605.14750v1", "categories": "cs.CR, cs.AI"}
-{"custom_id": "2605.14718v1", "link": "https://arxiv.org/abs/2605.14718v1", "categories": "cs.CR"}
-{"custom_id": "2601.05569v2", "link": "https://arxiv.org/abs/2601.05569v2", "categories": "cs.DC"}
-{"custom_id": "2605.14655v1", "link": "https://arxiv.org/abs/2605.14655v1", "categories": "cs.DC"}
-{"custom_id": "2605.14649v1", "link": "https://arxiv.org/abs/2605.14649v1", "categories": "cs.DC"}
-{"custom_id": "2602.06718v2", "link": "https://arxiv.org/abs/2602.06718v2", "categories": "cs.CR, cs.AI"}
-{"custom_id": "2605.14633v1", "link": "https://arxiv.org/abs/2605.14633v1", "categories": "cs.CR"}
-{"custom_id": "2605.08278v2", "link": "https://arxiv.org/abs/2605.08278v2", "categories": "cs.LG, cs.AI, cs.CR"}
-{"custom_id": "2605.14605v1", "link": "https://arxiv.org/abs/2605.14605v1", "categories": "cs.CR, cs.AI, cs.LG"}
-{"custom_id": "2602.23798v2", "link": "https://arxiv.org/abs/2602.23798v2", "categories": "cs.LG, cs.AI, cs.CR, cs.DC"}
-{"custom_id": "2605.14591v1", "link": "https://arxiv.org/abs/2605.14591v1", "categories": "cs.CR"}
-{"custom_id": "2605.14587v1", "link": "https://arxiv.org/abs/2605.14587v1", "categories": "cs.LG, cs.AI, cs.CR"}
-{"custom_id": "2605.14540v1", "link": "https://arxiv.org/abs/2605.14540v1", "categories": "cs.DC"}
-{"custom_id": "2605.14526v1", "link": "https://arxiv.org/abs/2605.14526v1", "categories": "cs.GR, cs.DC, cs.RO, math.NA"}
-{"custom_id": "2605.14514v1", "link": "https://arxiv.org/abs/2605.14514v1", "categories": "cs.CR"}
-{"custom_id": "2605.13319v2", "link": "https://arxiv.org/abs/2605.13319v2", "categories": "cs.DC"}
-{"custom_id": "2602.06759v2", "link": "https://arxiv.org/abs/2602.06759v2", "categories": "cs.CR, cs.HC"}
-{"custom_id": "2605.14460v1", "link": "https://arxiv.org/abs/2605.14460v1", "categories": "cs.CR, cs.SE"}
-{"custom_id": "2605.14454v1", "link": "https://arxiv.org/abs/2605.14454v1", "categories": "cs.LG, cs.CL, cs.CR"}
-{"custom_id": "2605.14440v1", "link": "https://arxiv.org/abs/2605.14440v1", "categories": "cs.AI, cs.FL, cs.LO"}
-{"custom_id": "2605.14435v1", "link": "https://arxiv.org/abs/2605.14435v1", "categories": "cs.NI, cs.CR"}
-{"custom_id": "2605.14431v1", "link": "https://arxiv.org/abs/2605.14431v1", "categories": "cs.SE, cs.CR"}
-{"custom_id": "2604.09603v2", "link": "https://arxiv.org/abs/2604.09603v2", "categories": "cs.DC, cs.AI, cs.LG"}
-{"custom_id": "2509.20924v2", "link": "https://arxiv.org/abs/2509.20924v2", "categories": "cs.CR"}
-{"custom_id": "2605.14421v1", "link": "https://arxiv.org/abs/2605.14421v1", "categories": "cs.CR, cs.AI"}
-{"custom_id": "2605.14418v1", "link": "https://arxiv.org/abs/2605.14418v1", "categories": "cs.CR, cs.AI"}
-{"custom_id": "2604.25899v2", "link": "https://arxiv.org/abs/2604.25899v2", "categories": "cs.MA, cs.DC, eess.SY"}
-{"custom_id": "2605.14396v1", "link": "https://arxiv.org/abs/2605.14396v1", "categories": "cs.CV, cs.CR, cs.LG, cs.RO"}
-{"custom_id": "2605.14387v1", "link": "https://arxiv.org/abs/2605.14387v1", "categories": "cs.CR, eess.SP"}
-{"custom_id": "2605.09664v2", "link": "https://arxiv.org/abs/2605.09664v2", "categories": "cs.CR, cs.LG"}
-{"custom_id": "2605.14376v1", "link": "https://arxiv.org/abs/2605.14376v1", "categories": "cs.DC, cs.DS"}
-{"custom_id": "2605.14375v1", "link": "https://arxiv.org/abs/2605.14375v1", "categories": "cs.DC"}
-{"custom_id": "2605.14356v1", "link": "https://arxiv.org/abs/2605.14356v1", "categories": "quant-ph, cs.LO"}
-{"custom_id": "2605.00493v2", "link": "https://arxiv.org/abs/2605.00493v2", "categories": "q-fin.TR, cs.CR, q-fin.GN"}
-{"custom_id": "2605.13343v2", "link": "https://arxiv.org/abs/2605.13343v2", "categories": "cs.GR, cs.DC, cs.LG, math.NA"}
-{"custom_id": "2605.14325v1", "link": "https://arxiv.org/abs/2605.14325v1", "categories": "quant-ph, cs.CR"}
-{"custom_id": "2511.16964v2", "link": "https://arxiv.org/abs/2511.16964v2", "categories": "cs.MA, cs.AI, cs.DC"}
-{"custom_id": "2602.08874v2", "link": "https://arxiv.org/abs/2602.08874v2", "categories": "cs.CL, cs.CR"}
-{"custom_id": "2605.09033v2", "link": "https://arxiv.org/abs/2605.09033v2", "categories": "cs.CR, cs.AI"}
-{"custom_id": "2605.14291v1", "link": "https://arxiv.org/abs/2605.14291v1", "categories": "cs.CR, cs.AI, cs.CL, cs.CV, cs.LG"}
-{"custom_id": "2605.14290v1", "link": "https://arxiv.org/abs/2605.14290v1", "categories": "cs.CR, cs.AI, cs.CL, cs.SE"}
-{"custom_id": "2605.14289v1", "link": "https://arxiv.org/abs/2605.14289v1", "categories": "cs.LG, cs.AI, cs.CL, cs.CR"}
-{"custom_id": "2504.11703v3", "link": "https://arxiv.org/abs/2504.11703v3", "categories": "cs.CR, cs.AI"}
-{"custom_id": "2605.14283v1", "link": "https://arxiv.org/abs/2605.14283v1", "categories": "cs.GT, cs.AI, cs.CR"}
-{"custom_id": "2506.05290v3", "link": "https://arxiv.org/abs/2506.05290v3", "categories": "cs.CR"}
-{"custom_id": "2605.14230v1", "link": "https://arxiv.org/abs/2605.14230v1", "categories": "cs.CR, eess.SY"}
-{"custom_id": "2509.12341v8", "link": "https://arxiv.org/abs/2509.12341v8", "categories": "quant-ph, cs.CL, cs.CR"}
-{"custom_id": "2605.14209v1", "link": "https://arxiv.org/abs/2605.14209v1", "categories": "cs.CR, cs.NI"}
-{"custom_id": "2605.14204v1", "link": "https://arxiv.org/abs/2605.14204v1", "categories": "eess.SY, cs.CR, math.OC"}
-{"custom_id": "2605.14165v1", "link": "https://arxiv.org/abs/2605.14165v1", "categories": "cs.CR"}
-{"custom_id": "2410.12755v3", "link": "https://arxiv.org/abs/2410.12755v3", "categories": "cs.DC"}
-{"custom_id": "2605.14153v1", "link": "https://arxiv.org/abs/2605.14153v1", "categories": "cs.CR, cs.AI"}
-{"custom_id": "2605.14152v1", "link": "https://arxiv.org/abs/2605.14152v1", "categories": "cs.CL, cs.AI, cs.CR, cs.CY"}
-{"custom_id": "2605.08419v2", "link": "https://arxiv.org/abs/2605.08419v2", "categories": "cs.CR, cs.PL"}
-{"custom_id": "2508.14017v3", "link": "https://arxiv.org/abs/2508.14017v3", "categories": "cs.CC, cs.DC, cs.ET"}
-{"custom_id": "2603.04662v4", "link": "https://arxiv.org/abs/2603.04662v4", "categories": "cs.CR"}
-{"custom_id": "2603.27517v3", "link": "https://arxiv.org/abs/2603.27517v3", "categories": "cs.CR, cs.AI"}
-{"custom_id": "2605.14032v1", "link": "https://arxiv.org/abs/2605.14032v1", "categories": "cs.NI, cs.CR"}
-{"custom_id": "2605.14020v1", "link": "https://arxiv.org/abs/2605.14020v1", "categories": "cs.CR"}
-{"custom_id": "2605.14015v1", "link": "https://arxiv.org/abs/2605.14015v1", "categories": "cs.DC"}
-{"custom_id": "2604.21789v4", "link": "https://arxiv.org/abs/2604.21789v4", "categories": "cs.GT, cs.LG"}
-{"custom_id": "2605.13942v1", "link": "https://arxiv.org/abs/2605.13942v1", "categories": "cs.LG, cs.DC, cs.NI"}
-{"custom_id": "2508.09320v3", "link": "https://arxiv.org/abs/2508.09320v3", "categories": "cs.LG, cs.AI, cs.CR"}
-{"custom_id": "2605.13796v1", "link": "https://arxiv.org/abs/2605.13796v1", "categories": "quant-ph, cs.CR"}
-{"custom_id": "2510.13661v2", "link": "https://arxiv.org/abs/2510.13661v2", "categories": "cs.IT, cs.CR"}
-{"custom_id": "2605.13940v1", "link": "https://arxiv.org/abs/2605.13940v1", "categories": "cs.CR, cs.AI"}
-{"custom_id": "2605.13779v1", "link": "https://arxiv.org/abs/2605.13779v1", "categories": "cs.LG, cs.AI, cs.DC"}
-{"custom_id": "2605.13764v1", "link": "https://arxiv.org/abs/2605.13764v1", "categories": "cs.CR, cs.IR, cs.LG"}
-{"custom_id": "2605.13936v1", "link": "https://arxiv.org/abs/2605.13936v1", "categories": "cs.LG, cs.AI, cs.DC"}
-{"custom_id": "2605.13734v1", "link": "https://arxiv.org/abs/2605.13734v1", "categories": "cs.DC, cs.AI, cs.NI"}
-{"custom_id": "2510.07533v2", "link": "https://arxiv.org/abs/2510.07533v2", "categories": "cs.CR"}
-{"custom_id": "2605.13708v1", "link": "https://arxiv.org/abs/2605.13708v1", "categories": "cs.CR, cs.DC, cs.LG"}
-{"custom_id": "2502.20427v3", "link": "https://arxiv.org/abs/2502.20427v3", "categories": "cs.CR, cs.AI, cs.SD, eess.AS"}
-{"custom_id": "2605.13706v1", "link": "https://arxiv.org/abs/2605.13706v1", "categories": "cs.CR, cs.AI, cs.CY, cs.NI"}
-{"custom_id": "2605.13698v1", "link": "https://arxiv.org/abs/2605.13698v1", "categories": "cs.CR"}
-{"custom_id": "2603.07770v2", "link": "https://arxiv.org/abs/2603.07770v2", "categories": "cs.DC, cs.CL"}
-{"custom_id": "2302.14234v5", "link": "https://arxiv.org/abs/2302.14234v5", "categories": "cs.GT, econ.TH"}
-{"custom_id": "2605.13676v1", "link": "https://arxiv.org/abs/2605.13676v1", "categories": "cs.CR"}
-{"custom_id": "2512.16056v2", "link": "https://arxiv.org/abs/2512.16056v2", "categories": "cs.DC, cs.NI, cs.PF"}
-{"custom_id": "2605.13668v1", "link": "https://arxiv.org/abs/2605.13668v1", "categories": "cs.LO"}
-{"custom_id": "2510.03992v2", "link": "https://arxiv.org/abs/2510.03992v2", "categories": "cs.CR, cs.AI"}
-{"custom_id": "2603.26074v2", "link": "https://arxiv.org/abs/2603.26074v2", "categories": "cs.CR"}
-{"custom_id": "2605.13922v1", "link": "https://arxiv.org/abs/2605.13922v1", "categories": "cs.CR, cs.LG, stat.CO"}
-{"custom_id": "2505.05358v3", "link": "https://arxiv.org/abs/2505.05358v3", "categories": "cs.DC, cs.ET"}
-{"custom_id": "2605.13503v1", "link": "https://arxiv.org/abs/2605.13503v1", "categories": "cs.CR, cs.LG"}
-{"custom_id": "2605.13500v1", "link": "https://arxiv.org/abs/2605.13500v1", "categories": "cs.RO, cs.CR"}
-{"custom_id": "2605.13496v1", "link": "https://arxiv.org/abs/2605.13496v1", "categories": "cs.DC, cs.LG"}
-{"custom_id": "2605.13492v1", "link": "https://arxiv.org/abs/2605.13492v1", "categories": "cs.CR"}
-{"custom_id": "2605.13489v1", "link": "https://arxiv.org/abs/2605.13489v1", "categories": "cs.DC"}
-{"custom_id": "2605.11997v2", "link": "https://arxiv.org/abs/2605.11997v2", "categories": "cs.CR"}
-{"custom_id": "2605.13471v1", "link": "https://arxiv.org/abs/2605.13471v1", "categories": "cs.CR"}
-{"custom_id": "2605.13434v1", "link": "https://arxiv.org/abs/2605.13434v1", "categories": "cs.LG, cs.DC, math.OC, stat.ML"}
-{"custom_id": "2605.13433v1", "link": "https://arxiv.org/abs/2605.13433v1", "categories": "cs.DC, cs.LG"}
-{"custom_id": "2605.13411v1", "link": "https://arxiv.org/abs/2605.13411v1", "categories": "cs.CR, cs.CL"}
-{"custom_id": "2605.13398v1", "link": "https://arxiv.org/abs/2605.13398v1", "categories": "cs.AR, cs.DB, cs.DC"}
-{"custom_id": "2605.02502v4", "link": "https://arxiv.org/abs/2605.02502v4", "categories": "cs.CR"}
-{"custom_id": "2605.13341v1", "link": "https://arxiv.org/abs/2605.13341v1", "categories": "cs.NI, cs.DC"}
-{"custom_id": "2605.13337v1", "link": "https://arxiv.org/abs/2605.13337v1", "categories": "cs.CR, cs.LG"}
-{"custom_id": "2605.05840v2", "link": "https://arxiv.org/abs/2605.05840v2", "categories": "cs.LO"}
-{"custom_id": "2512.21137v3", "link": "https://arxiv.org/abs/2512.21137v3", "categories": "cs.LO, cs.DC"}
-{"custom_id": "2605.10312v2", "link": "https://arxiv.org/abs/2605.10312v2", "categories": "physics.comp-ph, cs.DC, physics.chem-ph"}
-{"custom_id": "2605.10363v2", "link": "https://arxiv.org/abs/2605.10363v2", "categories": "physics.comp-ph, cs.DC, physics.chem-ph"}
-{"custom_id": "2605.13246v1", "link": "https://arxiv.org/abs/2605.13246v1", "categories": "cs.CR, cs.SE"}
-{"custom_id": "2512.13591v3", "link": "https://arxiv.org/abs/2512.13591v3", "categories": "cs.DC, astro-ph.IM, cs.PF"}
-{"custom_id": "2605.13214v1", "link": "https://arxiv.org/abs/2605.13214v1", "categories": "cs.CR, cs.LG"}
-{"custom_id": "2601.13359v2", "link": "https://arxiv.org/abs/2601.13359v2", "categories": "cs.CL, cs.CR, cs.LG"}
-{"custom_id": "2605.13210v1", "link": "https://arxiv.org/abs/2605.13210v1", "categories": "cs.AR, cs.CR"}
-{"custom_id": "2605.13209v1", "link": "https://arxiv.org/abs/2605.13209v1", "categories": "cs.DC, cs.PF"}
-{"custom_id": "2406.15055v4", "link": "https://arxiv.org/abs/2406.15055v4", "categories": "cs.CR"}
-{"custom_id": "2511.01303v2", "link": "https://arxiv.org/abs/2511.01303v2", "categories": "cs.CR, cs.LG"}
-{"custom_id": "2605.10807v2", "link": "https://arxiv.org/abs/2605.10807v2", "categories": "cs.CR, cs.AR, cs.LG"}
-{"custom_id": "2605.13163v1", "link": "https://arxiv.org/abs/2605.13163v1", "categories": "cs.CR, cs.CV, cs.LG"}
-{"custom_id": "2605.13159v1", "link": "https://arxiv.org/abs/2605.13159v1", "categories": "cs.CR"}
-{"custom_id": "2605.13138v1", "link": "https://arxiv.org/abs/2605.13138v1", "categories": "cs.SE, cs.CR, cs.LG"}
-{"custom_id": "2605.13132v1", "link": "https://arxiv.org/abs/2605.13132v1", "categories": "cs.CR"}
-{"custom_id": "2605.13115v1", "link": "https://arxiv.org/abs/2605.13115v1", "categories": "cs.CR, cs.LG"}
-{"custom_id": "2605.13109v1", "link": "https://arxiv.org/abs/2605.13109v1", "categories": "quant-ph, cs.CR"}
-{"custom_id": "2605.11053v2", "link": "https://arxiv.org/abs/2605.11053v2", "categories": "cs.CR, cs.AI, cs.LG"}
-{"custom_id": "2605.13100v1", "link": "https://arxiv.org/abs/2605.13100v1", "categories": "cs.CR, cs.SE"}
-{"custom_id": "2601.18842v3", "link": "https://arxiv.org/abs/2601.18842v3", "categories": "cs.CR, cs.AI, cs.CV"}
-{"custom_id": "2601.02537v5", "link": "https://arxiv.org/abs/2601.02537v5", "categories": "cs.NI, cs.DC"}
-{"custom_id": "2512.20178v2", "link": "https://arxiv.org/abs/2512.20178v2", "categories": "cs.DC, cs.PF"}
-{"custom_id": "2605.13044v1", "link": "https://arxiv.org/abs/2605.13044v1", "categories": "cs.CR, cs.AI"}
-{"custom_id": "2511.04135v2", "link": "https://arxiv.org/abs/2511.04135v2", "categories": "cs.IT, cs.CR"}
-{"custom_id": "2604.27438v2", "link": "https://arxiv.org/abs/2604.27438v2", "categories": "cs.CR, cs.CY"}
-{"custom_id": "2508.21457v3", "link": "https://arxiv.org/abs/2508.21457v3", "categories": "cs.CR"}
-{"custom_id": "2408.15621v3", "link": "https://arxiv.org/abs/2408.15621v3", "categories": "cs.LG, cs.CR"}
-{"custom_id": "2605.12990v1", "link": "https://arxiv.org/abs/2605.12990v1", "categories": "cs.CR"}
-{"custom_id": "2605.12976v1", "link": "https://arxiv.org/abs/2605.12976v1", "categories": "cs.CR"}
-{"custom_id": "2605.12942v1", "link": "https://arxiv.org/abs/2605.12942v1", "categories": "cs.CR"}
-{"custom_id": "2506.04634v3", "link": "https://arxiv.org/abs/2506.04634v3", "categories": "cs.CR"}
-{"custom_id": "2605.12935v1", "link": "https://arxiv.org/abs/2605.12935v1", "categories": "cs.DC"}
-{"custom_id": "2605.12927v1", "link": "https://arxiv.org/abs/2605.12927v1", "categories": "cs.CR, cs.CV, cs.HC"}
-{"custom_id": "2605.10007v2", "link": "https://arxiv.org/abs/2605.10007v2", "categories": "cs.PL, cs.LO, cs.SE"}
-{"custom_id": "2605.12875v1", "link": "https://arxiv.org/abs/2605.12875v1", "categories": "cs.CR"}
-{"custom_id": "2605.12869v1", "link": "https://arxiv.org/abs/2605.12869v1", "categories": "cs.CR, cs.AI"}
-{"custom_id": "2605.12863v1", "link": "https://arxiv.org/abs/2605.12863v1", "categories": "cs.PL, cs.AI, cs.CR"}
-{"custom_id": "2605.09935v2", "link": "https://arxiv.org/abs/2605.09935v2", "categories": "cs.CV, cs.CR"}
-{"custom_id": "2605.12850v1", "link": "https://arxiv.org/abs/2605.12850v1", "categories": "cs.CL, cs.AI, cs.CR, cs.LG"}
-{"custom_id": "2605.12841v1", "link": "https://arxiv.org/abs/2605.12841v1", "categories": "cs.CR"}
-{"custom_id": "2605.12827v1", "link": "https://arxiv.org/abs/2605.12827v1", "categories": "cs.CR, cs.AI, cs.LG"}
-{"custom_id": "2511.09861v3", "link": "https://arxiv.org/abs/2511.09861v3", "categories": "cs.DC, cs.AR"}
-{"custom_id": "2605.12813v1", "link": "https://arxiv.org/abs/2605.12813v1", "categories": "cs.CL, cs.AI, cs.CR, cs.LG"}
-{"custom_id": "2604.23887v2", "link": "https://arxiv.org/abs/2604.23887v2", "categories": "cs.CR, cs.AI"}
-{"custom_id": "2605.12794v1", "link": "https://arxiv.org/abs/2605.12794v1", "categories": "cs.GT, cs.CR, cs.DC, cs.NI, eess.SY"}
-{"custom_id": "2409.01143v3", "link": "https://arxiv.org/abs/2409.01143v3", "categories": "cs.DC"}
-{"custom_id": "2605.12787v1", "link": "https://arxiv.org/abs/2605.12787v1", "categories": "cs.DC, cs.CC"}
-{"custom_id": "2605.12746v1", "link": "https://arxiv.org/abs/2605.12746v1", "categories": "cs.CR, cs.AI"}
-{"custom_id": "2605.12743v1", "link": "https://arxiv.org/abs/2605.12743v1", "categories": "cs.CR, cs.CV"}
-{"custom_id": "2605.12734v1", "link": "https://arxiv.org/abs/2605.12734v1", "categories": "cs.DC"}
-{"custom_id": "2605.12729v1", "link": "https://arxiv.org/abs/2605.12729v1", "categories": "cs.NI, cs.AI, cs.CR"}
-{"custom_id": "2605.12683v1", "link": "https://arxiv.org/abs/2605.12683v1", "categories": "cs.LG, cs.AI, cs.DC, physics.comp-ph"}
-{"custom_id": "2605.12673v1", "link": "https://arxiv.org/abs/2605.12673v1", "categories": "cs.AI, cs.CR"}
-{"custom_id": "2604.17104v2", "link": "https://arxiv.org/abs/2604.17104v2", "categories": "cs.DC, cs.AI, cs.LG"}
-{"custom_id": "2605.12664v1", "link": "https://arxiv.org/abs/2605.12664v1", "categories": "cs.GT, cs.LG"}
-{"custom_id": "2602.04113v3", "link": "https://arxiv.org/abs/2602.04113v3", "categories": "cs.CR, cs.LG"}
-{"custom_id": "2603.07267v2", "link": "https://arxiv.org/abs/2603.07267v2", "categories": "cs.CR"}
-{"custom_id": "2502.15761v3", "link": "https://arxiv.org/abs/2502.15761v3", "categories": "cs.DC, cs.AI, cs.GR, cs.HC"}
-{"custom_id": "2605.12565v1", "link": "https://arxiv.org/abs/2605.12565v1", "categories": "cs.CR"}
-{"custom_id": "2605.12563v1", "link": "https://arxiv.org/abs/2605.12563v1", "categories": "cs.CR, cs.PL"}
-{"custom_id": "2605.11047v1", "link": "https://arxiv.org/abs/2605.11047v1", "categories": "cs.CR, cs.AI"}
-{"custom_id": "2605.11040v1", "link": "https://arxiv.org/abs/2605.11040v1", "categories": "cs.CR"}
-{"custom_id": "2605.11039v1", "link": "https://arxiv.org/abs/2605.11039v1", "categories": "cs.CR, cs.AI"}
-{"custom_id": "2605.11036v1", "link": "https://arxiv.org/abs/2605.11036v1", "categories": "cs.CR, cs.AI"}
-{"custom_id": "2605.11034v1", "link": "https://arxiv.org/abs/2605.11034v1", "categories": "cs.CR, cs.AI, cs.LG, cs.PF"}
-{"custom_id": "2605.11032v1", "link": "https://arxiv.org/abs/2605.11032v1", "categories": "cs.CR, cs.AI"}
-{"custom_id": "2605.11029v1", "link": "https://arxiv.org/abs/2605.11029v1", "categories": "cs.CR, cs.AI"}
-{"custom_id": "2605.11026v1", "link": "https://arxiv.org/abs/2605.11026v1", "categories": "cs.CR, cs.CL"}
-{"custom_id": "2605.11015v1", "link": "https://arxiv.org/abs/2605.11015v1", "categories": "cs.CR, cs.AI"}
-{"custom_id": "2605.11005v1", "link": "https://arxiv.org/abs/2605.11005v1", "categories": "cs.LG, cs.AI, cs.DC"}
-{"custom_id": "2605.11003v1", "link": "https://arxiv.org/abs/2605.11003v1", "categories": "cs.CR, cs.AI"}
-{"custom_id": "2605.11002v1", "link": "https://arxiv.org/abs/2605.11002v1", "categories": "cs.CR, cs.AI"}
-{"custom_id": "2605.10998v1", "link": "https://arxiv.org/abs/2605.10998v1", "categories": "cs.CR, cs.AI"}
-{"custom_id": "2605.10987v1", "link": "https://arxiv.org/abs/2605.10987v1", "categories": "cs.LG, cs.AI, cs.CR"}
-{"custom_id": "2605.10977v1", "link": "https://arxiv.org/abs/2605.10977v1", "categories": "cs.CR, cs.AI"}
-{"custom_id": "2602.16708v3", "link": "https://arxiv.org/abs/2602.16708v3", "categories": "cs.CR, cs.AI, cs.MA"}
-{"custom_id": "2605.08316v1", "link": "https://arxiv.org/abs/2605.08316v1", "categories": "cs.CR"}
-{"custom_id": "2605.08313v1", "link": "https://arxiv.org/abs/2605.08313v1", "categories": "cs.CR, cs.AI, cs.LG"}
-{"custom_id": "2605.08310v1", "link": "https://arxiv.org/abs/2605.08310v1", "categories": "cs.CR, cs.AI"}
-{"custom_id": "2605.08288v1", "link": "https://arxiv.org/abs/2605.08288v1", "categories": "cs.LG, cs.AI, cs.CR, cs.DC"}
-{"custom_id": "2605.08277v1", "link": "https://arxiv.org/abs/2605.08277v1", "categories": "cs.CR, cs.AI"}
-{"custom_id": "2605.08267v1", "link": "https://arxiv.org/abs/2605.08267v1", "categories": "cs.SE, cs.AI, cs.DC, cs.ET"}
-{"custom_id": "2605.08257v1", "link": "https://arxiv.org/abs/2605.08257v1", "categories": "cs.CR, cs.AI, cs.LG"}
-{"custom_id": "2605.10964v1", "link": "https://arxiv.org/abs/2605.10964v1", "categories": "cs.GT"}
-{"custom_id": "2605.08246v1", "link": "https://arxiv.org/abs/2605.08246v1", "categories": "cs.CV, cs.CR, cs.LG"}
-{"custom_id": "2605.08243v1", "link": "https://arxiv.org/abs/2605.08243v1", "categories": "cs.PL, cs.DC, cs.LG"}
-{"custom_id": "2605.08208v1", "link": "https://arxiv.org/abs/2605.08208v1", "categories": "cs.CY, cs.DC, cs.SE, cs.SI"}
-{"custom_id": "2605.08164v1", "link": "https://arxiv.org/abs/2605.08164v1", "categories": "cs.DC, cs.AI, cs.CR"}
-{"custom_id": "2605.08152v1", "link": "https://arxiv.org/abs/2605.08152v1", "categories": "cs.DC, cs.AI"}
-{"custom_id": "2605.12535v1", "link": "https://arxiv.org/abs/2605.12535v1", "categories": "cs.CR"}
-{"custom_id": "2605.08141v1", "link": "https://arxiv.org/abs/2605.08141v1", "categories": "cs.DC, cs.FL, cs.SE"}
-{"custom_id": "2605.08139v1", "link": "https://arxiv.org/abs/2605.08139v1", "categories": "cs.DC, cs.AI"}
-{"custom_id": "2605.08132v1", "link": "https://arxiv.org/abs/2605.08132v1", "categories": "cs.DC, cs.CR"}
+{"custom_id": "2605.30312v1", "link": "https://arxiv.org/abs/2605.30312v1", "categories": "cs.CR"}
+{"custom_id": "2605.30294v1", "link": "https://arxiv.org/abs/2605.30294v1", "categories": "cs.DC, cs.GR"}
+{"custom_id": "2605.27809v2", "link": "https://arxiv.org/abs/2605.27809v2", "categories": "cs.LG, cs.CR"}
+{"custom_id": "2605.25376v2", "link": "https://arxiv.org/abs/2605.25376v2", "categories": "cs.CR, cs.AI, cs.CY, cs.MA, cs.SE"}
+{"custom_id": "2605.30212v1", "link": "https://arxiv.org/abs/2605.30212v1", "categories": "cs.CR"}
+{"custom_id": "2605.30203v1", "link": "https://arxiv.org/abs/2605.30203v1", "categories": "cs.CR, cs.PL"}
+{"custom_id": "2605.30189v1", "link": "https://arxiv.org/abs/2605.30189v1", "categories": "cs.CR, cs.AI, cs.CL, cs.LG"}
+{"custom_id": "2605.30162v1", "link": "https://arxiv.org/abs/2605.30162v1", "categories": "cs.AI, cs.CR, cs.LG"}
+{"custom_id": "2605.30123v1", "link": "https://arxiv.org/abs/2605.30123v1", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2605.30106v1", "link": "https://arxiv.org/abs/2605.30106v1", "categories": "cs.LO"}
+{"custom_id": "2605.30096v1", "link": "https://arxiv.org/abs/2605.30096v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.30075v1", "link": "https://arxiv.org/abs/2605.30075v1", "categories": "cs.LG, cs.DC"}
+{"custom_id": "2605.30040v1", "link": "https://arxiv.org/abs/2605.30040v1", "categories": "cs.CR, cs.AI, cs.CL"}
+{"custom_id": "2604.09557v2", "link": "https://arxiv.org/abs/2604.09557v2", "categories": "cs.DC, cs.AI"}
+{"custom_id": "2605.29979v1", "link": "https://arxiv.org/abs/2605.29979v1", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2507.06092v4", "link": "https://arxiv.org/abs/2507.06092v4", "categories": "cs.CR, cs.AI, cs.LG"}
+{"custom_id": "2605.29970v1", "link": "https://arxiv.org/abs/2605.29970v1", "categories": "cs.DC"}
+{"custom_id": "2605.29963v1", "link": "https://arxiv.org/abs/2605.29963v1", "categories": "cs.CR, cs.AI, cs.LG"}
+{"custom_id": "2605.29960v1", "link": "https://arxiv.org/abs/2605.29960v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.29901v1", "link": "https://arxiv.org/abs/2605.29901v1", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2604.01904v2", "link": "https://arxiv.org/abs/2604.01904v2", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.29868v1", "link": "https://arxiv.org/abs/2605.29868v1", "categories": "cs.CR, cs.CV, cs.DC"}
+{"custom_id": "2605.29809v1", "link": "https://arxiv.org/abs/2605.29809v1", "categories": "cs.CR, cs.CV, cs.GR, cs.LG, cs.MM"}
+{"custom_id": "2505.20955v4", "link": "https://arxiv.org/abs/2505.20955v4", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2605.29801v1", "link": "https://arxiv.org/abs/2605.29801v1", "categories": "cs.AI, cs.CL, cs.CR, cs.CV, cs.LG"}
+{"custom_id": "2509.23694v5", "link": "https://arxiv.org/abs/2509.23694v5", "categories": "cs.AI, cs.CL, cs.CR"}
+{"custom_id": "2605.29760v1", "link": "https://arxiv.org/abs/2605.29760v1", "categories": "cs.IT, cs.CR"}
+{"custom_id": "2605.29740v1", "link": "https://arxiv.org/abs/2605.29740v1", "categories": "cs.DC"}
+{"custom_id": "2605.29737v1", "link": "https://arxiv.org/abs/2605.29737v1", "categories": "cs.CR, cs.CL, cs.SE"}
+{"custom_id": "2605.29728v1", "link": "https://arxiv.org/abs/2605.29728v1", "categories": "cs.DC"}
+{"custom_id": "2605.22831v2", "link": "https://arxiv.org/abs/2605.22831v2", "categories": "cs.DC"}
+{"custom_id": "2605.29664v1", "link": "https://arxiv.org/abs/2605.29664v1", "categories": "cs.DC, cs.LG"}
+{"custom_id": "2605.29654v1", "link": "https://arxiv.org/abs/2605.29654v1", "categories": "cs.CR"}
+{"custom_id": "2605.29651v1", "link": "https://arxiv.org/abs/2605.29651v1", "categories": "cs.CR"}
+{"custom_id": "2605.26156v2", "link": "https://arxiv.org/abs/2605.26156v2", "categories": "cs.CR, cs.AI, cs.LG"}
+{"custom_id": "2601.00065v3", "link": "https://arxiv.org/abs/2601.00065v3", "categories": "cs.LG, cs.CL, cs.CR"}
+{"custom_id": "2604.26506v2", "link": "https://arxiv.org/abs/2604.26506v2", "categories": "cs.CL, cs.CR"}
+{"custom_id": "2605.29621v1", "link": "https://arxiv.org/abs/2605.29621v1", "categories": "cs.CY, cs.CR"}
+{"custom_id": "2605.29620v1", "link": "https://arxiv.org/abs/2605.29620v1", "categories": "cs.CR, cs.SE"}
+{"custom_id": "2508.03221v5", "link": "https://arxiv.org/abs/2508.03221v5", "categories": "cs.CR, cs.CV"}
+{"custom_id": "2605.29604v1", "link": "https://arxiv.org/abs/2605.29604v1", "categories": "cs.DC, cs.DS, cs.PF"}
+{"custom_id": "2602.09499v2", "link": "https://arxiv.org/abs/2602.09499v2", "categories": "cs.LG, cs.CR"}
+{"custom_id": "2605.29573v1", "link": "https://arxiv.org/abs/2605.29573v1", "categories": "cs.DC"}
+{"custom_id": "2605.29569v1", "link": "https://arxiv.org/abs/2605.29569v1", "categories": "cs.CR"}
+{"custom_id": "2605.25889v3", "link": "https://arxiv.org/abs/2605.25889v3", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2410.19371v3", "link": "https://arxiv.org/abs/2410.19371v3", "categories": "stat.ML, cs.CR, cs.LG"}
+{"custom_id": "2604.06811v2", "link": "https://arxiv.org/abs/2604.06811v2", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.29526v1", "link": "https://arxiv.org/abs/2605.29526v1", "categories": "cs.CR, cs.AI, cs.LG"}
+{"custom_id": "2605.29524v1", "link": "https://arxiv.org/abs/2605.29524v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.29506v1", "link": "https://arxiv.org/abs/2605.29506v1", "categories": "cs.DC"}
+{"custom_id": "2605.29490v1", "link": "https://arxiv.org/abs/2605.29490v1", "categories": "cs.SE, cs.CR"}
+{"custom_id": "2408.15451v3", "link": "https://arxiv.org/abs/2408.15451v3", "categories": "cs.LG, cs.CR, stat.ME"}
+{"custom_id": "2605.29468v1", "link": "https://arxiv.org/abs/2605.29468v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.29465v1", "link": "https://arxiv.org/abs/2605.29465v1", "categories": "cs.CR"}
+{"custom_id": "2605.29450v1", "link": "https://arxiv.org/abs/2605.29450v1", "categories": "cs.CR"}
+{"custom_id": "2605.29434v1", "link": "https://arxiv.org/abs/2605.29434v1", "categories": "cs.CR, cs.AI, cs.CL, cs.LG"}
+{"custom_id": "2408.02634v3", "link": "https://arxiv.org/abs/2408.02634v3", "categories": "cs.GT, q-fin.MF, q-fin.TR"}
+{"custom_id": "2604.01473v3", "link": "https://arxiv.org/abs/2604.01473v3", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2512.11286v2", "link": "https://arxiv.org/abs/2512.11286v2", "categories": "quant-ph, cs.CR"}
+{"custom_id": "2603.26074v3", "link": "https://arxiv.org/abs/2603.26074v3", "categories": "cs.CR"}
+{"custom_id": "2603.18693v2", "link": "https://arxiv.org/abs/2603.18693v2", "categories": "cs.CR, cs.SE"}
+{"custom_id": "2605.29354v1", "link": "https://arxiv.org/abs/2605.29354v1", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2605.29353v1", "link": "https://arxiv.org/abs/2605.29353v1", "categories": "cs.CR, cs.CV"}
+{"custom_id": "2605.29346v1", "link": "https://arxiv.org/abs/2605.29346v1", "categories": "cs.DC"}
+{"custom_id": "2603.06951v2", "link": "https://arxiv.org/abs/2603.06951v2", "categories": "cs.AR, cs.CR, eess.SY"}
+{"custom_id": "2604.27601v2", "link": "https://arxiv.org/abs/2604.27601v2", "categories": "cs.CR"}
+{"custom_id": "2605.29269v1", "link": "https://arxiv.org/abs/2605.29269v1", "categories": "cs.CR"}
+{"custom_id": "2605.29251v1", "link": "https://arxiv.org/abs/2605.29251v1", "categories": "cs.AI, cs.CR"}
+{"custom_id": "2605.29245v1", "link": "https://arxiv.org/abs/2605.29245v1", "categories": "cs.CR, cs.CL, cs.LG"}
+{"custom_id": "2511.12025v2", "link": "https://arxiv.org/abs/2511.12025v2", "categories": "cs.DC"}
+{"custom_id": "2605.29237v1", "link": "https://arxiv.org/abs/2605.29237v1", "categories": "cs.CR"}
+{"custom_id": "2605.28017v2", "link": "https://arxiv.org/abs/2605.28017v2", "categories": "cs.CR, cs.IR"}
+{"custom_id": "2605.29226v1", "link": "https://arxiv.org/abs/2605.29226v1", "categories": "cs.CR"}
+{"custom_id": "2605.29224v1", "link": "https://arxiv.org/abs/2605.29224v1", "categories": "cs.CL, cs.AI, cs.CR"}
+{"custom_id": "2509.23571v3", "link": "https://arxiv.org/abs/2509.23571v3", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2509.23573v5", "link": "https://arxiv.org/abs/2509.23573v5", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.29210v1", "link": "https://arxiv.org/abs/2605.29210v1", "categories": "cs.CR"}
+{"custom_id": "2603.07974v3", "link": "https://arxiv.org/abs/2603.07974v3", "categories": "cs.CR, cs.DC"}
+{"custom_id": "2605.29178v1", "link": "https://arxiv.org/abs/2605.29178v1", "categories": "cs.CR, cs.MA"}
+{"custom_id": "2605.29177v1", "link": "https://arxiv.org/abs/2605.29177v1", "categories": "cs.CR, cs.ET"}
+{"custom_id": "2605.29174v1", "link": "https://arxiv.org/abs/2605.29174v1", "categories": "cs.AI, cs.CR"}
+{"custom_id": "2605.29169v1", "link": "https://arxiv.org/abs/2605.29169v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.29155v1", "link": "https://arxiv.org/abs/2605.29155v1", "categories": "cs.RO, cs.AI, cs.DC"}
+{"custom_id": "2605.29140v1", "link": "https://arxiv.org/abs/2605.29140v1", "categories": "cs.CR"}
+{"custom_id": "2605.29135v1", "link": "https://arxiv.org/abs/2605.29135v1", "categories": "cs.PF, cs.AR, cs.DC"}
+{"custom_id": "2605.29131v1", "link": "https://arxiv.org/abs/2605.29131v1", "categories": "cs.CR"}
+{"custom_id": "2603.14778v2", "link": "https://arxiv.org/abs/2603.14778v2", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.29115v1", "link": "https://arxiv.org/abs/2605.29115v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.29114v1", "link": "https://arxiv.org/abs/2605.29114v1", "categories": "cs.CR, cs.LG, cs.RO"}
+{"custom_id": "2605.29107v1", "link": "https://arxiv.org/abs/2605.29107v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.29068v1", "link": "https://arxiv.org/abs/2605.29068v1", "categories": "cs.AI, cs.CL, cs.CR, cs.LG"}
+{"custom_id": "2605.29059v1", "link": "https://arxiv.org/abs/2605.29059v1", "categories": "cs.SE, cs.AI, cs.CR"}
+{"custom_id": "2409.00876v2", "link": "https://arxiv.org/abs/2409.00876v2", "categories": "cs.DC, cs.CE, cs.DS"}
+{"custom_id": "2603.00357v3", "link": "https://arxiv.org/abs/2603.00357v3", "categories": "cs.DC, eess.SY"}
+{"custom_id": "2605.29006v1", "link": "https://arxiv.org/abs/2605.29006v1", "categories": "cs.DB, cs.DC, cs.OS"}
+{"custom_id": "2605.29002v1", "link": "https://arxiv.org/abs/2605.29002v1", "categories": "cs.LG, cs.DC"}
+{"custom_id": "2605.28999v1", "link": "https://arxiv.org/abs/2605.28999v1", "categories": "cs.CR, cs.AI, cs.CL, cs.LG"}
+{"custom_id": "2605.28991v1", "link": "https://arxiv.org/abs/2605.28991v1", "categories": "cs.CR, cs.OS"}
+{"custom_id": "2604.00736v2", "link": "https://arxiv.org/abs/2604.00736v2", "categories": "cs.DC, cs.ET"}
+{"custom_id": "2605.28952v1", "link": "https://arxiv.org/abs/2605.28952v1", "categories": "cs.CR, cs.DS, cs.IT, cs.LG"}
+{"custom_id": "2506.11483v4", "link": "https://arxiv.org/abs/2506.11483v4", "categories": "cs.DC, cs.GR"}
+{"custom_id": "2605.28914v1", "link": "https://arxiv.org/abs/2605.28914v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.28912v1", "link": "https://arxiv.org/abs/2605.28912v1", "categories": "cs.LG, cs.CR"}
+{"custom_id": "2605.23955v2", "link": "https://arxiv.org/abs/2605.23955v2", "categories": "cs.AI, cs.DC, cs.LG, cs.SI, q-fin.CP"}
+{"custom_id": "2605.28764v1", "link": "https://arxiv.org/abs/2605.28764v1", "categories": "cs.AI, cs.DC, cs.MA"}
+{"custom_id": "2605.28734v1", "link": "https://arxiv.org/abs/2605.28734v1", "categories": "cs.CR, cs.CL, cs.LG"}
+{"custom_id": "2410.15236v4", "link": "https://arxiv.org/abs/2410.15236v4", "categories": "cs.CR, cs.AI, cs.LG"}
+{"custom_id": "2604.03430v2", "link": "https://arxiv.org/abs/2604.03430v2", "categories": "cs.MA, cs.NI"}
+{"custom_id": "2605.28660v1", "link": "https://arxiv.org/abs/2605.28660v1", "categories": "cs.CR, cs.NI"}
+{"custom_id": "2605.28646v1", "link": "https://arxiv.org/abs/2605.28646v1", "categories": "cs.CR, cs.CL"}
+{"custom_id": "2605.28645v1", "link": "https://arxiv.org/abs/2605.28645v1", "categories": "cs.CR, cs.CL"}
+{"custom_id": "2605.28632v1", "link": "https://arxiv.org/abs/2605.28632v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2604.08304v2", "link": "https://arxiv.org/abs/2604.08304v2", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2601.19466v2", "link": "https://arxiv.org/abs/2601.19466v2", "categories": "cs.FL, cs.LO"}
+{"custom_id": "2605.28597v1", "link": "https://arxiv.org/abs/2605.28597v1", "categories": "cs.CR, cs.AI, cs.LG"}
+{"custom_id": "2605.28588v1", "link": "https://arxiv.org/abs/2605.28588v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.28899v1", "link": "https://arxiv.org/abs/2605.28899v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2509.23019v5", "link": "https://arxiv.org/abs/2509.23019v5", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.28553v1", "link": "https://arxiv.org/abs/2605.28553v1", "categories": "cs.AI, cs.CR"}
+{"custom_id": "2507.09580v6", "link": "https://arxiv.org/abs/2507.09580v6", "categories": "cs.CR"}
+{"custom_id": "2605.28476v1", "link": "https://arxiv.org/abs/2605.28476v1", "categories": "cs.CR"}
+{"custom_id": "2602.03328v2", "link": "https://arxiv.org/abs/2602.03328v2", "categories": "cs.CR"}
+{"custom_id": "2605.28426v1", "link": "https://arxiv.org/abs/2605.28426v1", "categories": "cs.DC, math.NA"}
+{"custom_id": "2605.28400v1", "link": "https://arxiv.org/abs/2605.28400v1", "categories": "cs.DC"}
+{"custom_id": "2603.09781v2", "link": "https://arxiv.org/abs/2603.09781v2", "categories": "cs.CR"}
+{"custom_id": "2605.25631v3", "link": "https://arxiv.org/abs/2605.25631v3", "categories": "cs.GT, cs.CR, math.PR, q-fin.TR"}
+{"custom_id": "2605.19742v3", "link": "https://arxiv.org/abs/2605.19742v3", "categories": "cs.GT, cs.CR, math.PR, q-fin.TR"}
+{"custom_id": "2605.15746v4", "link": "https://arxiv.org/abs/2605.15746v4", "categories": "cs.GT, cs.CR, math.PR, q-fin.TR"}
+{"custom_id": "2605.28334v1", "link": "https://arxiv.org/abs/2605.28334v1", "categories": "cs.CR"}
+{"custom_id": "2605.28333v1", "link": "https://arxiv.org/abs/2605.28333v1", "categories": "cs.DS, cs.DC"}
+{"custom_id": "2602.03515v2", "link": "https://arxiv.org/abs/2602.03515v2", "categories": "cs.LG, cs.AI, cs.DC"}
+{"custom_id": "2605.28325v1", "link": "https://arxiv.org/abs/2605.28325v1", "categories": "cs.IT, cs.CR, eess.SP, eess.SY"}
+{"custom_id": "2605.28302v1", "link": "https://arxiv.org/abs/2605.28302v1", "categories": "cs.LG, cs.AI, cs.DC"}
+{"custom_id": "2605.25923v2", "link": "https://arxiv.org/abs/2605.25923v2", "categories": "cs.CR"}
+{"custom_id": "2605.27317v2", "link": "https://arxiv.org/abs/2605.27317v2", "categories": "cs.CR, cs.NI, math.NA"}
+{"custom_id": "2605.28214v1", "link": "https://arxiv.org/abs/2605.28214v1", "categories": "cs.CR, cs.LG, cs.MA"}
+{"custom_id": "2605.28205v1", "link": "https://arxiv.org/abs/2605.28205v1", "categories": "cs.DC"}
+{"custom_id": "2512.09800v2", "link": "https://arxiv.org/abs/2512.09800v2", "categories": "cs.LG, cs.DC, cs.PF"}
+{"custom_id": "2602.04898v3", "link": "https://arxiv.org/abs/2602.04898v3", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.28146v1", "link": "https://arxiv.org/abs/2605.28146v1", "categories": "cs.CR"}
+{"custom_id": "2605.28122v1", "link": "https://arxiv.org/abs/2605.28122v1", "categories": "cs.CR, cs.AI, cs.CL"}
+{"custom_id": "2605.28893v1", "link": "https://arxiv.org/abs/2605.28893v1", "categories": "cs.SE, cs.CR"}
+{"custom_id": "2605.28116v1", "link": "https://arxiv.org/abs/2605.28116v1", "categories": "cs.CR, cs.AI, cs.CL"}
+{"custom_id": "2605.28112v1", "link": "https://arxiv.org/abs/2605.28112v1", "categories": "cs.CR, cs.CL, cs.IR"}
+{"custom_id": "2605.28095v1", "link": "https://arxiv.org/abs/2605.28095v1", "categories": "cs.DC"}
+{"custom_id": "2605.28890v1", "link": "https://arxiv.org/abs/2605.28890v1", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2605.28078v1", "link": "https://arxiv.org/abs/2605.28078v1", "categories": "cs.CR, cs.AI, cs.LG, stat.ML"}
+{"custom_id": "2605.28074v1", "link": "https://arxiv.org/abs/2605.28074v1", "categories": "cs.CR, cs.CL, cs.IR"}
+{"custom_id": "2605.28071v1", "link": "https://arxiv.org/abs/2605.28071v1", "categories": "cs.CR"}
+{"custom_id": "2604.16457v2", "link": "https://arxiv.org/abs/2604.16457v2", "categories": "cs.DC"}
+{"custom_id": "2605.28030v1", "link": "https://arxiv.org/abs/2605.28030v1", "categories": "cs.LG, cs.AI, cs.CR"}
+{"custom_id": "2605.12015v2", "link": "https://arxiv.org/abs/2605.12015v2", "categories": "cs.CR, cs.AI, cs.CL, cs.LG, cs.MA"}
+{"custom_id": "2605.28001v1", "link": "https://arxiv.org/abs/2605.28001v1", "categories": "cs.AI, cs.CR"}
+{"custom_id": "2502.17832v4", "link": "https://arxiv.org/abs/2502.17832v4", "categories": "cs.LG, cs.AI, cs.CR, cs.CV"}
+{"custom_id": "2409.08784v3", "link": "https://arxiv.org/abs/2409.08784v3", "categories": "cs.CR"}
+{"custom_id": "2605.27963v1", "link": "https://arxiv.org/abs/2605.27963v1", "categories": "cs.NI, cs.DC"}
+{"custom_id": "2605.27932v1", "link": "https://arxiv.org/abs/2605.27932v1", "categories": "cs.CV, cs.AI, cs.CL, cs.CR, cs.LG"}
+{"custom_id": "2605.27918v1", "link": "https://arxiv.org/abs/2605.27918v1", "categories": "cs.DC"}
+{"custom_id": "2605.27912v1", "link": "https://arxiv.org/abs/2605.27912v1", "categories": "cs.CR, cs.DS, cs.LG"}
+{"custom_id": "2505.06304v4", "link": "https://arxiv.org/abs/2505.06304v4", "categories": "cs.CR"}
+{"custom_id": "2605.26527v2", "link": "https://arxiv.org/abs/2605.26527v2", "categories": "cs.DC, cs.PL"}
+{"custom_id": "2605.27836v1", "link": "https://arxiv.org/abs/2605.27836v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.27825v1", "link": "https://arxiv.org/abs/2605.27825v1", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2605.27823v1", "link": "https://arxiv.org/abs/2605.27823v1", "categories": "cs.CR, cs.AI, cs.CV"}
+{"custom_id": "2605.27804v1", "link": "https://arxiv.org/abs/2605.27804v1", "categories": "cs.CR, cs.OS"}
+{"custom_id": "2605.27803v1", "link": "https://arxiv.org/abs/2605.27803v1", "categories": "cs.CR, cs.AR"}
+{"custom_id": "2605.27801v1", "link": "https://arxiv.org/abs/2605.27801v1", "categories": "cs.CY, cs.CR, cs.ET, cs.HC, cs.SI"}
+{"custom_id": "2605.27782v1", "link": "https://arxiv.org/abs/2605.27782v1", "categories": "cs.LG, cs.CR"}
+{"custom_id": "2605.27743v1", "link": "https://arxiv.org/abs/2605.27743v1", "categories": "cs.CR"}
+{"custom_id": "2605.22661v2", "link": "https://arxiv.org/abs/2605.22661v2", "categories": "cs.MA, cs.DC, cs.GT, eess.SY"}
+{"custom_id": "2605.27729v1", "link": "https://arxiv.org/abs/2605.27729v1", "categories": "cs.CR"}
+{"custom_id": "2604.15919v3", "link": "https://arxiv.org/abs/2604.15919v3", "categories": "cs.DC"}
+{"custom_id": "2605.27705v1", "link": "https://arxiv.org/abs/2605.27705v1", "categories": "cs.CR, cs.MM"}
+{"custom_id": "2605.27691v1", "link": "https://arxiv.org/abs/2605.27691v1", "categories": "cs.DC"}
+{"custom_id": "2605.27689v1", "link": "https://arxiv.org/abs/2605.27689v1", "categories": "cs.LG, cs.CR"}
+{"custom_id": "2605.27678v1", "link": "https://arxiv.org/abs/2605.27678v1", "categories": "cs.LG, cs.DC"}
+{"custom_id": "2605.27674v1", "link": "https://arxiv.org/abs/2605.27674v1", "categories": "cs.CR, cs.AI, cs.LG"}
+{"custom_id": "2605.27667v1", "link": "https://arxiv.org/abs/2605.27667v1", "categories": "cs.CR"}
+{"custom_id": "2510.03559v3", "link": "https://arxiv.org/abs/2510.03559v3", "categories": "cs.CR, cs.HC"}
+{"custom_id": "2605.27652v1", "link": "https://arxiv.org/abs/2605.27652v1", "categories": "cs.DC"}
+{"custom_id": "2605.27647v1", "link": "https://arxiv.org/abs/2605.27647v1", "categories": "cs.CR, quant-ph"}
+{"custom_id": "2605.27631v1", "link": "https://arxiv.org/abs/2605.27631v1", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2605.23066v2", "link": "https://arxiv.org/abs/2605.23066v2", "categories": "cs.DC, cs.LG"}
+{"custom_id": "2605.27602v1", "link": "https://arxiv.org/abs/2605.27602v1", "categories": "cs.GT, cs.CR"}
+{"custom_id": "2605.27601v1", "link": "https://arxiv.org/abs/2605.27601v1", "categories": "cs.DC, cs.LG, cs.PF"}
+{"custom_id": "2605.27599v1", "link": "https://arxiv.org/abs/2605.27599v1", "categories": "cs.LG, cs.AI, cs.AR, cs.DC, cs.PF"}
+{"custom_id": "2512.17375v2", "link": "https://arxiv.org/abs/2512.17375v2", "categories": "cs.LG, cs.CL, cs.CR"}
+{"custom_id": "2605.27587v1", "link": "https://arxiv.org/abs/2605.27587v1", "categories": "cs.CR"}
+{"custom_id": "2502.08412v3", "link": "https://arxiv.org/abs/2502.08412v3", "categories": "cs.GT, econ.TH"}
+{"custom_id": "2511.11896v3", "link": "https://arxiv.org/abs/2511.11896v3", "categories": "cs.CR, cs.AI, cs.SE"}
+{"custom_id": "2605.27565v1", "link": "https://arxiv.org/abs/2605.27565v1", "categories": "cs.CR"}
+{"custom_id": "2512.18444v2", "link": "https://arxiv.org/abs/2512.18444v2", "categories": "cs.GT, cs.AI, cs.DC, cs.MA"}
+{"custom_id": "2605.27551v1", "link": "https://arxiv.org/abs/2605.27551v1", "categories": "cs.AI, cs.CR, cs.IR, cs.MM"}
+{"custom_id": "2605.27540v1", "link": "https://arxiv.org/abs/2605.27540v1", "categories": "quant-ph, cs.DC"}
+{"custom_id": "2605.27535v1", "link": "https://arxiv.org/abs/2605.27535v1", "categories": "cs.CR"}
+{"custom_id": "2602.18673v3", "link": "https://arxiv.org/abs/2602.18673v3", "categories": "cs.MA, cs.DC"}
+{"custom_id": "2605.27299v1", "link": "https://arxiv.org/abs/2605.27299v1", "categories": "cs.CR, cs.AI, cs.HC, cs.LG, eess.SY"}
+{"custom_id": "2605.27494v1", "link": "https://arxiv.org/abs/2605.27494v1", "categories": "cs.CR, cs.AI, cs.CL, cs.IR, cs.LG"}
+{"custom_id": "2605.02958v2", "link": "https://arxiv.org/abs/2605.02958v2", "categories": "cs.CR, cs.AI, cs.CL, cs.LG"}
+{"custom_id": "2605.13779v2", "link": "https://arxiv.org/abs/2605.13779v2", "categories": "cs.LG, cs.AI, cs.DC"}
+{"custom_id": "2605.27489v1", "link": "https://arxiv.org/abs/2605.27489v1", "categories": "cs.CR, cs.AI, cs.LG"}
+{"custom_id": "2605.24461v2", "link": "https://arxiv.org/abs/2605.24461v2", "categories": "cs.AR, cs.DC, eess.SY"}
+{"custom_id": "2510.19420v2", "link": "https://arxiv.org/abs/2510.19420v2", "categories": "cs.CR, cs.AI, cs.LG, cs.MA, math.OC"}
+{"custom_id": "2601.04512v3", "link": "https://arxiv.org/abs/2601.04512v3", "categories": "cs.CR, cs.CY"}
+{"custom_id": "2605.27488v1", "link": "https://arxiv.org/abs/2605.27488v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2601.21972v5", "link": "https://arxiv.org/abs/2601.21972v5", "categories": "cs.AI, cs.DC, cs.MA"}
+{"custom_id": "2602.04397v2", "link": "https://arxiv.org/abs/2602.04397v2", "categories": "cs.GT, cs.LG"}
+{"custom_id": "2604.06550v2", "link": "https://arxiv.org/abs/2604.06550v2", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.27148v1", "link": "https://arxiv.org/abs/2605.27148v1", "categories": "cs.CR"}
+{"custom_id": "2603.08225v2", "link": "https://arxiv.org/abs/2603.08225v2", "categories": "cs.CR"}
+{"custom_id": "2605.27135v1", "link": "https://arxiv.org/abs/2605.27135v1", "categories": "cs.CR, cs.CV"}
+{"custom_id": "2605.27110v1", "link": "https://arxiv.org/abs/2605.27110v1", "categories": "cs.CR, cs.CL"}
+{"custom_id": "2605.27485v1", "link": "https://arxiv.org/abs/2605.27485v1", "categories": "cs.LO, cs.LG, cs.SE"}
+{"custom_id": "2603.10768v2", "link": "https://arxiv.org/abs/2603.10768v2", "categories": "cs.DC"}
+{"custom_id": "2605.27106v1", "link": "https://arxiv.org/abs/2605.27106v1", "categories": "cs.DC, cs.GT, cs.MA, cs.NI"}
+{"custom_id": "2605.27083v1", "link": "https://arxiv.org/abs/2605.27083v1", "categories": "cs.CL, cs.CR"}
+{"custom_id": "2605.27081v1", "link": "https://arxiv.org/abs/2605.27081v1", "categories": "cs.LG, cs.AI, cs.DC"}
+{"custom_id": "2605.05774v2", "link": "https://arxiv.org/abs/2605.05774v2", "categories": "cs.CR, cs.DC"}
+{"custom_id": "2512.22173v2", "link": "https://arxiv.org/abs/2512.22173v2", "categories": "cs.DC, cond-mat.mtrl-sci"}
+{"custom_id": "2605.27042v1", "link": "https://arxiv.org/abs/2605.27042v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2503.22452v4", "link": "https://arxiv.org/abs/2503.22452v4", "categories": "cs.DC"}
+{"custom_id": "2605.27014v1", "link": "https://arxiv.org/abs/2605.27014v1", "categories": "cs.LO, cs.AI"}
+{"custom_id": "2505.11063v3", "link": "https://arxiv.org/abs/2505.11063v3", "categories": "cs.AI, cs.CR"}
+{"custom_id": "2605.26999v1", "link": "https://arxiv.org/abs/2605.26999v1", "categories": "cs.CL, cs.CR"}
+{"custom_id": "2605.26986v1", "link": "https://arxiv.org/abs/2605.26986v1", "categories": "cs.CR"}
+{"custom_id": "2605.26975v1", "link": "https://arxiv.org/abs/2605.26975v1", "categories": "cs.DC"}
+{"custom_id": "2605.26960v1", "link": "https://arxiv.org/abs/2605.26960v1", "categories": "cs.NI, cs.DC"}
+{"custom_id": "2601.04275v2", "link": "https://arxiv.org/abs/2601.04275v2", "categories": "cs.CR, cs.AI, cs.CL"}
+{"custom_id": "2605.03309v2", "link": "https://arxiv.org/abs/2605.03309v2", "categories": "cs.CR, cs.AI, cs.SE"}
+{"custom_id": "2511.04711v2", "link": "https://arxiv.org/abs/2511.04711v2", "categories": "cs.CR, cs.AI, cs.LG"}
+{"custom_id": "2605.01037v3", "link": "https://arxiv.org/abs/2605.01037v3", "categories": "cs.CR, cs.AI, cs.PL"}
+{"custom_id": "2605.26930v1", "link": "https://arxiv.org/abs/2605.26930v1", "categories": "cs.DC, cs.NI"}
+{"custom_id": "2605.26903v1", "link": "https://arxiv.org/abs/2605.26903v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.24750v2", "link": "https://arxiv.org/abs/2605.24750v2", "categories": "cs.GT"}
+{"custom_id": "2605.26882v1", "link": "https://arxiv.org/abs/2605.26882v1", "categories": "cs.CR"}
+{"custom_id": "2406.09110v3", "link": "https://arxiv.org/abs/2406.09110v3", "categories": "quant-ph, cs.CR"}
+{"custom_id": "2605.26876v1", "link": "https://arxiv.org/abs/2605.26876v1", "categories": "cs.CR"}
+{"custom_id": "2605.09370v2", "link": "https://arxiv.org/abs/2605.09370v2", "categories": "cs.DC, cs.AI"}
+{"custom_id": "2507.00637v3", "link": "https://arxiv.org/abs/2507.00637v3", "categories": "cs.CR, cs.SI"}
+{"custom_id": "2605.26791v1", "link": "https://arxiv.org/abs/2605.26791v1", "categories": "cs.CR"}
+{"custom_id": "2605.26754v1", "link": "https://arxiv.org/abs/2605.26754v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2604.28059v2", "link": "https://arxiv.org/abs/2604.28059v2", "categories": "cs.AR, cs.DC, cs.NE"}
+{"custom_id": "2605.28879v1", "link": "https://arxiv.org/abs/2605.28879v1", "categories": "quant-ph, cs.CR"}
+{"custom_id": "2605.26702v1", "link": "https://arxiv.org/abs/2605.26702v1", "categories": "cs.CV, cs.AI, cs.CR, cs.LG"}
+{"custom_id": "2605.14799v2", "link": "https://arxiv.org/abs/2605.14799v2", "categories": "cs.CV, cs.CR, cs.SI"}
+{"custom_id": "2605.26679v1", "link": "https://arxiv.org/abs/2605.26679v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.26671v1", "link": "https://arxiv.org/abs/2605.26671v1", "categories": "cs.DB, cs.DC"}
+{"custom_id": "2605.26665v1", "link": "https://arxiv.org/abs/2605.26665v1", "categories": "cs.CR"}
+{"custom_id": "2503.20507v4", "link": "https://arxiv.org/abs/2503.20507v4", "categories": "cs.AR, cs.DC, cs.LG"}
+{"custom_id": "2605.26651v1", "link": "https://arxiv.org/abs/2605.26651v1", "categories": "cs.CR"}
+{"custom_id": "2510.17759v2", "link": "https://arxiv.org/abs/2510.17759v2", "categories": "cs.CR, cs.CL, cs.CV, cs.LG, stat.ML"}
+{"custom_id": "2602.17335v3", "link": "https://arxiv.org/abs/2602.17335v3", "categories": "cs.DB, cs.DC"}
+{"custom_id": "2605.26604v1", "link": "https://arxiv.org/abs/2605.26604v1", "categories": "cs.GT, cs.DC, cs.NI, econ.TH"}
+{"custom_id": "2605.25002v2", "link": "https://arxiv.org/abs/2605.25002v2", "categories": "cs.CR"}
+{"custom_id": "2605.26599v1", "link": "https://arxiv.org/abs/2605.26599v1", "categories": "cs.DC, math.NA"}
+{"custom_id": "2605.26597v1", "link": "https://arxiv.org/abs/2605.26597v1", "categories": "cs.CR, cs.MA"}
+{"custom_id": "2605.26595v1", "link": "https://arxiv.org/abs/2605.26595v1", "categories": "cs.CR, cs.AI, cs.LG"}
+{"custom_id": "2605.26574v1", "link": "https://arxiv.org/abs/2605.26574v1", "categories": "cs.CR"}
+{"custom_id": "2605.24217v2", "link": "https://arxiv.org/abs/2605.24217v2", "categories": "cs.AI, cs.DC"}
+{"custom_id": "2601.02092v2", "link": "https://arxiv.org/abs/2601.02092v2", "categories": "cs.DC"}
+{"custom_id": "2512.13268v2", "link": "https://arxiv.org/abs/2512.13268v2", "categories": "cs.DC"}
+{"custom_id": "2605.26548v1", "link": "https://arxiv.org/abs/2605.26548v1", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2605.26542v1", "link": "https://arxiv.org/abs/2605.26542v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.26526v1", "link": "https://arxiv.org/abs/2605.26526v1", "categories": "cs.LG, cs.CR"}
+{"custom_id": "2605.26523v1", "link": "https://arxiv.org/abs/2605.26523v1", "categories": "cs.DC, cs.AI, cs.LG"}
+{"custom_id": "2602.19450v3", "link": "https://arxiv.org/abs/2602.19450v3", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.26497v1", "link": "https://arxiv.org/abs/2605.26497v1", "categories": "cs.CR"}
+{"custom_id": "2602.02192v5", "link": "https://arxiv.org/abs/2602.02192v5", "categories": "cs.LG, cs.DC"}
+{"custom_id": "2605.26465v1", "link": "https://arxiv.org/abs/2605.26465v1", "categories": "cs.CR"}
+{"custom_id": "2605.26461v1", "link": "https://arxiv.org/abs/2605.26461v1", "categories": "cs.DC"}
+{"custom_id": "2605.26418v1", "link": "https://arxiv.org/abs/2605.26418v1", "categories": "cs.LG, cs.AI, cs.DC"}
+{"custom_id": "2604.18179v3", "link": "https://arxiv.org/abs/2604.18179v3", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2403.04976v4", "link": "https://arxiv.org/abs/2403.04976v4", "categories": "cs.DC"}
+{"custom_id": "2605.26409v1", "link": "https://arxiv.org/abs/2605.26409v1", "categories": "cs.CR, cs.AI, cs.LG"}
+{"custom_id": "2605.26404v1", "link": "https://arxiv.org/abs/2605.26404v1", "categories": "cs.DC"}
+{"custom_id": "2602.19199v2", "link": "https://arxiv.org/abs/2602.19199v2", "categories": "cs.CR"}
+{"custom_id": "2605.26384v1", "link": "https://arxiv.org/abs/2605.26384v1", "categories": "cs.DC, cs.PF, eess.SY"}
+{"custom_id": "2605.26351v1", "link": "https://arxiv.org/abs/2605.26351v1", "categories": "cs.CR"}
+{"custom_id": "2603.19084v2", "link": "https://arxiv.org/abs/2603.19084v2", "categories": "cs.CR, cs.CY"}
+{"custom_id": "2605.26323v1", "link": "https://arxiv.org/abs/2605.26323v1", "categories": "cs.DC"}
+{"custom_id": "2512.11878v3", "link": "https://arxiv.org/abs/2512.11878v3", "categories": "cs.CY, cs.CR"}
+{"custom_id": "2512.15028v7", "link": "https://arxiv.org/abs/2512.15028v7", "categories": "cs.DC, cs.NI, cs.OS, cs.PF"}
+{"custom_id": "2605.26307v1", "link": "https://arxiv.org/abs/2605.26307v1", "categories": "cs.CR, cs.AI, cs.NI"}
+{"custom_id": "2605.26298v1", "link": "https://arxiv.org/abs/2605.26298v1", "categories": "cs.CR, cs.OS"}
+{"custom_id": "2605.26297v1", "link": "https://arxiv.org/abs/2605.26297v1", "categories": "cs.DC"}
+{"custom_id": "2604.27019v3", "link": "https://arxiv.org/abs/2604.27019v3", "categories": "cs.LG, cs.CL, cs.CR"}
+{"custom_id": "2605.12827v2", "link": "https://arxiv.org/abs/2605.12827v2", "categories": "cs.CR, cs.AI, cs.LG"}
+{"custom_id": "2605.26269v1", "link": "https://arxiv.org/abs/2605.26269v1", "categories": "cs.CR"}
+{"custom_id": "2512.01678v5", "link": "https://arxiv.org/abs/2512.01678v5", "categories": "cs.LG, cs.DC, cs.PL"}
+{"custom_id": "2605.02329v2", "link": "https://arxiv.org/abs/2605.02329v2", "categories": "cs.DC"}
+{"custom_id": "2602.04990v3", "link": "https://arxiv.org/abs/2602.04990v3", "categories": "cs.LG, cs.GT"}
+{"custom_id": "2509.02113v2", "link": "https://arxiv.org/abs/2509.02113v2", "categories": "cs.LG, cs.AI, cs.CR, cs.SI"}
+{"custom_id": "2605.26018v1", "link": "https://arxiv.org/abs/2605.26018v1", "categories": "cs.CR"}
+{"custom_id": "2605.26196v1", "link": "https://arxiv.org/abs/2605.26196v1", "categories": "cs.HC, cs.CR"}
+{"custom_id": "2605.26195v1", "link": "https://arxiv.org/abs/2605.26195v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2601.06948v2", "link": "https://arxiv.org/abs/2601.06948v2", "categories": "cs.CR"}
+{"custom_id": "2311.11342v5", "link": "https://arxiv.org/abs/2311.11342v5", "categories": "cs.LG, cs.DC, math.OC"}
+{"custom_id": "2406.10158v2", "link": "https://arxiv.org/abs/2406.10158v2", "categories": "cs.DB, cs.DC"}
+{"custom_id": "2605.21118v2", "link": "https://arxiv.org/abs/2605.21118v2", "categories": "cs.CR"}
+{"custom_id": "2605.25937v1", "link": "https://arxiv.org/abs/2605.25937v1", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2602.04120v3", "link": "https://arxiv.org/abs/2602.04120v3", "categories": "cs.LG, cs.AI, cs.DC, cs.SE"}
+{"custom_id": "2605.25916v1", "link": "https://arxiv.org/abs/2605.25916v1", "categories": "cs.LG, cs.DC, cs.NI"}
+{"custom_id": "2605.22832v2", "link": "https://arxiv.org/abs/2605.22832v2", "categories": "cs.DC, cs.DS, math.CO, math.PR"}
+{"custom_id": "2605.25871v1", "link": "https://arxiv.org/abs/2605.25871v1", "categories": "cs.SE, cs.CR"}
+{"custom_id": "2605.25865v1", "link": "https://arxiv.org/abs/2605.25865v1", "categories": "cs.CR"}
+{"custom_id": "2605.25844v1", "link": "https://arxiv.org/abs/2605.25844v1", "categories": "cs.CR, cs.DC, cs.GT"}
+{"custom_id": "2511.12046v2", "link": "https://arxiv.org/abs/2511.12046v2", "categories": "cs.CR, cs.AI, cs.CV, cs.LG"}
+{"custom_id": "2605.25836v1", "link": "https://arxiv.org/abs/2605.25836v1", "categories": "cs.CR, cs.AI, cs.CL"}
+{"custom_id": "2605.22119v2", "link": "https://arxiv.org/abs/2605.22119v2", "categories": "cs.CR"}
+{"custom_id": "2508.20424v4", "link": "https://arxiv.org/abs/2508.20424v4", "categories": "cs.CR"}
+{"custom_id": "2605.25822v1", "link": "https://arxiv.org/abs/2605.25822v1", "categories": "cs.CR"}
+{"custom_id": "2605.25819v1", "link": "https://arxiv.org/abs/2605.25819v1", "categories": "cs.LG, cs.CR"}
+{"custom_id": "2605.25796v1", "link": "https://arxiv.org/abs/2605.25796v1", "categories": "cs.CR, cs.AI, cs.CL"}
+{"custom_id": "2605.25791v1", "link": "https://arxiv.org/abs/2605.25791v1", "categories": "cs.CR"}
+{"custom_id": "2510.14862v2", "link": "https://arxiv.org/abs/2510.14862v2", "categories": "cs.CV, cs.DC"}
+{"custom_id": "2508.09801v3", "link": "https://arxiv.org/abs/2508.09801v3", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2304.13941v3", "link": "https://arxiv.org/abs/2304.13941v3", "categories": "cs.CR"}
+{"custom_id": "2605.26539v1", "link": "https://arxiv.org/abs/2605.26539v1", "categories": "cs.SE, cs.CR"}
+{"custom_id": "2605.25716v1", "link": "https://arxiv.org/abs/2605.25716v1", "categories": "cs.CR, cs.DC"}
+{"custom_id": "2605.25713v1", "link": "https://arxiv.org/abs/2605.25713v1", "categories": "cs.CR"}
+{"custom_id": "2605.25701v1", "link": "https://arxiv.org/abs/2605.25701v1", "categories": "cs.DC, cs.CL, cs.IR, cs.NI"}
+{"custom_id": "2605.17412v2", "link": "https://arxiv.org/abs/2605.17412v2", "categories": "quant-ph, cs.CR, math.CO, math.RA"}
+{"custom_id": "2605.25682v1", "link": "https://arxiv.org/abs/2605.25682v1", "categories": "cs.DC, cs.AI"}
+{"custom_id": "2605.25673v1", "link": "https://arxiv.org/abs/2605.25673v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2506.18543v2", "link": "https://arxiv.org/abs/2506.18543v2", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.25655v1", "link": "https://arxiv.org/abs/2605.25655v1", "categories": "cs.DC"}
+{"custom_id": "2605.25653v1", "link": "https://arxiv.org/abs/2605.25653v1", "categories": "cs.DC, cs.MA"}
+{"custom_id": "2605.25645v1", "link": "https://arxiv.org/abs/2605.25645v1", "categories": "cs.DC, cs.AI"}
+{"custom_id": "2605.23316v2", "link": "https://arxiv.org/abs/2605.23316v2", "categories": "cs.LO, cs.CR"}
+{"custom_id": "2605.25550v1", "link": "https://arxiv.org/abs/2605.25550v1", "categories": "cs.DC"}
+{"custom_id": "2605.13319v3", "link": "https://arxiv.org/abs/2605.13319v3", "categories": "cs.DC"}
+{"custom_id": "2604.18970v2", "link": "https://arxiv.org/abs/2604.18970v2", "categories": "cs.LG, cs.CR"}
+{"custom_id": "2508.11925v3", "link": "https://arxiv.org/abs/2508.11925v3", "categories": "cs.CR, cs.CL, cs.LG"}
+{"custom_id": "2508.12538v2", "link": "https://arxiv.org/abs/2508.12538v2", "categories": "cs.CR, cs.AI, cs.SE"}
+{"custom_id": "2605.04700v2", "link": "https://arxiv.org/abs/2605.04700v2", "categories": "cs.CR, cs.AI, cs.CL, cs.LG, cs.SD"}
+{"custom_id": "2510.05699v4", "link": "https://arxiv.org/abs/2510.05699v4", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.25411v1", "link": "https://arxiv.org/abs/2605.25411v1", "categories": "cs.CR, cs.SC"}
+{"custom_id": "2406.04374v2", "link": "https://arxiv.org/abs/2406.04374v2", "categories": "cs.IR, cs.GT, cs.LG, stat.ML"}
+{"custom_id": "2605.25389v1", "link": "https://arxiv.org/abs/2605.25389v1", "categories": "cs.CR, cs.AI, cs.MA"}
+{"custom_id": "2508.08043v2", "link": "https://arxiv.org/abs/2508.08043v2", "categories": "cs.CR, cs.HC"}
+{"custom_id": "2505.11788v2", "link": "https://arxiv.org/abs/2505.11788v2", "categories": "cs.DC, cs.IT, cs.LG, cs.NI, eess.SP"}
+{"custom_id": "2605.25375v1", "link": "https://arxiv.org/abs/2605.25375v1", "categories": "cs.DC"}
+{"custom_id": "2603.19727v2", "link": "https://arxiv.org/abs/2603.19727v2", "categories": "cs.CR"}
+{"custom_id": "2605.25350v1", "link": "https://arxiv.org/abs/2605.25350v1", "categories": "cs.DC"}
+{"custom_id": "2605.07233v2", "link": "https://arxiv.org/abs/2605.07233v2", "categories": "cs.LG, cs.CR, stat.ML"}
+{"custom_id": "2605.25340v1", "link": "https://arxiv.org/abs/2605.25340v1", "categories": "cs.DC"}
+{"custom_id": "2605.22365v2", "link": "https://arxiv.org/abs/2605.22365v2", "categories": "cs.CR, cs.AI, cs.LG"}
+{"custom_id": "2605.16815v2", "link": "https://arxiv.org/abs/2605.16815v2", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2605.25332v1", "link": "https://arxiv.org/abs/2605.25332v1", "categories": "cs.NI, cs.CR, cs.DC, eess.SY"}
+{"custom_id": "2502.06963v3", "link": "https://arxiv.org/abs/2502.06963v3", "categories": "cs.LG, cs.AI, cs.DC, cs.MA"}
+{"custom_id": "2605.26169v1", "link": "https://arxiv.org/abs/2605.26169v1", "categories": "cs.SE, cs.LO"}
+{"custom_id": "2605.25304v1", "link": "https://arxiv.org/abs/2605.25304v1", "categories": "cs.LG, cs.CR, cs.CV"}
+{"custom_id": "2605.25298v1", "link": "https://arxiv.org/abs/2605.25298v1", "categories": "cs.DC, cs.PF"}
+{"custom_id": "2602.07666v3", "link": "https://arxiv.org/abs/2602.07666v3", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.25292v1", "link": "https://arxiv.org/abs/2605.25292v1", "categories": "cs.DC"}
+{"custom_id": "2603.06798v2", "link": "https://arxiv.org/abs/2603.06798v2", "categories": "cs.LG, cs.DC, stat.ML"}
+{"custom_id": "2605.26166v1", "link": "https://arxiv.org/abs/2605.26166v1", "categories": "cs.CR, cs.AI, cs.LG"}
+{"custom_id": "2505.02761v4", "link": "https://arxiv.org/abs/2505.02761v4", "categories": "cs.DC"}
+{"custom_id": "2605.25247v1", "link": "https://arxiv.org/abs/2605.25247v1", "categories": "cs.DC"}
+{"custom_id": "2603.22774v2", "link": "https://arxiv.org/abs/2603.22774v2", "categories": "cs.AR, cs.DC"}
+{"custom_id": "2605.25207v1", "link": "https://arxiv.org/abs/2605.25207v1", "categories": "cs.CR, cs.ET"}
+{"custom_id": "2503.11367v4", "link": "https://arxiv.org/abs/2503.11367v4", "categories": "cs.DC"}
+{"custom_id": "2605.12850v2", "link": "https://arxiv.org/abs/2605.12850v2", "categories": "cs.CL, cs.AI, cs.CR, cs.LG"}
+{"custom_id": "2510.08609v3", "link": "https://arxiv.org/abs/2510.08609v3", "categories": "cs.SE, cs.CR, cs.LG, cs.PL"}
+{"custom_id": "2605.25142v1", "link": "https://arxiv.org/abs/2605.25142v1", "categories": "cs.CR, cs.CY, eess.SP"}
+{"custom_id": "2602.04653v4", "link": "https://arxiv.org/abs/2602.04653v4", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2605.06259v2", "link": "https://arxiv.org/abs/2605.06259v2", "categories": "cs.LG, cs.CR"}
+{"custom_id": "2605.06505v2", "link": "https://arxiv.org/abs/2605.06505v2", "categories": "cs.LG, cs.AI, cs.CR"}
+{"custom_id": "2505.07417v2", "link": "https://arxiv.org/abs/2505.07417v2", "categories": "cs.DC"}
+{"custom_id": "2605.10718v2", "link": "https://arxiv.org/abs/2605.10718v2", "categories": "cs.DC, cs.AI, cs.LG, cs.PF, eess.SY"}
+{"custom_id": "2507.10644v4", "link": "https://arxiv.org/abs/2507.10644v4", "categories": "cs.AI, cs.CL, cs.CR, cs.HC, cs.MA"}
+{"custom_id": "2605.25073v1", "link": "https://arxiv.org/abs/2605.25073v1", "categories": "cs.CR, cs.AI, cs.LG"}
+{"custom_id": "2605.02900v2", "link": "https://arxiv.org/abs/2605.02900v2", "categories": "cs.CR, cs.AI, cs.CV, cs.RO"}
+{"custom_id": "2605.25066v1", "link": "https://arxiv.org/abs/2605.25066v1", "categories": "quant-ph, cs.CR, cs.LG"}
+{"custom_id": "2605.26159v1", "link": "https://arxiv.org/abs/2605.26159v1", "categories": "cs.NI, cs.CR, cs.LG"}
+{"custom_id": "2511.18226v2", "link": "https://arxiv.org/abs/2511.18226v2", "categories": "cs.CR, quant-ph"}
+{"custom_id": "2602.09431v2", "link": "https://arxiv.org/abs/2602.09431v2", "categories": "cs.CR, cs.CV"}
+{"custom_id": "2605.25026v1", "link": "https://arxiv.org/abs/2605.25026v1", "categories": "cs.CR, cs.NI"}
+{"custom_id": "2507.15233v3", "link": "https://arxiv.org/abs/2507.15233v3", "categories": "cs.DC"}
+{"custom_id": "2605.26158v1", "link": "https://arxiv.org/abs/2605.26158v1", "categories": "cs.CR, cs.AI, cs.LG"}
+{"custom_id": "2605.24951v1", "link": "https://arxiv.org/abs/2605.24951v1", "categories": "cs.CR, cs.ET"}
+{"custom_id": "2605.24949v1", "link": "https://arxiv.org/abs/2605.24949v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.24941v1", "link": "https://arxiv.org/abs/2605.24941v1", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2605.14605v2", "link": "https://arxiv.org/abs/2605.14605v2", "categories": "cs.CR, cs.AI, cs.LG"}
+{"custom_id": "2601.14340v2", "link": "https://arxiv.org/abs/2601.14340v2", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2605.24903v1", "link": "https://arxiv.org/abs/2605.24903v1", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2605.24883v1", "link": "https://arxiv.org/abs/2605.24883v1", "categories": "cs.AI, cs.CR, cs.SE"}
+{"custom_id": "2507.19219v2", "link": "https://arxiv.org/abs/2507.19219v2", "categories": "cs.CL, cs.CR"}
+{"custom_id": "2605.26154v1", "link": "https://arxiv.org/abs/2605.26154v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.24834v1", "link": "https://arxiv.org/abs/2605.24834v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.24832v1", "link": "https://arxiv.org/abs/2605.24832v1", "categories": "cs.DC"}
+{"custom_id": "2605.24817v1", "link": "https://arxiv.org/abs/2605.24817v1", "categories": "cs.CR, cs.AR, cs.CL, cs.LG"}
+{"custom_id": "2602.21247v2", "link": "https://arxiv.org/abs/2602.21247v2", "categories": "cs.DB, cs.DC, cs.IR"}
+{"custom_id": "2605.24765v1", "link": "https://arxiv.org/abs/2605.24765v1", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2605.27446v1", "link": "https://arxiv.org/abs/2605.27446v1", "categories": "cs.DC, cs.AR"}
+{"custom_id": "2605.24696v1", "link": "https://arxiv.org/abs/2605.24696v1", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2605.24683v1", "link": "https://arxiv.org/abs/2605.24683v1", "categories": "cs.NI"}
+{"custom_id": "2605.24663v1", "link": "https://arxiv.org/abs/2605.24663v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.24632v1", "link": "https://arxiv.org/abs/2605.24632v1", "categories": "cs.CR, cs.AI, cs.LG"}
+{"custom_id": "2603.28128v2", "link": "https://arxiv.org/abs/2603.28128v2", "categories": "cs.LG, cs.CR"}
+{"custom_id": "2605.17986v2", "link": "https://arxiv.org/abs/2605.17986v2", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.24569v1", "link": "https://arxiv.org/abs/2605.24569v1", "categories": "cs.DC, cs.PF"}
+{"custom_id": "2603.00177v3", "link": "https://arxiv.org/abs/2603.00177v3", "categories": "cs.CR, cs.HC, cs.LG"}
+{"custom_id": "2603.00178v3", "link": "https://arxiv.org/abs/2603.00178v3", "categories": "cs.CR, cs.AR, cs.OS"}
+{"custom_id": "2603.00179v3", "link": "https://arxiv.org/abs/2603.00179v3", "categories": "cs.CR, cs.CY, cs.IT"}
+{"custom_id": "2605.24559v1", "link": "https://arxiv.org/abs/2605.24559v1", "categories": "cs.CR"}
+{"custom_id": "2605.24552v1", "link": "https://arxiv.org/abs/2605.24552v1", "categories": "cs.CR"}
+{"custom_id": "2605.24551v1", "link": "https://arxiv.org/abs/2605.24551v1", "categories": "cs.CR, cs.HC"}
+{"custom_id": "2605.24542v1", "link": "https://arxiv.org/abs/2605.24542v1", "categories": "cs.CR, cs.AI, cs.LG, cs.MA, cs.SE"}
+{"custom_id": "2605.24535v1", "link": "https://arxiv.org/abs/2605.24535v1", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2605.24421v1", "link": "https://arxiv.org/abs/2605.24421v1", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2511.10992v2", "link": "https://arxiv.org/abs/2511.10992v2", "categories": "cs.CR, cs.HC"}
+{"custom_id": "2512.23995v2", "link": "https://arxiv.org/abs/2512.23995v2", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2504.11961v3", "link": "https://arxiv.org/abs/2504.11961v3", "categories": "cs.CR"}
+{"custom_id": "2605.10977v2", "link": "https://arxiv.org/abs/2605.10977v2", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2505.23803v2", "link": "https://arxiv.org/abs/2505.23803v2", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.24326v1", "link": "https://arxiv.org/abs/2605.24326v1", "categories": "cs.DC, cs.AI, cs.NI"}
+{"custom_id": "2605.24312v1", "link": "https://arxiv.org/abs/2605.24312v1", "categories": "cs.CR"}
+{"custom_id": "2605.24309v1", "link": "https://arxiv.org/abs/2605.24309v1", "categories": "cs.CR"}
+{"custom_id": "2605.24307v1", "link": "https://arxiv.org/abs/2605.24307v1", "categories": "cs.HC, cs.CR, cs.CY"}
+{"custom_id": "2501.09191v2", "link": "https://arxiv.org/abs/2501.09191v2", "categories": "cs.SE, cs.CR"}
+{"custom_id": "2605.24300v1", "link": "https://arxiv.org/abs/2605.24300v1", "categories": "cs.CR, cs.AI, cs.LG"}
+{"custom_id": "2605.24298v1", "link": "https://arxiv.org/abs/2605.24298v1", "categories": "cs.CR, cs.AI, cs.LG"}
+{"custom_id": "2605.24294v1", "link": "https://arxiv.org/abs/2605.24294v1", "categories": "cs.CR, cs.AI, cs.LG"}
+{"custom_id": "2602.01086v2", "link": "https://arxiv.org/abs/2602.01086v2", "categories": "cs.AI, cs.CR, cs.DB, cs.DC, cs.SE"}
+{"custom_id": "2605.24270v1", "link": "https://arxiv.org/abs/2605.24270v1", "categories": "cs.AI, cs.CR"}
+{"custom_id": "2605.24259v1", "link": "https://arxiv.org/abs/2605.24259v1", "categories": "cs.DC"}
+{"custom_id": "2605.24248v1", "link": "https://arxiv.org/abs/2605.24248v1", "categories": "cs.CR, cs.AI, cs.SE"}
+{"custom_id": "2605.24245v1", "link": "https://arxiv.org/abs/2605.24245v1", "categories": "cs.CR"}
+{"custom_id": "2506.09199v2", "link": "https://arxiv.org/abs/2506.09199v2", "categories": "cs.LG, cs.AI, cs.DC"}
+{"custom_id": "2505.15988v2", "link": "https://arxiv.org/abs/2505.15988v2", "categories": "cs.DC"}
+{"custom_id": "2605.24239v1", "link": "https://arxiv.org/abs/2605.24239v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.24220v1", "link": "https://arxiv.org/abs/2605.24220v1", "categories": "cs.DC"}
+{"custom_id": "2605.24216v1", "link": "https://arxiv.org/abs/2605.24216v1", "categories": "cs.LG, cs.AI, cs.CL, cs.CR"}
+{"custom_id": "2605.24206v1", "link": "https://arxiv.org/abs/2605.24206v1", "categories": "cs.CR"}
+{"custom_id": "2605.24190v1", "link": "https://arxiv.org/abs/2605.24190v1", "categories": "cs.CR"}
+{"custom_id": "2601.06366v3", "link": "https://arxiv.org/abs/2601.06366v3", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.22667v2", "link": "https://arxiv.org/abs/2605.22667v2", "categories": "cs.GT, q-fin.TR"}
+{"custom_id": "2605.24173v1", "link": "https://arxiv.org/abs/2605.24173v1", "categories": "cs.CL, cs.AI, cs.CR, cs.LG"}
+{"custom_id": "2605.24166v1", "link": "https://arxiv.org/abs/2605.24166v1", "categories": "quant-ph, cs.CR"}
+{"custom_id": "2601.20273v2", "link": "https://arxiv.org/abs/2601.20273v2", "categories": "cs.DC, cs.CV"}
+{"custom_id": "2512.04320v2", "link": "https://arxiv.org/abs/2512.04320v2", "categories": "cs.DC, cs.OS"}
+{"custom_id": "2605.24096v1", "link": "https://arxiv.org/abs/2605.24096v1", "categories": "cs.DB, cs.AI, cs.DC, cs.SE"}
+{"custom_id": "2605.23887v1", "link": "https://arxiv.org/abs/2605.23887v1", "categories": "cs.DB, cs.AI, cs.CR, cs.LG, cs.MA"}
+{"custom_id": "2605.23879v1", "link": "https://arxiv.org/abs/2605.23879v1", "categories": "stat.ML, cs.CR, cs.LG, math.ST"}
+{"custom_id": "2605.23850v1", "link": "https://arxiv.org/abs/2605.23850v1", "categories": "cs.DC"}
+{"custom_id": "2605.23843v1", "link": "https://arxiv.org/abs/2605.23843v1", "categories": "cs.CR"}
+{"custom_id": "2307.15465v4", "link": "https://arxiv.org/abs/2307.15465v4", "categories": "cs.CR"}
+{"custom_id": "2605.23816v1", "link": "https://arxiv.org/abs/2605.23816v1", "categories": "cs.NI, cs.DC"}
+{"custom_id": "2605.23815v1", "link": "https://arxiv.org/abs/2605.23815v1", "categories": "cs.DB, cs.DC"}
+{"custom_id": "2406.02883v2", "link": "https://arxiv.org/abs/2406.02883v2", "categories": "cs.LG, cs.CR"}
+{"custom_id": "2604.24920v3", "link": "https://arxiv.org/abs/2604.24920v3", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2511.15503v2", "link": "https://arxiv.org/abs/2511.15503v2", "categories": "cs.AR, cs.DC, cs.LG, cs.PF"}
+{"custom_id": "2602.14289v2", "link": "https://arxiv.org/abs/2602.14289v2", "categories": "cs.MS, cs.DC, math.NA"}
+{"custom_id": "2605.23764v1", "link": "https://arxiv.org/abs/2605.23764v1", "categories": "cs.DC"}
+{"custom_id": "2605.23707v1", "link": "https://arxiv.org/abs/2605.23707v1", "categories": "cs.DC"}
+{"custom_id": "2605.23695v1", "link": "https://arxiv.org/abs/2605.23695v1", "categories": "cs.CR"}
+{"custom_id": "2605.23677v1", "link": "https://arxiv.org/abs/2605.23677v1", "categories": "cs.DC"}
+{"custom_id": "2605.23648v1", "link": "https://arxiv.org/abs/2605.23648v1", "categories": "cs.DC"}
+{"custom_id": "2605.23643v1", "link": "https://arxiv.org/abs/2605.23643v1", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2605.23641v1", "link": "https://arxiv.org/abs/2605.23641v1", "categories": "cs.CR"}
+{"custom_id": "2605.23640v1", "link": "https://arxiv.org/abs/2605.23640v1", "categories": "cs.CR"}
+{"custom_id": "2605.23623v1", "link": "https://arxiv.org/abs/2605.23623v1", "categories": "cs.CR, cs.AI, cs.LG"}
+{"custom_id": "2509.03117v3", "link": "https://arxiv.org/abs/2509.03117v3", "categories": "cs.CR"}
+{"custom_id": "2605.23598v1", "link": "https://arxiv.org/abs/2605.23598v1", "categories": "cs.CR, cs.HC"}
+{"custom_id": "2605.23566v1", "link": "https://arxiv.org/abs/2605.23566v1", "categories": "cs.DC"}
+{"custom_id": "2602.20887v3", "link": "https://arxiv.org/abs/2602.20887v3", "categories": "cs.DC, cs.CG"}
+{"custom_id": "2605.04842v2", "link": "https://arxiv.org/abs/2605.04842v2", "categories": "cs.DC"}
+{"custom_id": "2601.14300v3", "link": "https://arxiv.org/abs/2601.14300v3", "categories": "cs.LG, cs.CR"}
+{"custom_id": "2605.23448v1", "link": "https://arxiv.org/abs/2605.23448v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.10860v2", "link": "https://arxiv.org/abs/2605.10860v2", "categories": "cs.DC"}
+{"custom_id": "2605.23432v1", "link": "https://arxiv.org/abs/2605.23432v1", "categories": "cs.DC"}
+{"custom_id": "2605.23429v1", "link": "https://arxiv.org/abs/2605.23429v1", "categories": "eess.SP, cs.CR"}
+{"custom_id": "2605.13492v2", "link": "https://arxiv.org/abs/2605.13492v2", "categories": "cs.CR"}
+{"custom_id": "2605.23411v1", "link": "https://arxiv.org/abs/2605.23411v1", "categories": "cs.LG, cs.CR, cs.CV"}
+{"custom_id": "2605.20896v2", "link": "https://arxiv.org/abs/2605.20896v2", "categories": "cs.CR, cs.AI, cs.LG"}
+{"custom_id": "2605.23389v1", "link": "https://arxiv.org/abs/2605.23389v1", "categories": "cs.DC"}
+{"custom_id": "2605.17076v2", "link": "https://arxiv.org/abs/2605.17076v2", "categories": "cs.LG, cs.AI, cs.DC, cs.MA"}
+{"custom_id": "2504.01733v5", "link": "https://arxiv.org/abs/2504.01733v5", "categories": "cs.AI, cs.CC, cs.LO"}
+{"custom_id": "2605.24069v1", "link": "https://arxiv.org/abs/2605.24069v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.23348v1", "link": "https://arxiv.org/abs/2605.23348v1", "categories": "cs.DC, cs.AI, cs.NI"}
+{"custom_id": "2605.23330v1", "link": "https://arxiv.org/abs/2605.23330v1", "categories": "cs.CR"}
+{"custom_id": "2605.23297v1", "link": "https://arxiv.org/abs/2605.23297v1", "categories": "cs.AI, cs.DC"}
+{"custom_id": "2601.21198v2", "link": "https://arxiv.org/abs/2601.21198v2", "categories": "cs.DC, cs.AI, cs.LG"}
+{"custom_id": "2605.11053v3", "link": "https://arxiv.org/abs/2605.11053v3", "categories": "cs.CR, cs.AI, cs.LG"}
+{"custom_id": "2605.05704v2", "link": "https://arxiv.org/abs/2605.05704v2", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.22332v2", "link": "https://arxiv.org/abs/2605.22332v2", "categories": "cs.CR"}
+{"custom_id": "2605.23243v1", "link": "https://arxiv.org/abs/2605.23243v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2506.04390v2", "link": "https://arxiv.org/abs/2506.04390v2", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.23224v1", "link": "https://arxiv.org/abs/2605.23224v1", "categories": "cs.IT, cs.CR"}
+{"custom_id": "2605.24063v1", "link": "https://arxiv.org/abs/2605.24063v1", "categories": "cs.CR"}
+{"custom_id": "2605.22237v2", "link": "https://arxiv.org/abs/2605.22237v2", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2605.23196v1", "link": "https://arxiv.org/abs/2605.23196v1", "categories": "cs.CR"}
+{"custom_id": "2602.00979v2", "link": "https://arxiv.org/abs/2602.00979v2", "categories": "cs.CR, cs.AI, cs.CL"}
+{"custom_id": "2605.23175v1", "link": "https://arxiv.org/abs/2605.23175v1", "categories": "cs.CR, cs.CL"}
+{"custom_id": "2605.23168v1", "link": "https://arxiv.org/abs/2605.23168v1", "categories": "cs.CR, cs.AI, cs.LG"}
+{"custom_id": "2605.23162v1", "link": "https://arxiv.org/abs/2605.23162v1", "categories": "cs.CY, cs.CR, cs.DC, cs.ET, econ.GN"}
+{"custom_id": "2502.04230v3", "link": "https://arxiv.org/abs/2502.04230v3", "categories": "cs.SD, cs.AI, cs.CR, cs.LG, eess.AS"}
+{"custom_id": "2605.23158v1", "link": "https://arxiv.org/abs/2605.23158v1", "categories": "cs.CR, cs.CL, cs.LG"}
+{"custom_id": "2605.23130v1", "link": "https://arxiv.org/abs/2605.23130v1", "categories": "cs.HC, cs.CR"}
+{"custom_id": "2605.24054v1", "link": "https://arxiv.org/abs/2605.24054v1", "categories": "cs.CR"}
+{"custom_id": "2605.11215v2", "link": "https://arxiv.org/abs/2605.11215v2", "categories": "cs.DC, cs.AI"}
+{"custom_id": "2605.23109v1", "link": "https://arxiv.org/abs/2605.23109v1", "categories": "cs.AI, cs.DC, cs.LO, cs.PL"}
+{"custom_id": "2605.20532v2", "link": "https://arxiv.org/abs/2605.20532v2", "categories": "cs.DC"}
+{"custom_id": "2511.14989v4", "link": "https://arxiv.org/abs/2511.14989v4", "categories": "cs.CR"}
+{"custom_id": "2510.11195v2", "link": "https://arxiv.org/abs/2510.11195v2", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.23096v1", "link": "https://arxiv.org/abs/2605.23096v1", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2605.23091v1", "link": "https://arxiv.org/abs/2605.23091v1", "categories": "cs.SE, cs.AI, cs.CR"}
+{"custom_id": "2511.12626v3", "link": "https://arxiv.org/abs/2511.12626v3", "categories": "cs.CR, cs.GT"}
+{"custom_id": "2605.23059v1", "link": "https://arxiv.org/abs/2605.23059v1", "categories": "cs.CR"}
+{"custom_id": "2605.23007v1", "link": "https://arxiv.org/abs/2605.23007v1", "categories": "q-fin.TR, cs.AI, cs.LG, q-fin.PM"}
+{"custom_id": "2605.23004v1", "link": "https://arxiv.org/abs/2605.23004v1", "categories": "cs.CR"}
+{"custom_id": "2605.22985v1", "link": "https://arxiv.org/abs/2605.22985v1", "categories": "cs.CR"}
+{"custom_id": "2604.04833v3", "link": "https://arxiv.org/abs/2604.04833v3", "categories": "cs.CR, math.NT"}
+{"custom_id": "2605.22778v1", "link": "https://arxiv.org/abs/2605.22778v1", "categories": "cs.DC"}
+{"custom_id": "2605.12456v2", "link": "https://arxiv.org/abs/2605.12456v2", "categories": "cs.CR, cs.CL, cs.LG"}
+{"custom_id": "2603.04383v2", "link": "https://arxiv.org/abs/2603.04383v2", "categories": "cs.CY, cs.CR, cs.IR, cs.LG, cs.SI"}
+{"custom_id": "2605.22709v1", "link": "https://arxiv.org/abs/2605.22709v1", "categories": "cs.CR, cs.ET, cs.RO, eess.SY"}
+{"custom_id": "2605.21378v2", "link": "https://arxiv.org/abs/2605.21378v2", "categories": "cs.CR, cs.CY"}
+{"custom_id": "2507.05660v3", "link": "https://arxiv.org/abs/2507.05660v3", "categories": "cs.CR, cs.AI, cs.CL"}
+{"custom_id": "2602.13480v2", "link": "https://arxiv.org/abs/2602.13480v2", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2507.12364v2", "link": "https://arxiv.org/abs/2507.12364v2", "categories": "cs.CR, cs.OS"}
+{"custom_id": "2605.22621v1", "link": "https://arxiv.org/abs/2605.22621v1", "categories": "cs.CR, cs.LG, cs.NI"}
+{"custom_id": "2605.06669v2", "link": "https://arxiv.org/abs/2605.06669v2", "categories": "cs.CR, cs.AI, cs.LG"}
+{"custom_id": "2605.22604v1", "link": "https://arxiv.org/abs/2605.22604v1", "categories": "cs.CR, cs.AI, cs.LG, cs.SE"}
+{"custom_id": "2605.22590v1", "link": "https://arxiv.org/abs/2605.22590v1", "categories": "cs.CR"}
+{"custom_id": "2605.22569v1", "link": "https://arxiv.org/abs/2605.22569v1", "categories": "cs.CR, quant-ph"}
+{"custom_id": "2605.22568v1", "link": "https://arxiv.org/abs/2605.22568v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.22506v1", "link": "https://arxiv.org/abs/2605.22506v1", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2605.07985v2", "link": "https://arxiv.org/abs/2605.07985v2", "categories": "cs.DC, cs.AI"}
+{"custom_id": "2605.22491v1", "link": "https://arxiv.org/abs/2605.22491v1", "categories": "cs.DC, cs.NI"}
+{"custom_id": "2512.06556v2", "link": "https://arxiv.org/abs/2512.06556v2", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.22477v1", "link": "https://arxiv.org/abs/2605.22477v1", "categories": "cs.CR, math.CO"}
+{"custom_id": "2605.22441v1", "link": "https://arxiv.org/abs/2605.22441v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.22437v1", "link": "https://arxiv.org/abs/2605.22437v1", "categories": "cs.CR, cs.AI, cs.LG"}
+{"custom_id": "2601.22655v3", "link": "https://arxiv.org/abs/2601.22655v3", "categories": "cs.CR, cs.SE"}
+{"custom_id": "2602.17458v2", "link": "https://arxiv.org/abs/2602.17458v2", "categories": "cs.CR"}
+{"custom_id": "2605.22428v1", "link": "https://arxiv.org/abs/2605.22428v1", "categories": "cs.DC"}
+{"custom_id": "2605.22426v1", "link": "https://arxiv.org/abs/2605.22426v1", "categories": "cs.IT, cs.DC"}
+{"custom_id": "2605.22416v1", "link": "https://arxiv.org/abs/2605.22416v1", "categories": "cs.LG, cs.DC, cs.PF"}
+{"custom_id": "2605.00515v2", "link": "https://arxiv.org/abs/2605.00515v2", "categories": "cs.DC, cs.AI, cs.NI"}
+{"custom_id": "2605.22393v1", "link": "https://arxiv.org/abs/2605.22393v1", "categories": "cs.DC"}
+{"custom_id": "2512.21132v2", "link": "https://arxiv.org/abs/2512.21132v2", "categories": "cs.CR, cs.AI, cs.LG, cs.PL"}
+{"custom_id": "2605.20975v2", "link": "https://arxiv.org/abs/2605.20975v2", "categories": "cs.LG, cs.CR"}
+{"custom_id": "2509.26393v2", "link": "https://arxiv.org/abs/2509.26393v2", "categories": "cs.CR, cs.IT"}
+{"custom_id": "2605.22333v1", "link": "https://arxiv.org/abs/2605.22333v1", "categories": "cs.CR"}
+{"custom_id": "2605.22331v1", "link": "https://arxiv.org/abs/2605.22331v1", "categories": "cs.LG, cs.AI, cs.DC"}
+{"custom_id": "2605.22324v1", "link": "https://arxiv.org/abs/2605.22324v1", "categories": "cs.CR"}
+{"custom_id": "2605.22321v1", "link": "https://arxiv.org/abs/2605.22321v1", "categories": "cs.CR, cs.AI, cs.SE"}
+{"custom_id": "2512.03121v2", "link": "https://arxiv.org/abs/2512.03121v2", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2602.17973v2", "link": "https://arxiv.org/abs/2602.17973v2", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2512.15966v2", "link": "https://arxiv.org/abs/2512.15966v2", "categories": "cs.CR"}
+{"custom_id": "2209.03358v5", "link": "https://arxiv.org/abs/2209.03358v5", "categories": "cs.NE, cs.AI, cs.CR, cs.CV, cs.LG"}
+{"custom_id": "2605.22151v1", "link": "https://arxiv.org/abs/2605.22151v1", "categories": "cs.CR"}
+{"custom_id": "2605.22122v1", "link": "https://arxiv.org/abs/2605.22122v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.22113v1", "link": "https://arxiv.org/abs/2605.22113v1", "categories": "cs.CR"}
+{"custom_id": "2508.00756v4", "link": "https://arxiv.org/abs/2508.00756v4", "categories": "cs.CR"}
+{"custom_id": "2605.22087v1", "link": "https://arxiv.org/abs/2605.22087v1", "categories": "cs.SE, cs.CR"}
+{"custom_id": "2512.09472v2", "link": "https://arxiv.org/abs/2512.09472v2", "categories": "cs.DC, cs.LG"}
+{"custom_id": "2605.22060v1", "link": "https://arxiv.org/abs/2605.22060v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.22058v1", "link": "https://arxiv.org/abs/2605.22058v1", "categories": "cs.SE, cs.CR"}
+{"custom_id": "2507.03486v3", "link": "https://arxiv.org/abs/2507.03486v3", "categories": "cs.DC"}
+{"custom_id": "2605.22041v1", "link": "https://arxiv.org/abs/2605.22041v1", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2605.22039v1", "link": "https://arxiv.org/abs/2605.22039v1", "categories": "cs.DC, cs.AI, cs.CR, cs.MS"}
+{"custom_id": "2503.24191v3", "link": "https://arxiv.org/abs/2503.24191v3", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.22027v1", "link": "https://arxiv.org/abs/2605.22027v1", "categories": "cs.CR"}
+{"custom_id": "2605.22014v1", "link": "https://arxiv.org/abs/2605.22014v1", "categories": "cs.DC"}
+{"custom_id": "2605.24033v1", "link": "https://arxiv.org/abs/2605.24033v1", "categories": "cs.LG, cs.LO"}
+{"custom_id": "2605.22001v1", "link": "https://arxiv.org/abs/2605.22001v1", "categories": "cs.CR, cs.AI, cs.CL"}
+{"custom_id": "2605.19955v2", "link": "https://arxiv.org/abs/2605.19955v2", "categories": "cs.CR, cs.SD"}
+{"custom_id": "2511.07885v4", "link": "https://arxiv.org/abs/2511.07885v4", "categories": "cs.DC, cs.AI, cs.CL, cs.LG"}
+{"custom_id": "2605.21952v1", "link": "https://arxiv.org/abs/2605.21952v1", "categories": "cs.AR, cs.DB, cs.DC"}
+{"custom_id": "2605.21938v1", "link": "https://arxiv.org/abs/2605.21938v1", "categories": "cs.LG, cs.CR, cs.IT"}
+{"custom_id": "2605.21934v1", "link": "https://arxiv.org/abs/2605.21934v1", "categories": "cs.GT"}
+{"custom_id": "2605.21915v1", "link": "https://arxiv.org/abs/2605.21915v1", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2605.21865v1", "link": "https://arxiv.org/abs/2605.21865v1", "categories": "cs.CR, cs.MM, eess.IV"}
+{"custom_id": "2605.21857v1", "link": "https://arxiv.org/abs/2605.21857v1", "categories": "cs.CR"}
+{"custom_id": "2605.21847v1", "link": "https://arxiv.org/abs/2605.21847v1", "categories": "cs.AR, cs.DC"}
+{"custom_id": "2605.21824v1", "link": "https://arxiv.org/abs/2605.21824v1", "categories": "cs.CR, cs.SE"}
+{"custom_id": "2605.21821v1", "link": "https://arxiv.org/abs/2605.21821v1", "categories": "cs.CR"}
+{"custom_id": "2605.21819v1", "link": "https://arxiv.org/abs/2605.21819v1", "categories": "cs.CR"}
+{"custom_id": "2605.21797v1", "link": "https://arxiv.org/abs/2605.21797v1", "categories": "cs.CR, cs.DB"}
+{"custom_id": "2605.21780v1", "link": "https://arxiv.org/abs/2605.21780v1", "categories": "cs.LG, cs.CR"}
+{"custom_id": "2605.21779v1", "link": "https://arxiv.org/abs/2605.21779v1", "categories": "cs.CR, cs.SE"}
+{"custom_id": "2605.21773v1", "link": "https://arxiv.org/abs/2605.21773v1", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2605.19192v2", "link": "https://arxiv.org/abs/2605.19192v2", "categories": "cs.AI, cs.CR"}
+{"custom_id": "2605.21694v1", "link": "https://arxiv.org/abs/2605.21694v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.21676v1", "link": "https://arxiv.org/abs/2605.21676v1", "categories": "cs.LO, cs.FL"}
+{"custom_id": "2605.21674v1", "link": "https://arxiv.org/abs/2605.21674v1", "categories": "cs.CR"}
+{"custom_id": "2605.21615v1", "link": "https://arxiv.org/abs/2605.21615v1", "categories": "cs.CR, cs.LG, cs.SE"}
+{"custom_id": "2605.21603v1", "link": "https://arxiv.org/abs/2605.21603v1", "categories": "cs.DC"}
+{"custom_id": "2605.21601v1", "link": "https://arxiv.org/abs/2605.21601v1", "categories": "cs.DS, cs.CR"}
+{"custom_id": "2511.09557v4", "link": "https://arxiv.org/abs/2511.09557v4", "categories": "cs.DC, cs.LG"}
+{"custom_id": "2605.22879v1", "link": "https://arxiv.org/abs/2605.22879v1", "categories": "cs.DC"}
+{"custom_id": "2602.08023v3", "link": "https://arxiv.org/abs/2602.08023v3", "categories": "cs.CR, cs.AI, cs.MA"}
+{"custom_id": "2605.18991v2", "link": "https://arxiv.org/abs/2605.18991v2", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.21427v1", "link": "https://arxiv.org/abs/2605.21427v1", "categories": "cs.AI, cs.DC"}
+{"custom_id": "2605.21392v1", "link": "https://arxiv.org/abs/2605.21392v1", "categories": "cs.CR"}
+{"custom_id": "2605.21349v1", "link": "https://arxiv.org/abs/2605.21349v1", "categories": "cs.CR"}
+{"custom_id": "2605.21316v1", "link": "https://arxiv.org/abs/2605.21316v1", "categories": "stat.AP, cs.DC"}
+{"custom_id": "2605.21312v1", "link": "https://arxiv.org/abs/2605.21312v1", "categories": "cs.DC, cs.AI, cs.LG"}
+{"custom_id": "2605.21248v1", "link": "https://arxiv.org/abs/2605.21248v1", "categories": "cs.DS, cs.DC"}
+{"custom_id": "2605.21246v1", "link": "https://arxiv.org/abs/2605.21246v1", "categories": "cs.CR, cs.CY"}
+{"custom_id": "2501.02407v3", "link": "https://arxiv.org/abs/2501.02407v3", "categories": "cs.CL, cs.CR, cs.LG"}
+{"custom_id": "2605.21187v1", "link": "https://arxiv.org/abs/2605.21187v1", "categories": "cs.NI, cs.AI, cs.DC"}
+{"custom_id": "2605.21185v1", "link": "https://arxiv.org/abs/2605.21185v1", "categories": "cs.CR, cs.IT"}
+{"custom_id": "2605.21146v1", "link": "https://arxiv.org/abs/2605.21146v1", "categories": "cs.CR, cs.AI, cs.SE"}
+{"custom_id": "2605.21145v1", "link": "https://arxiv.org/abs/2605.21145v1", "categories": "cs.DC, cs.AR"}
+{"custom_id": "2412.14061v2", "link": "https://arxiv.org/abs/2412.14061v2", "categories": "cs.DC"}
+{"custom_id": "2605.21115v1", "link": "https://arxiv.org/abs/2605.21115v1", "categories": "cs.DC, cs.LG"}
+{"custom_id": "2505.00894v3", "link": "https://arxiv.org/abs/2505.00894v3", "categories": "cs.CR, cs.IT"}
+{"custom_id": "2601.00418v2", "link": "https://arxiv.org/abs/2601.00418v2", "categories": "cs.CR, cs.DC, cs.LG"}
+{"custom_id": "2605.21100v1", "link": "https://arxiv.org/abs/2605.21100v1", "categories": "cs.DC"}
+{"custom_id": "2605.21095v1", "link": "https://arxiv.org/abs/2605.21095v1", "categories": "cs.CY, cs.CR"}
+{"custom_id": "2605.21089v1", "link": "https://arxiv.org/abs/2605.21089v1", "categories": "cs.CR"}
+{"custom_id": "2509.09215v2", "link": "https://arxiv.org/abs/2509.09215v2", "categories": "cs.AI, cs.CR"}
+{"custom_id": "2605.06534v2", "link": "https://arxiv.org/abs/2605.06534v2", "categories": "cs.DC"}
+{"custom_id": "2605.21002v1", "link": "https://arxiv.org/abs/2605.21002v1", "categories": "cs.CR, cs.CV, cs.CY, cs.MM"}
+{"custom_id": "2507.06005v3", "link": "https://arxiv.org/abs/2507.06005v3", "categories": "cs.DB, cs.DC"}
+{"custom_id": "2603.10726v2", "link": "https://arxiv.org/abs/2603.10726v2", "categories": "cs.CR, cs.DC, cs.LG"}
+{"custom_id": "2605.20984v1", "link": "https://arxiv.org/abs/2605.20984v1", "categories": "cs.CR, cs.NI"}
+{"custom_id": "2605.20982v1", "link": "https://arxiv.org/abs/2605.20982v1", "categories": "cs.DC, cs.AI, cs.LG"}
+{"custom_id": "2605.20981v1", "link": "https://arxiv.org/abs/2605.20981v1", "categories": "cs.CR"}
+{"custom_id": "2605.18901v2", "link": "https://arxiv.org/abs/2605.18901v2", "categories": "cs.CR, cs.CY"}
+{"custom_id": "2605.20971v1", "link": "https://arxiv.org/abs/2605.20971v1", "categories": "cs.CV, cs.AI, cs.CR"}
+{"custom_id": "2605.16812v2", "link": "https://arxiv.org/abs/2605.16812v2", "categories": "cs.LG, cs.CR"}
+{"custom_id": "2605.20952v1", "link": "https://arxiv.org/abs/2605.20952v1", "categories": "cs.DC, cs.CR"}
+{"custom_id": "2605.20944v1", "link": "https://arxiv.org/abs/2605.20944v1", "categories": "cs.NE, cs.CR"}
+{"custom_id": "2605.24022v1", "link": "https://arxiv.org/abs/2605.24022v1", "categories": "cs.AR, cs.DC"}
+{"custom_id": "2511.03359v3", "link": "https://arxiv.org/abs/2511.03359v3", "categories": "quant-ph, cs.DC, physics.comp-ph"}
+{"custom_id": "2605.03492v2", "link": "https://arxiv.org/abs/2605.03492v2", "categories": "cs.CR, cs.SC, cs.SE"}
+{"custom_id": "2605.21541v1", "link": "https://arxiv.org/abs/2605.21541v1", "categories": "cs.CR, cs.AI, cs.LG, stat.ML"}
+{"custom_id": "2605.20866v1", "link": "https://arxiv.org/abs/2605.20866v1", "categories": "cs.LG, cs.DC, math.OC, stat.ML"}
+{"custom_id": "2605.20863v1", "link": "https://arxiv.org/abs/2605.20863v1", "categories": "cs.DC, cs.LG"}
+{"custom_id": "2510.18586v3", "link": "https://arxiv.org/abs/2510.18586v3", "categories": "cs.DC"}
+{"custom_id": "2505.05897v2", "link": "https://arxiv.org/abs/2505.05897v2", "categories": "cs.CR, cs.SE"}
+{"custom_id": "2604.20985v2", "link": "https://arxiv.org/abs/2604.20985v2", "categories": "cs.LG, cs.AI, cs.CR, stat.ML"}
+{"custom_id": "2605.10807v3", "link": "https://arxiv.org/abs/2605.10807v3", "categories": "cs.CR, cs.AR, cs.LG"}
+{"custom_id": "2605.20799v1", "link": "https://arxiv.org/abs/2605.20799v1", "categories": "cs.DC, cs.LG"}
+{"custom_id": "2605.20765v1", "link": "https://arxiv.org/abs/2605.20765v1", "categories": "quant-ph, cs.CR, cs.IT"}
+{"custom_id": "2605.20759v1", "link": "https://arxiv.org/abs/2605.20759v1", "categories": "cs.CR"}
+{"custom_id": "2605.20734v1", "link": "https://arxiv.org/abs/2605.20734v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.20706v1", "link": "https://arxiv.org/abs/2605.20706v1", "categories": "cs.DC, cs.AI, cs.LG"}
+{"custom_id": "2605.20704v1", "link": "https://arxiv.org/abs/2605.20704v1", "categories": "cs.CR, cs.AI, cs.MA"}
+{"custom_id": "2603.28777v2", "link": "https://arxiv.org/abs/2603.28777v2", "categories": "cs.DC, cs.DB, cs.OS, cs.SE"}
+{"custom_id": "2605.22874v1", "link": "https://arxiv.org/abs/2605.22874v1", "categories": "cs.AI, cs.LO"}
+{"custom_id": "2605.20641v1", "link": "https://arxiv.org/abs/2605.20641v1", "categories": "cs.CR, cs.AI, cs.LG"}
+{"custom_id": "2605.11682v2", "link": "https://arxiv.org/abs/2605.11682v2", "categories": "cs.CR"}
+{"custom_id": "2412.19310v2", "link": "https://arxiv.org/abs/2412.19310v2", "categories": "cs.CR"}
+{"custom_id": "2605.10568v3", "link": "https://arxiv.org/abs/2605.10568v3", "categories": "cs.LO, cs.SE"}
+{"custom_id": "2605.10437v2", "link": "https://arxiv.org/abs/2605.10437v2", "categories": "cs.LO, cs.SE"}
+{"custom_id": "2605.19385v2", "link": "https://arxiv.org/abs/2605.19385v2", "categories": "cs.DC, cs.DB"}
+{"custom_id": "2605.17164v2", "link": "https://arxiv.org/abs/2605.17164v2", "categories": "cs.DC, cs.AI, cs.LG, cs.PL"}
+{"custom_id": "2605.20546v1", "link": "https://arxiv.org/abs/2605.20546v1", "categories": "cs.CR, cs.NI"}
+{"custom_id": "2605.08418v2", "link": "https://arxiv.org/abs/2605.08418v2", "categories": "cs.CR, cs.CY"}
+{"custom_id": "2605.20521v1", "link": "https://arxiv.org/abs/2605.20521v1", "categories": "cs.LG, cs.CR"}
+{"custom_id": "2605.20497v1", "link": "https://arxiv.org/abs/2605.20497v1", "categories": "cs.DC"}
+{"custom_id": "2511.18240v2", "link": "https://arxiv.org/abs/2511.18240v2", "categories": "cs.CR"}
+{"custom_id": "2605.20466v1", "link": "https://arxiv.org/abs/2605.20466v1", "categories": "cs.DB, cs.DC"}
+{"custom_id": "2507.11721v2", "link": "https://arxiv.org/abs/2507.11721v2", "categories": "cs.CR"}
+{"custom_id": "2604.17003v2", "link": "https://arxiv.org/abs/2604.17003v2", "categories": "cs.CR"}
+{"custom_id": "2605.20450v1", "link": "https://arxiv.org/abs/2605.20450v1", "categories": "cs.LG, cs.CR"}
+{"custom_id": "2604.06100v3", "link": "https://arxiv.org/abs/2604.06100v3", "categories": "cs.CR"}
+{"custom_id": "2605.20391v1", "link": "https://arxiv.org/abs/2605.20391v1", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2605.20368v1", "link": "https://arxiv.org/abs/2605.20368v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.20351v1", "link": "https://arxiv.org/abs/2605.20351v1", "categories": "cs.CR"}
+{"custom_id": "2605.20341v1", "link": "https://arxiv.org/abs/2605.20341v1", "categories": "cs.LG, cs.AI, cs.CR, cs.PF"}
+{"custom_id": "2605.20157v1", "link": "https://arxiv.org/abs/2605.20157v1", "categories": "cs.LG, cs.CR, cs.IR"}
+{"custom_id": "2605.18739v2", "link": "https://arxiv.org/abs/2605.18739v2", "categories": "cs.CV, cs.DC"}
+{"custom_id": "2510.18830v2", "link": "https://arxiv.org/abs/2510.18830v2", "categories": "cs.CL, cs.DC, cs.LG"}
+{"custom_id": "2605.20123v1", "link": "https://arxiv.org/abs/2605.20123v1", "categories": "cs.CR, cs.IR"}
+{"custom_id": "2605.20312v1", "link": "https://arxiv.org/abs/2605.20312v1", "categories": "cs.CR, cs.LO, cs.MA"}
+{"custom_id": "2510.09621v2", "link": "https://arxiv.org/abs/2510.09621v2", "categories": "cs.CR, cs.CY"}
+{"custom_id": "2508.06526v3", "link": "https://arxiv.org/abs/2508.06526v3", "categories": "cs.DC, cs.AI, cs.AR"}
+{"custom_id": "2508.04003v2", "link": "https://arxiv.org/abs/2508.04003v2", "categories": "q-fin.TR"}
+{"custom_id": "2605.20051v1", "link": "https://arxiv.org/abs/2605.20051v1", "categories": "cs.CR"}
+{"custom_id": "2605.20047v1", "link": "https://arxiv.org/abs/2605.20047v1", "categories": "cs.CR, cs.AR, cs.DC"}
+{"custom_id": "2605.19999v1", "link": "https://arxiv.org/abs/2605.19999v1", "categories": "cs.LG, cs.AI, cs.CR"}
+{"custom_id": "2605.19945v1", "link": "https://arxiv.org/abs/2605.19945v1", "categories": "cs.DC, cs.AI, cs.CL"}
+{"custom_id": "2603.13671v3", "link": "https://arxiv.org/abs/2603.13671v3", "categories": "cs.DC, cs.MA, cs.PL"}
+{"custom_id": "2605.19899v1", "link": "https://arxiv.org/abs/2605.19899v1", "categories": "cs.CR"}
+{"custom_id": "2605.19892v1", "link": "https://arxiv.org/abs/2605.19892v1", "categories": "cs.DC, cs.AI, cs.ET, cs.NI"}
+{"custom_id": "2605.19887v1", "link": "https://arxiv.org/abs/2605.19887v1", "categories": "cs.DC, cs.MA, cs.RO, eess.SY"}
+{"custom_id": "2605.19885v1", "link": "https://arxiv.org/abs/2605.19885v1", "categories": "eess.IV, cs.CR, cs.ET, cs.MM"}
+{"custom_id": "2605.19847v1", "link": "https://arxiv.org/abs/2605.19847v1", "categories": "cs.CR, cs.IR, cs.LG"}
+{"custom_id": "2605.16630v2", "link": "https://arxiv.org/abs/2605.16630v2", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.24006v1", "link": "https://arxiv.org/abs/2605.24006v1", "categories": "cs.DC, cs.LG"}
+{"custom_id": "2605.19775v1", "link": "https://arxiv.org/abs/2605.19775v1", "categories": "cs.DC, cs.PF"}
+{"custom_id": "2603.29382v2", "link": "https://arxiv.org/abs/2603.29382v2", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2605.19722v1", "link": "https://arxiv.org/abs/2605.19722v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.19715v1", "link": "https://arxiv.org/abs/2605.19715v1", "categories": "cs.CR, cs.DC, cs.NI"}
+{"custom_id": "2605.19698v1", "link": "https://arxiv.org/abs/2605.19698v1", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2605.18404v2", "link": "https://arxiv.org/abs/2605.18404v2", "categories": "cs.DC"}
+{"custom_id": "2605.19668v1", "link": "https://arxiv.org/abs/2605.19668v1", "categories": "cs.CR, cs.SE"}
+{"custom_id": "2605.12535v2", "link": "https://arxiv.org/abs/2605.12535v2", "categories": "cs.CR"}
+{"custom_id": "2605.19644v1", "link": "https://arxiv.org/abs/2605.19644v1", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2605.19593v1", "link": "https://arxiv.org/abs/2605.19593v1", "categories": "cs.AI, cs.DC"}
+{"custom_id": "2605.19531v1", "link": "https://arxiv.org/abs/2605.19531v1", "categories": "cs.DC"}
+{"custom_id": "2604.01905v2", "link": "https://arxiv.org/abs/2604.01905v2", "categories": "cs.CR, cs.SE"}
+{"custom_id": "2605.18474v2", "link": "https://arxiv.org/abs/2605.18474v2", "categories": "cs.CR, cs.AI, cs.CL, cs.LG"}
+{"custom_id": "2605.19488v1", "link": "https://arxiv.org/abs/2605.19488v1", "categories": "cs.DC, cs.DM, math.CO"}
+{"custom_id": "2605.19480v1", "link": "https://arxiv.org/abs/2605.19480v1", "categories": "cs.DC"}
+{"custom_id": "2605.19478v1", "link": "https://arxiv.org/abs/2605.19478v1", "categories": "cs.CR, cs.CV"}
+{"custom_id": "2605.19452v1", "link": "https://arxiv.org/abs/2605.19452v1", "categories": "cs.DC, cs.AI"}
+{"custom_id": "2605.19448v1", "link": "https://arxiv.org/abs/2605.19448v1", "categories": "cs.CR, cs.NI"}
+{"custom_id": "2502.11984v4", "link": "https://arxiv.org/abs/2502.11984v4", "categories": "cs.IT, cs.NI"}
+{"custom_id": "2504.17548v2", "link": "https://arxiv.org/abs/2504.17548v2", "categories": "quant-ph, cs.CR, cs.LG"}
+{"custom_id": "2605.19437v1", "link": "https://arxiv.org/abs/2605.19437v1", "categories": "cs.NI, cs.CR"}
+{"custom_id": "2605.05974v2", "link": "https://arxiv.org/abs/2605.05974v2", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.20286v1", "link": "https://arxiv.org/abs/2605.20286v1", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2605.19402v1", "link": "https://arxiv.org/abs/2605.19402v1", "categories": "cs.CR"}
+{"custom_id": "2605.18146v2", "link": "https://arxiv.org/abs/2605.18146v2", "categories": "cs.CR"}
+{"custom_id": "2605.19367v1", "link": "https://arxiv.org/abs/2605.19367v1", "categories": "cs.CR, cs.CY"}
+{"custom_id": "2410.15362v2", "link": "https://arxiv.org/abs/2410.15362v2", "categories": "cs.LG, cs.AI, cs.CL, cs.CR"}
+{"custom_id": "2601.13981v3", "link": "https://arxiv.org/abs/2601.13981v3", "categories": "cs.CR"}
+{"custom_id": "2605.19328v1", "link": "https://arxiv.org/abs/2605.19328v1", "categories": "cs.CR, cs.RO"}
+{"custom_id": "2605.19327v1", "link": "https://arxiv.org/abs/2605.19327v1", "categories": "cs.DC"}
+{"custom_id": "2605.19321v1", "link": "https://arxiv.org/abs/2605.19321v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.19312v1", "link": "https://arxiv.org/abs/2605.19312v1", "categories": "cs.CR"}
+{"custom_id": "2605.11333v3", "link": "https://arxiv.org/abs/2605.11333v3", "categories": "cs.DC, cs.LG, cs.PF"}
+{"custom_id": "2506.05640v2", "link": "https://arxiv.org/abs/2506.05640v2", "categories": "cs.CR, cs.DC"}
+{"custom_id": "2509.25448v3", "link": "https://arxiv.org/abs/2509.25448v3", "categories": "cs.CR, cs.CL"}
+{"custom_id": "2605.19262v1", "link": "https://arxiv.org/abs/2605.19262v1", "categories": "cs.LG, cs.CR"}
+{"custom_id": "2605.19253v1", "link": "https://arxiv.org/abs/2605.19253v1", "categories": "cs.CR, eess.SY"}
+{"custom_id": "2604.14135v2", "link": "https://arxiv.org/abs/2604.14135v2", "categories": "cs.CR, cs.DC, cs.IT, math.PR"}
+{"custom_id": "2605.19237v1", "link": "https://arxiv.org/abs/2605.19237v1", "categories": "cs.DC"}
+{"custom_id": "2605.19233v1", "link": "https://arxiv.org/abs/2605.19233v1", "categories": "cs.CR, cs.LG, quant-ph"}
+{"custom_id": "2605.19232v1", "link": "https://arxiv.org/abs/2605.19232v1", "categories": "cs.CR"}
+{"custom_id": "2605.19227v1", "link": "https://arxiv.org/abs/2605.19227v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.16626v2", "link": "https://arxiv.org/abs/2605.16626v2", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.19169v1", "link": "https://arxiv.org/abs/2605.19169v1", "categories": "cs.PF, cs.DC"}
+{"custom_id": "2605.19159v1", "link": "https://arxiv.org/abs/2605.19159v1", "categories": "cs.CR"}
+{"custom_id": "2605.19157v1", "link": "https://arxiv.org/abs/2605.19157v1", "categories": "cs.DC, cs.DS"}
+{"custom_id": "2605.19149v1", "link": "https://arxiv.org/abs/2605.19149v1", "categories": "cs.CL, cs.CR"}
+{"custom_id": "2605.19147v1", "link": "https://arxiv.org/abs/2605.19147v1", "categories": "cs.CR, cs.AI, cs.LG"}
+{"custom_id": "2511.16316v2", "link": "https://arxiv.org/abs/2511.16316v2", "categories": "cs.CR"}
+{"custom_id": "2605.19123v1", "link": "https://arxiv.org/abs/2605.19123v1", "categories": "cs.CR"}
+{"custom_id": "2601.22569v2", "link": "https://arxiv.org/abs/2601.22569v2", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2408.01896v5", "link": "https://arxiv.org/abs/2408.01896v5", "categories": "cs.CR"}
+{"custom_id": "2605.19108v1", "link": "https://arxiv.org/abs/2605.19108v1", "categories": "cs.DC"}
+{"custom_id": "2411.08982v3", "link": "https://arxiv.org/abs/2411.08982v3", "categories": "cs.LG, cs.DC"}
+{"custom_id": "2605.19078v1", "link": "https://arxiv.org/abs/2605.19078v1", "categories": "cs.DS, cs.DC"}
+{"custom_id": "2601.20309v2", "link": "https://arxiv.org/abs/2601.20309v2", "categories": "cs.DC, cs.AI, cs.LG"}
+{"custom_id": "2503.12172v4", "link": "https://arxiv.org/abs/2503.12172v4", "categories": "cs.LG, cs.CR, cs.CV"}
+{"custom_id": "2402.00267v4", "link": "https://arxiv.org/abs/2402.00267v4", "categories": "cs.DS, cs.CR, stat.ML"}
+{"custom_id": "2508.15647v2", "link": "https://arxiv.org/abs/2508.15647v2", "categories": "cs.DC"}
+{"custom_id": "2605.08316v2", "link": "https://arxiv.org/abs/2605.08316v2", "categories": "cs.CR"}
+{"custom_id": "2605.03230v2", "link": "https://arxiv.org/abs/2605.03230v2", "categories": "cs.CR"}
+{"custom_id": "2605.18990v1", "link": "https://arxiv.org/abs/2605.18990v1", "categories": "cs.GT, cs.CR"}
+{"custom_id": "2605.18988v1", "link": "https://arxiv.org/abs/2605.18988v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.18750v1", "link": "https://arxiv.org/abs/2605.18750v1", "categories": "cs.DC, cs.LG"}
+{"custom_id": "2503.02574v2", "link": "https://arxiv.org/abs/2503.02574v2", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.18710v1", "link": "https://arxiv.org/abs/2605.18710v1", "categories": "cs.DC"}
+{"custom_id": "2605.18707v1", "link": "https://arxiv.org/abs/2605.18707v1", "categories": "cs.DC"}
+{"custom_id": "2605.18697v1", "link": "https://arxiv.org/abs/2605.18697v1", "categories": "cs.DC, cs.AI, cs.PL"}
+{"custom_id": "2309.01243v4", "link": "https://arxiv.org/abs/2309.01243v4", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2605.18683v1", "link": "https://arxiv.org/abs/2605.18683v1", "categories": "cs.DC"}
+{"custom_id": "2605.18670v1", "link": "https://arxiv.org/abs/2605.18670v1", "categories": "cs.CR"}
+{"custom_id": "2605.18666v1", "link": "https://arxiv.org/abs/2605.18666v1", "categories": "cs.LG, cs.CR"}
+{"custom_id": "2502.20969v4", "link": "https://arxiv.org/abs/2502.20969v4", "categories": "cs.DC, cs.LG"}
+{"custom_id": "2602.10134v2", "link": "https://arxiv.org/abs/2602.10134v2", "categories": "cs.CR, cs.AI, cs.CL"}
+{"custom_id": "2605.18647v1", "link": "https://arxiv.org/abs/2605.18647v1", "categories": "cs.CR"}
+{"custom_id": "2602.09357v2", "link": "https://arxiv.org/abs/2602.09357v2", "categories": "cs.GT, cs.CR"}
+{"custom_id": "2605.18626v1", "link": "https://arxiv.org/abs/2605.18626v1", "categories": "cs.GT"}
+{"custom_id": "2605.18624v1", "link": "https://arxiv.org/abs/2605.18624v1", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2412.00768v2", "link": "https://arxiv.org/abs/2412.00768v2", "categories": "cs.DC"}
+{"custom_id": "2605.18604v1", "link": "https://arxiv.org/abs/2605.18604v1", "categories": "math.OC, cs.DC, cs.MA"}
+{"custom_id": "2605.18593v1", "link": "https://arxiv.org/abs/2605.18593v1", "categories": "cs.CR, cs.AI, cs.RO"}
+{"custom_id": "2605.18583v1", "link": "https://arxiv.org/abs/2605.18583v1", "categories": "cs.SE, cs.AI, cs.CL, cs.CR"}
+{"custom_id": "2605.18549v1", "link": "https://arxiv.org/abs/2605.18549v1", "categories": "cs.CL, cs.CR"}
+{"custom_id": "2605.18515v1", "link": "https://arxiv.org/abs/2605.18515v1", "categories": "cs.DC"}
+{"custom_id": "2605.06933v2", "link": "https://arxiv.org/abs/2605.06933v2", "categories": "cs.LG, cs.CR, cs.MA"}
+{"custom_id": "2506.04105v2", "link": "https://arxiv.org/abs/2506.04105v2", "categories": "quant-ph, cs.CR, cs.DM"}
+{"custom_id": "2605.18484v1", "link": "https://arxiv.org/abs/2605.18484v1", "categories": "cs.CR"}
+{"custom_id": "2604.25355v2", "link": "https://arxiv.org/abs/2604.25355v2", "categories": "cs.LO"}
+{"custom_id": "2605.18930v1", "link": "https://arxiv.org/abs/2605.18930v1", "categories": "cs.CR, cs.AI, cs.LG"}
+{"custom_id": "2605.18437v1", "link": "https://arxiv.org/abs/2605.18437v1", "categories": "cs.LG, cs.DC"}
+{"custom_id": "2605.20258v1", "link": "https://arxiv.org/abs/2605.20258v1", "categories": "cs.LG, cs.AI, cs.CR"}
+{"custom_id": "2605.18415v1", "link": "https://arxiv.org/abs/2605.18415v1", "categories": "cs.DC"}
+{"custom_id": "2605.18414v1", "link": "https://arxiv.org/abs/2605.18414v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.18397v1", "link": "https://arxiv.org/abs/2605.18397v1", "categories": "cs.DC"}
+{"custom_id": "2605.18928v1", "link": "https://arxiv.org/abs/2605.18928v1", "categories": "quant-ph, cs.CR, eess.SP"}
+{"custom_id": "2605.18361v1", "link": "https://arxiv.org/abs/2605.18361v1", "categories": "cs.DC, cs.AR"}
+{"custom_id": "2603.21652v2", "link": "https://arxiv.org/abs/2603.21652v2", "categories": "cs.CR"}
+{"custom_id": "2605.23998v1", "link": "https://arxiv.org/abs/2605.23998v1", "categories": "cs.AR, cs.DC, cs.DM"}
+{"custom_id": "2605.27416v1", "link": "https://arxiv.org/abs/2605.27416v1", "categories": "quant-ph, cs.AI, cs.DC, cs.LG"}
+{"custom_id": "2605.18314v1", "link": "https://arxiv.org/abs/2605.18314v1", "categories": "cs.NI, cs.AR"}
+{"custom_id": "2604.18652v2", "link": "https://arxiv.org/abs/2604.18652v2", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.18227v1", "link": "https://arxiv.org/abs/2605.18227v1", "categories": "cs.DC"}
+{"custom_id": "2508.14769v2", "link": "https://arxiv.org/abs/2508.14769v2", "categories": "cs.LG, cs.DC"}
+{"custom_id": "2604.18248v2", "link": "https://arxiv.org/abs/2604.18248v2", "categories": "cs.CR, cs.CL"}
+{"custom_id": "2506.09702v2", "link": "https://arxiv.org/abs/2506.09702v2", "categories": "cs.SE, cs.CR"}
+{"custom_id": "2506.08482v2", "link": "https://arxiv.org/abs/2506.08482v2", "categories": "cs.CR"}
+{"custom_id": "2605.18174v1", "link": "https://arxiv.org/abs/2605.18174v1", "categories": "cs.LG, cs.DC, math.OC, stat.ML"}
+{"custom_id": "2605.18171v1", "link": "https://arxiv.org/abs/2605.18171v1", "categories": "cs.DC"}
+{"custom_id": "2605.18168v1", "link": "https://arxiv.org/abs/2605.18168v1", "categories": "cs.CR, cs.SD"}
+{"custom_id": "2605.18133v1", "link": "https://arxiv.org/abs/2605.18133v1", "categories": "cs.CR, cs.AI, cs.HC, cs.IR"}
+{"custom_id": "2605.18104v1", "link": "https://arxiv.org/abs/2605.18104v1", "categories": "cs.AI, cs.CR"}
+{"custom_id": "2602.21529v3", "link": "https://arxiv.org/abs/2602.21529v3", "categories": "cs.CR"}
+{"custom_id": "2605.18086v1", "link": "https://arxiv.org/abs/2605.18086v1", "categories": "cs.DC"}
+{"custom_id": "2605.18066v1", "link": "https://arxiv.org/abs/2605.18066v1", "categories": "cs.OS, cs.DC"}
+{"custom_id": "2605.18053v1", "link": "https://arxiv.org/abs/2605.18053v1", "categories": "cs.LG, cs.CL, cs.CR, cs.PF"}
+{"custom_id": "2601.04281v2", "link": "https://arxiv.org/abs/2601.04281v2", "categories": "cs.CR"}
+{"custom_id": "2605.17971v1", "link": "https://arxiv.org/abs/2605.17971v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.18919v1", "link": "https://arxiv.org/abs/2605.18919v1", "categories": "cs.CR, cs.AI, cs.LG"}
+{"custom_id": "2605.17961v1", "link": "https://arxiv.org/abs/2605.17961v1", "categories": "cs.DC"}
+{"custom_id": "2605.17960v1", "link": "https://arxiv.org/abs/2605.17960v1", "categories": "cs.CR"}
+{"custom_id": "2605.17955v1", "link": "https://arxiv.org/abs/2605.17955v1", "categories": "cs.CR"}
+{"custom_id": "2605.15338v2", "link": "https://arxiv.org/abs/2605.15338v2", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.17944v1", "link": "https://arxiv.org/abs/2605.17944v1", "categories": "quant-ph, cs.DC"}
+{"custom_id": "2605.18918v1", "link": "https://arxiv.org/abs/2605.18918v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2511.12710v2", "link": "https://arxiv.org/abs/2511.12710v2", "categories": "cs.CL, cs.CR"}
+{"custom_id": "2605.17923v1", "link": "https://arxiv.org/abs/2605.17923v1", "categories": "cs.DC, cs.AI, cs.LG"}
+{"custom_id": "2605.17909v1", "link": "https://arxiv.org/abs/2605.17909v1", "categories": "cs.AI, cs.LO"}
+{"custom_id": "2605.17891v1", "link": "https://arxiv.org/abs/2605.17891v1", "categories": "cs.CR"}
+{"custom_id": "2510.10140v2", "link": "https://arxiv.org/abs/2510.10140v2", "categories": "cs.LG, cs.CR, stat.ML"}
+{"custom_id": "2605.17879v1", "link": "https://arxiv.org/abs/2605.17879v1", "categories": "cs.DC, cs.AI, cs.LG"}
+{"custom_id": "2504.14965v2", "link": "https://arxiv.org/abs/2504.14965v2", "categories": "cs.CR"}
+{"custom_id": "2605.17821v1", "link": "https://arxiv.org/abs/2605.17821v1", "categories": "cs.DC, cs.AI"}
+{"custom_id": "2605.18915v1", "link": "https://arxiv.org/abs/2605.18915v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2604.15851v3", "link": "https://arxiv.org/abs/2604.15851v3", "categories": "cs.LG, cs.AI, cs.CR"}
+{"custom_id": "2001.04235v6", "link": "https://arxiv.org/abs/2001.04235v6", "categories": "cs.DC"}
+{"custom_id": "2605.15641v2", "link": "https://arxiv.org/abs/2605.15641v2", "categories": "cs.RO, cs.CR"}
+{"custom_id": "2605.17757v1", "link": "https://arxiv.org/abs/2605.17757v1", "categories": "cs.LG, cs.AI, cs.DC, cs.PF"}
+{"custom_id": "2601.07122v2", "link": "https://arxiv.org/abs/2601.07122v2", "categories": "cs.CR, cs.AI, cs.LG"}
+{"custom_id": "2504.02676v2", "link": "https://arxiv.org/abs/2504.02676v2", "categories": "cs.DC"}
+{"custom_id": "2605.17707v1", "link": "https://arxiv.org/abs/2605.17707v1", "categories": "cs.CR"}
+{"custom_id": "2605.17703v1", "link": "https://arxiv.org/abs/2605.17703v1", "categories": "cs.CR, cs.HC"}
+{"custom_id": "2605.17685v1", "link": "https://arxiv.org/abs/2605.17685v1", "categories": "cs.CV, cs.AI, cs.CR, eess.SP, eess.SY"}
+{"custom_id": "2605.18913v1", "link": "https://arxiv.org/abs/2605.18913v1", "categories": "cs.CR, cs.AI, cs.LG"}
+{"custom_id": "2605.17634v1", "link": "https://arxiv.org/abs/2605.17634v1", "categories": "cs.CR, cs.CL, cs.CY"}
+{"custom_id": "2605.17573v1", "link": "https://arxiv.org/abs/2605.17573v1", "categories": "cs.CV, cs.CR"}
+{"custom_id": "2605.17530v1", "link": "https://arxiv.org/abs/2605.17530v1", "categories": "cs.CR, cs.AI, cs.LG, cs.NI"}
+{"custom_id": "2605.18908v1", "link": "https://arxiv.org/abs/2605.18908v1", "categories": "cs.CR, cs.AI, cs.LG"}
+{"custom_id": "2605.18907v1", "link": "https://arxiv.org/abs/2605.18907v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.17505v1", "link": "https://arxiv.org/abs/2605.17505v1", "categories": "cs.CR, cs.SC, math.NT"}
+{"custom_id": "2511.04472v3", "link": "https://arxiv.org/abs/2511.04472v3", "categories": "cs.CR"}
+{"custom_id": "2605.17453v1", "link": "https://arxiv.org/abs/2605.17453v1", "categories": "cs.CR, cs.CL"}
+{"custom_id": "2605.17450v1", "link": "https://arxiv.org/abs/2605.17450v1", "categories": "cs.SE, cs.AI, cs.CL, cs.CR"}
+{"custom_id": "2304.10726v3", "link": "https://arxiv.org/abs/2304.10726v3", "categories": "cs.CR, cs.ET, cs.LG, cs.SE"}
+{"custom_id": "2605.17432v1", "link": "https://arxiv.org/abs/2605.17432v1", "categories": "cs.LG, cs.CR"}
+{"custom_id": "2605.17425v1", "link": "https://arxiv.org/abs/2605.17425v1", "categories": "q-fin.GN, econ.GN, q-fin.TR"}
+{"custom_id": "2503.16783v4", "link": "https://arxiv.org/abs/2503.16783v4", "categories": "cs.CR, cs.DC"}
+{"custom_id": "2605.17413v1", "link": "https://arxiv.org/abs/2605.17413v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.17406v1", "link": "https://arxiv.org/abs/2605.17406v1", "categories": "cs.CR"}
+{"custom_id": "2605.17404v1", "link": "https://arxiv.org/abs/2605.17404v1", "categories": "cs.DS, cs.CR, math.NT, math.ST, quant-ph"}
+{"custom_id": "2605.17401v1", "link": "https://arxiv.org/abs/2605.17401v1", "categories": "cs.DC, cs.PL"}
+{"custom_id": "2605.17390v1", "link": "https://arxiv.org/abs/2605.17390v1", "categories": "cs.SE, cs.LG, cs.LO"}
+{"custom_id": "2602.03012v2", "link": "https://arxiv.org/abs/2602.03012v2", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.17380v1", "link": "https://arxiv.org/abs/2605.17380v1", "categories": "cs.AI, cs.CR, cs.LG"}
+{"custom_id": "2605.23989v1", "link": "https://arxiv.org/abs/2605.23989v1", "categories": "cs.AI, cs.CL, cs.CR"}
+{"custom_id": "2604.23538v3", "link": "https://arxiv.org/abs/2604.23538v3", "categories": "cs.CR, cs.CY"}
+{"custom_id": "2604.23437v2", "link": "https://arxiv.org/abs/2604.23437v2", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2605.17358v1", "link": "https://arxiv.org/abs/2605.17358v1", "categories": "cs.CR"}
+{"custom_id": "2604.19219v2", "link": "https://arxiv.org/abs/2604.19219v2", "categories": "cs.CR, cs.AI, cs.DC, cs.LG"}
+{"custom_id": "2605.23988v1", "link": "https://arxiv.org/abs/2605.23988v1", "categories": "cs.DC, cs.LG"}
+{"custom_id": "2605.17329v1", "link": "https://arxiv.org/abs/2605.17329v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.17325v1", "link": "https://arxiv.org/abs/2605.17325v1", "categories": "cs.CR"}
+{"custom_id": "2605.17324v1", "link": "https://arxiv.org/abs/2605.17324v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2309.16682v2", "link": "https://arxiv.org/abs/2309.16682v2", "categories": "cs.DC, cs.DS, cs.PF"}
+{"custom_id": "2605.17288v1", "link": "https://arxiv.org/abs/2605.17288v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.18892v1", "link": "https://arxiv.org/abs/2605.18892v1", "categories": "cs.LG, cs.AI, cs.DC"}
+{"custom_id": "2601.21531v2", "link": "https://arxiv.org/abs/2601.21531v2", "categories": "cs.CR, cs.AI, cs.CV"}
+{"custom_id": "2605.17222v1", "link": "https://arxiv.org/abs/2605.17222v1", "categories": "cs.CR"}
+{"custom_id": "2605.17221v1", "link": "https://arxiv.org/abs/2605.17221v1", "categories": "cs.GT"}
+{"custom_id": "2401.14278v3", "link": "https://arxiv.org/abs/2401.14278v3", "categories": "cs.DC"}
+{"custom_id": "2605.17219v1", "link": "https://arxiv.org/abs/2605.17219v1", "categories": "cs.CR, cs.AI, cs.LG, cs.NI, eess.SP"}
+{"custom_id": "2602.06655v2", "link": "https://arxiv.org/abs/2602.06655v2", "categories": "cs.CR, cs.DC"}
+{"custom_id": "2605.09817v2", "link": "https://arxiv.org/abs/2605.09817v2", "categories": "cs.SE, cs.CR"}
+{"custom_id": "2605.17201v1", "link": "https://arxiv.org/abs/2605.17201v1", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2508.15100v2", "link": "https://arxiv.org/abs/2508.15100v2", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2512.08096v3", "link": "https://arxiv.org/abs/2512.08096v3", "categories": "cs.GT"}
+{"custom_id": "2502.16691v2", "link": "https://arxiv.org/abs/2502.16691v2", "categories": "cs.CL, cs.DC, cs.MA"}
+{"custom_id": "2605.17163v1", "link": "https://arxiv.org/abs/2605.17163v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2602.14211v2", "link": "https://arxiv.org/abs/2602.14211v2", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2510.06404v2", "link": "https://arxiv.org/abs/2510.06404v2", "categories": "cs.DC"}
+{"custom_id": "2605.09124v2", "link": "https://arxiv.org/abs/2605.09124v2", "categories": "cs.CR"}
+{"custom_id": "2605.17128v1", "link": "https://arxiv.org/abs/2605.17128v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.17116v1", "link": "https://arxiv.org/abs/2605.17116v1", "categories": "cs.CR"}
+{"custom_id": "2309.05646v2", "link": "https://arxiv.org/abs/2309.05646v2", "categories": "cs.CR, cs.LG, cs.NI"}
+{"custom_id": "2605.22850v1", "link": "https://arxiv.org/abs/2605.22850v1", "categories": "cs.DC, cs.AI"}
+{"custom_id": "2605.17075v1", "link": "https://arxiv.org/abs/2605.17075v1", "categories": "cs.CR"}
+{"custom_id": "2605.17062v1", "link": "https://arxiv.org/abs/2605.17062v1", "categories": "cs.CR, cs.LG, cs.SE"}
+{"custom_id": "2605.17061v1", "link": "https://arxiv.org/abs/2605.17061v1", "categories": "cs.CR, quant-ph"}
+{"custom_id": "2501.12709v2", "link": "https://arxiv.org/abs/2501.12709v2", "categories": "quant-ph, cs.AI, cs.CR, cs.DC"}
+{"custom_id": "2604.12254v2", "link": "https://arxiv.org/abs/2604.12254v2", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.17034v1", "link": "https://arxiv.org/abs/2605.17034v1", "categories": "cs.LG, cs.AI, cs.CR"}
+{"custom_id": "2212.05155v2", "link": "https://arxiv.org/abs/2212.05155v2", "categories": "cs.DC, cs.LG"}
+{"custom_id": "2605.16976v1", "link": "https://arxiv.org/abs/2605.16976v1", "categories": "cs.CR"}
+{"custom_id": "2501.15303v3", "link": "https://arxiv.org/abs/2501.15303v3", "categories": "cs.LO, cs.DB"}
+{"custom_id": "2605.16912v1", "link": "https://arxiv.org/abs/2605.16912v1", "categories": "cs.CR"}
+{"custom_id": "2605.16908v1", "link": "https://arxiv.org/abs/2605.16908v1", "categories": "cs.ET, cs.CR, cs.CV"}
+{"custom_id": "2603.02642v2", "link": "https://arxiv.org/abs/2603.02642v2", "categories": "cs.RO, cs.DC, eess.SY"}
+{"custom_id": "2605.16867v1", "link": "https://arxiv.org/abs/2605.16867v1", "categories": "cs.DC"}
+{"custom_id": "2605.16853v1", "link": "https://arxiv.org/abs/2605.16853v1", "categories": "cs.GT"}
+{"custom_id": "2605.19373v1", "link": "https://arxiv.org/abs/2605.19373v1", "categories": "cs.DC, cs.AI, cs.LG"}
+{"custom_id": "2506.01245v3", "link": "https://arxiv.org/abs/2506.01245v3", "categories": "cs.CR"}
+{"custom_id": "2605.16798v1", "link": "https://arxiv.org/abs/2605.16798v1", "categories": "cs.CR, cs.SE"}
+{"custom_id": "2605.16796v1", "link": "https://arxiv.org/abs/2605.16796v1", "categories": "cs.CR, cs.CV"}
+{"custom_id": "2505.16831v3", "link": "https://arxiv.org/abs/2505.16831v3", "categories": "cs.CL, cs.AI, cs.CR, cs.LG"}
+{"custom_id": "2605.16744v1", "link": "https://arxiv.org/abs/2605.16744v1", "categories": "cs.DC, cs.IR, eess.SP"}
+{"custom_id": "2601.05569v3", "link": "https://arxiv.org/abs/2601.05569v3", "categories": "cs.DC"}
+{"custom_id": "2605.16714v1", "link": "https://arxiv.org/abs/2605.16714v1", "categories": "cs.AI, cs.CR"}
+{"custom_id": "2605.16707v1", "link": "https://arxiv.org/abs/2605.16707v1", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2605.16689v1", "link": "https://arxiv.org/abs/2605.16689v1", "categories": "eess.SP, cs.NI"}
+{"custom_id": "2605.16678v1", "link": "https://arxiv.org/abs/2605.16678v1", "categories": "quant-ph, cs.CR, eess.SP"}
+{"custom_id": "2605.16656v1", "link": "https://arxiv.org/abs/2605.16656v1", "categories": "cs.CR, cs.CY"}
+{"custom_id": "2006.08444v2", "link": "https://arxiv.org/abs/2006.08444v2", "categories": "cs.CR, math.NT"}
+{"custom_id": "2605.16647v1", "link": "https://arxiv.org/abs/2605.16647v1", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2605.16637v1", "link": "https://arxiv.org/abs/2605.16637v1", "categories": "cs.DC"}
+{"custom_id": "2605.16617v1", "link": "https://arxiv.org/abs/2605.16617v1", "categories": "cs.DC"}
+{"custom_id": "2605.07263v2", "link": "https://arxiv.org/abs/2605.07263v2", "categories": "eess.SP, cs.AI, cs.DC, cs.LG, stat.ML"}
+{"custom_id": "2605.18873v1", "link": "https://arxiv.org/abs/2605.18873v1", "categories": "cs.CR, cs.AI, cs.LG"}
+{"custom_id": "2605.16589v1", "link": "https://arxiv.org/abs/2605.16589v1", "categories": "cs.CR"}
+{"custom_id": "2603.20421v2", "link": "https://arxiv.org/abs/2603.20421v2", "categories": "cs.CR, cs.AR, cs.LG, math.NA"}
+{"custom_id": "2605.16563v1", "link": "https://arxiv.org/abs/2605.16563v1", "categories": "cs.CR, cs.MM, eess.IV"}
+{"custom_id": "2605.16561v1", "link": "https://arxiv.org/abs/2605.16561v1", "categories": "cs.PL, cs.CR"}
+{"custom_id": "2605.16549v1", "link": "https://arxiv.org/abs/2605.16549v1", "categories": "cs.CR, cs.CE"}
+{"custom_id": "2605.16255v1", "link": "https://arxiv.org/abs/2605.16255v1", "categories": "cs.DC, cs.AI"}
+{"custom_id": "2605.04336v2", "link": "https://arxiv.org/abs/2605.04336v2", "categories": "econ.TH, cs.CR, cs.GT"}
+{"custom_id": "2605.16227v1", "link": "https://arxiv.org/abs/2605.16227v1", "categories": "cs.CR"}
+{"custom_id": "2605.16184v1", "link": "https://arxiv.org/abs/2605.16184v1", "categories": "cs.DC, cs.LG"}
+{"custom_id": "2605.16182v1", "link": "https://arxiv.org/abs/2605.16182v1", "categories": "cs.DC"}
+{"custom_id": "2605.16169v1", "link": "https://arxiv.org/abs/2605.16169v1", "categories": "cs.LO, cs.MS, physics.chem-ph"}
+{"custom_id": "2605.16167v1", "link": "https://arxiv.org/abs/2605.16167v1", "categories": "cs.CR, cs.CY, cs.DC, cs.SE"}
+{"custom_id": "2605.14230v2", "link": "https://arxiv.org/abs/2605.14230v2", "categories": "cs.CR, eess.SY"}
+{"custom_id": "2508.06524v2", "link": "https://arxiv.org/abs/2508.06524v2", "categories": "cs.CL, cs.AI, cs.CY, cs.DC, cs.LG"}
+{"custom_id": "2605.16098v1", "link": "https://arxiv.org/abs/2605.16098v1", "categories": "cs.CR, cs.DC"}
+{"custom_id": "2605.16090v1", "link": "https://arxiv.org/abs/2605.16090v1", "categories": "cs.CR, cs.CV"}
+{"custom_id": "2605.16082v1", "link": "https://arxiv.org/abs/2605.16082v1", "categories": "cs.DC, physics.ao-ph, physics.comp-ph, physics.flu-dyn"}
+{"custom_id": "2605.16058v1", "link": "https://arxiv.org/abs/2605.16058v1", "categories": "cs.DC, cs.MS"}
+{"custom_id": "2605.10867v2", "link": "https://arxiv.org/abs/2605.10867v2", "categories": "cs.CR, cs.AI, cs.CV, cs.LG, cs.NI"}
+{"custom_id": "2508.15601v2", "link": "https://arxiv.org/abs/2508.15601v2", "categories": "cs.DC, cs.PF"}
+{"custom_id": "2605.16035v1", "link": "https://arxiv.org/abs/2605.16035v1", "categories": "cs.CR, cs.AI, cs.MA"}
+{"custom_id": "2605.15991v1", "link": "https://arxiv.org/abs/2605.15991v1", "categories": "cs.CR, cs.CY, cs.ET, cs.HC, econ.GN"}
+{"custom_id": "2605.15984v1", "link": "https://arxiv.org/abs/2605.15984v1", "categories": "cs.SD, cs.AI, cs.CR"}
+{"custom_id": "2605.16472v1", "link": "https://arxiv.org/abs/2605.16472v1", "categories": "cs.LO, cs.AR"}
+{"custom_id": "2605.15967v1", "link": "https://arxiv.org/abs/2605.15967v1", "categories": "cs.AI, cs.CV, cs.LO"}
+{"custom_id": "2605.15962v1", "link": "https://arxiv.org/abs/2605.15962v1", "categories": "cs.CR"}
+{"custom_id": "2605.16471v1", "link": "https://arxiv.org/abs/2605.16471v1", "categories": "cs.CR"}
+{"custom_id": "2605.15934v1", "link": "https://arxiv.org/abs/2605.15934v1", "categories": "cs.CR, cs.CY"}
+{"custom_id": "2308.06822v3", "link": "https://arxiv.org/abs/2308.06822v3", "categories": "cs.LG, cs.AI, cs.CR, math.OC"}
+{"custom_id": "2605.18868v1", "link": "https://arxiv.org/abs/2605.18868v1", "categories": "cs.CR, cs.AI, cs.CV, cs.LG"}
+{"custom_id": "2605.15889v1", "link": "https://arxiv.org/abs/2605.15889v1", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2605.15885v1", "link": "https://arxiv.org/abs/2605.15885v1", "categories": "cs.CR"}
+{"custom_id": "2601.21636v3", "link": "https://arxiv.org/abs/2601.21636v3", "categories": "cs.LG, cs.CR, stat.ML"}
+{"custom_id": "2605.13246v2", "link": "https://arxiv.org/abs/2605.13246v2", "categories": "cs.CR, cs.SE"}
+{"custom_id": "2604.09631v2", "link": "https://arxiv.org/abs/2604.09631v2", "categories": "cs.DC, cs.AI"}
+{"custom_id": "2412.05887v3", "link": "https://arxiv.org/abs/2412.05887v3", "categories": "cs.CR, cs.CY, cs.SE"}
+{"custom_id": "2605.15866v1", "link": "https://arxiv.org/abs/2605.15866v1", "categories": "cs.DC"}
+{"custom_id": "2512.19179v3", "link": "https://arxiv.org/abs/2512.19179v3", "categories": "cs.DC"}
+{"custom_id": "2510.13842v2", "link": "https://arxiv.org/abs/2510.13842v2", "categories": "cs.CL, cs.AI, cs.CR"}
+{"custom_id": "2603.04261v2", "link": "https://arxiv.org/abs/2603.04261v2", "categories": "cs.CR"}
+{"custom_id": "2605.15804v1", "link": "https://arxiv.org/abs/2605.15804v1", "categories": "cs.CR"}
+{"custom_id": "2605.15791v1", "link": "https://arxiv.org/abs/2605.15791v1", "categories": "cs.NI, eess.SY"}
+{"custom_id": "2605.15788v1", "link": "https://arxiv.org/abs/2605.15788v1", "categories": "cs.DC, cs.LG"}
+{"custom_id": "2605.15774v1", "link": "https://arxiv.org/abs/2605.15774v1", "categories": "cs.CR"}
+{"custom_id": "2605.16462v1", "link": "https://arxiv.org/abs/2605.16462v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.09033v3", "link": "https://arxiv.org/abs/2605.09033v3", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2512.09502v2", "link": "https://arxiv.org/abs/2512.09502v2", "categories": "cs.DC, cs.NE, physics.comp-ph, q-bio.NC"}
+{"custom_id": "2604.16400v2", "link": "https://arxiv.org/abs/2604.16400v2", "categories": "cs.DC, cs.AI, cs.LG"}
+{"custom_id": "2412.12636v3", "link": "https://arxiv.org/abs/2412.12636v3", "categories": "cs.DC, cs.AI, cs.LG, cs.PF"}
+{"custom_id": "2410.02832v2", "link": "https://arxiv.org/abs/2410.02832v2", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.15704v1", "link": "https://arxiv.org/abs/2605.15704v1", "categories": "cs.DC"}
+{"custom_id": "2605.15695v1", "link": "https://arxiv.org/abs/2605.15695v1", "categories": "cs.DC"}
+{"custom_id": "2605.00424v2", "link": "https://arxiv.org/abs/2605.00424v2", "categories": "cs.CR, cs.AI, cs.MA, cs.SE"}
+{"custom_id": "2605.01970v3", "link": "https://arxiv.org/abs/2605.01970v3", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2602.00364v4", "link": "https://arxiv.org/abs/2602.00364v4", "categories": "cs.CR"}
+{"custom_id": "2605.15648v1", "link": "https://arxiv.org/abs/2605.15648v1", "categories": "cs.CR"}
+{"custom_id": "2605.15646v1", "link": "https://arxiv.org/abs/2605.15646v1", "categories": "cs.NI"}
+{"custom_id": "2605.16455v1", "link": "https://arxiv.org/abs/2605.16455v1", "categories": "cs.CR"}
+{"custom_id": "2605.15617v1", "link": "https://arxiv.org/abs/2605.15617v1", "categories": "cs.DC, cs.AI"}
+{"custom_id": "2603.14141v2", "link": "https://arxiv.org/abs/2603.14141v2", "categories": "cs.GT, cs.MA"}
+{"custom_id": "2605.15598v1", "link": "https://arxiv.org/abs/2605.15598v1", "categories": "cs.CR, cs.SE"}
+{"custom_id": "2605.14859v2", "link": "https://arxiv.org/abs/2605.14859v2", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.15569v1", "link": "https://arxiv.org/abs/2605.15569v1", "categories": "cs.CR, cs.AI, cs.SE"}
+{"custom_id": "2603.13864v2", "link": "https://arxiv.org/abs/2603.13864v2", "categories": "cs.CR, cs.CV"}
+{"custom_id": "2605.09994v2", "link": "https://arxiv.org/abs/2605.09994v2", "categories": "cs.DC, cs.LG"}
+{"custom_id": "2605.18862v1", "link": "https://arxiv.org/abs/2605.18862v1", "categories": "cs.LG, cs.AI, cs.CR"}
+{"custom_id": "2605.15520v1", "link": "https://arxiv.org/abs/2605.15520v1", "categories": "cs.LG, cs.AI, cs.DC"}
+{"custom_id": "2505.11708v3", "link": "https://arxiv.org/abs/2505.11708v3", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2605.15506v1", "link": "https://arxiv.org/abs/2605.15506v1", "categories": "cs.LO"}
+{"custom_id": "2605.12942v2", "link": "https://arxiv.org/abs/2605.12942v2", "categories": "cs.CR"}
+{"custom_id": "2605.15503v1", "link": "https://arxiv.org/abs/2605.15503v1", "categories": "cs.CR"}
+{"custom_id": "2603.28680v3", "link": "https://arxiv.org/abs/2603.28680v3", "categories": "cs.NI"}
+{"custom_id": "2504.11320v3", "link": "https://arxiv.org/abs/2504.11320v3", "categories": "cs.LG, cs.AI, cs.DC, math.OC, stat.ML"}
+{"custom_id": "2605.15446v1", "link": "https://arxiv.org/abs/2605.15446v1", "categories": "cs.NI"}
+{"custom_id": "2406.18944v7", "link": "https://arxiv.org/abs/2406.18944v7", "categories": "cs.CV, cs.AI, cs.CR"}
+{"custom_id": "2504.13850v2", "link": "https://arxiv.org/abs/2504.13850v2", "categories": "cs.DC, cs.LG"}
+{"custom_id": "2605.15437v1", "link": "https://arxiv.org/abs/2605.15437v1", "categories": "cs.DC"}
+{"custom_id": "2605.23983v1", "link": "https://arxiv.org/abs/2605.23983v1", "categories": "cs.AI, cs.LO, cs.SI"}
+{"custom_id": "2605.16436v1", "link": "https://arxiv.org/abs/2605.16436v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.15390v1", "link": "https://arxiv.org/abs/2605.15390v1", "categories": "cs.LO, cs.FL"}
+{"custom_id": "2605.15378v1", "link": "https://arxiv.org/abs/2605.15378v1", "categories": "cs.DC, astro-ph.IM"}
+{"custom_id": "2605.15345v1", "link": "https://arxiv.org/abs/2605.15345v1", "categories": "cs.CR"}
+{"custom_id": "2605.15335v1", "link": "https://arxiv.org/abs/2605.15335v1", "categories": "cs.DC, eess.SY"}
+{"custom_id": "2605.15329v1", "link": "https://arxiv.org/abs/2605.15329v1", "categories": "cs.CR"}
+{"custom_id": "2603.04459v3", "link": "https://arxiv.org/abs/2603.04459v3", "categories": "cs.CR, cs.AI, cs.SE"}
+{"custom_id": "2409.03897v3", "link": "https://arxiv.org/abs/2409.03897v3", "categories": "cs.LG, cs.DC"}
+{"custom_id": "2605.15281v1", "link": "https://arxiv.org/abs/2605.15281v1", "categories": "cs.CR, cs.AI"}
+{"custom_id": "2605.16421v1", "link": "https://arxiv.org/abs/2605.16421v1", "categories": "cs.LO, cs.AI"}
+{"custom_id": "2605.15249v1", "link": "https://arxiv.org/abs/2605.15249v1", "categories": "cs.CR, cs.LG"}
+{"custom_id": "2605.15248v1", "link": "https://arxiv.org/abs/2605.15248v1", "categories": "cs.SE, cs.CR"}
+{"custom_id": "2605.15247v1", "link": "https://arxiv.org/abs/2605.15247v1", "categories": "quant-ph, cs.CR, cs.IT"}
+{"custom_id": "2605.18858v1", "link": "https://arxiv.org/abs/2605.18858v1", "categories": "cs.LG, cs.AI, cs.GT, stat.ML"}
+{"custom_id": "2605.28845v1", "link": "https://arxiv.org/abs/2605.28845v1", "categories": "cs.DC, quant-ph"}
+{"custom_id": "2605.18853v1", "link": "https://arxiv.org/abs/2605.18853v1", "categories": "cs.LG, cs.CV, cs.DC"}
+{"custom_id": "2605.16407v1", "link": "https://arxiv.org/abs/2605.16407v1", "categories": "cs.LO, cs.CL, cs.CR, cs.PL"}
