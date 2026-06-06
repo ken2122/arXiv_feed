@@ -6,6 +6,8 @@ import requests
 import feedparser
 from typing import Pattern
 from utils.utils import load_state
+import random
+import time
 
 CATEGORIES = {
     "to_filter": [
@@ -76,10 +78,25 @@ def to_datetime(dt):
 # ===============================
 # arXiv API fetch
 # ===============================
+ARXIV_API = "https://export.arxiv.org/api/query"
 
-def fetch_arxiv_papers(max_results=500, last_run=datetime.fromisoformat("1999-01-01T00:00:00Z"), id_list=None):
+HEADERS = {
+    "User-Agent": "arxiv-paper-collector/1.0"
+}
+
+
+def fetch_arxiv_papers(
+    max_results=500,
+    last_run=datetime.fromisoformat("1999-01-01T00:00:00+00:00"),
+    id_list=None,
+):
     categories = CATEGORIES["to_filter"] + CATEGORIES["no_filter"]
-    query = " OR ".join([f"cat:{c}" for c in categories])
+
+    query = " OR ".join(
+        f"cat:{category}"
+        for category in categories
+    )
+
     params = {
         "search_query": query,
         "sortBy": "lastUpdatedDate",
@@ -91,22 +108,62 @@ def fetch_arxiv_papers(max_results=500, last_run=datetime.fromisoformat("1999-01
     if id_list:
         params["id_list"] = id_list
 
-    try:
-        response = requests.get(
-            "http://export.arxiv.org/api/query",
-            params=params,
-            timeout=60
-        )
-        response.raise_for_status()
-        feed = feedparser.parse(response.text)
-    except Exception as e:
-        print(str(e))
-        sys.exit()
+    # arXiv ToU: <= 1 request per 3 seconds
+    time.sleep(random.uniform(3, 10))
 
-    return [
-        e for e in feed.entries
-        if datetime.fromisoformat(e.updated) > last_run
-    ]
+    max_retries = 5
+
+    for attempt in range(max_retries):
+        try:
+            response = requests.get(
+                ARXIV_API,
+                params=params,
+                headers=HEADERS,
+                timeout=60,
+            )
+
+            if response.status_code == 429:
+                retry_after = response.headers.get("Retry-After")
+
+                if retry_after:
+                    wait = int(retry_after)
+                else:
+                    wait = min(300, 30 * (2 ** attempt))
+
+                print(
+                    f"arXiv rate limit hit "
+                    f"(attempt={attempt+1}/{max_retries}), "
+                    f"sleeping {wait}s..."
+                )
+
+                time.sleep(wait)
+                continue
+
+            response.raise_for_status()
+
+            feed = feedparser.parse(response.text)
+
+            return [
+                entry
+                for entry in feed.entries
+                if datetime.fromisoformat(entry.updated) > last_run
+            ]
+
+        except requests.RequestException as e:
+            if attempt == max_retries - 1:
+                raise
+
+            wait = min(300, 10 * (2 ** attempt))
+
+            print(
+                f"Request failed: {e} "
+                f"(attempt={attempt+1}/{max_retries}), "
+                f"retrying in {wait}s..."
+            )
+
+            time.sleep(wait)
+
+    raise RuntimeError("Failed to fetch arXiv feed after retries")
 
 # ===============================
 # Filtering
