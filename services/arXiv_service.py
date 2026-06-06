@@ -95,7 +95,7 @@ def fetch_arxiv_papers(max_results=500, last_run=datetime.fromisoformat("1999-01
         response = requests.get(
             "http://export.arxiv.org/api/query",
             params=params,
-            timeout=10
+            timeout=60
         )
         response.raise_for_status()
         feed = feedparser.parse(response.text)
